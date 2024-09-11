@@ -1,0 +1,27 @@
+Grateful Dead
+2-5-69
+
+Soldiers & Sailors Auditorium,
+Kansas City, Kansas
+
+SBD>MC>C>D>CD>EAC>SHN
+
+    (missing Lovelight)
+1.  Cryptical Envelopment-->
+2.  The Other One-->
+3.  Cryptical Envelopment//
+4.  //Dark Star-->
+5.  St. Stephen-->
+6.  The Eleven-->
+7.  Caution%-->
+8.  Feedback-->
+9.  We Bid You Goodnight
+
+
+tape warble @ 5:10 Caution
+
+Sound Forge was used to normalize the recording, remove a number of crackles 
+and discontinuities, and splice together an overlap in The Eleven.   
+
+thanks to Chuck Gannon 
+edits/encoding by J. Cotsman

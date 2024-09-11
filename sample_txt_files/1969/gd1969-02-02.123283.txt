@@ -1,0 +1,58 @@
+This is a tagged version of shnid: 123283
+
+Grateful Dead  
+February 2, 1969
+Labor Temple  
+Minneapolis, MN
+
+Recording Info:
+SBD -> Cassette Master -> Cassette -> Dat (44.1k)
+
+Transfer Info:
+Dat (Tascam DA-20) -> Tascam SS-R05 -> Adobe Audition v3.0 ->
+Samplitude Professional v11.2.1 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+January 1, 2013
+
+Notes:
+-- Disc change is seamless
+-- This is far from perfect but it's a lot better than it was
+-- Louie Louie tease following Good Morning Little Schoolgirl
+-- Bad cut from tape flip between The Eleven and Death Don't Have No Mercy
+-- Thanks to Joe B. Jones for his help with the pitch correction
+______________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Good Morning Little Schoolgirl
+102-d1t02 - Dark Star ->
+103-d1t03 - St. Stephen ->
+104-d1t04 - The Eleven ->
+105-d1t05 - //Death Don't Have No Mercy
+106-d2t01 - That's It For The Other One ->
+107-d2t02 - Turn On Your Lovelight
+______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac 
+files. If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. If you must 
+transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 1-01-13
+______________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    12:21.01      130714796 B   ---   --   ---xx   flac  0.5654  gd69-02-02d1t01.flac
+    15:37.48      165399740 B   ---   --   ---xx   flac  0.5798  gd69-02-02d1t02.flac
+     5:22.33       56878460 B   ---   --   ---xx   flac  0.5696  gd69-02-02d1t03.flac
+     9:48.12      103751468 B   ---   --   ---xx   flac  0.5744  gd69-02-02d1t04.flac
+     6:41.03       70743500 B   ---   --   ---xx   flac  0.5734  gd69-02-02d1t05.flac
+    17:08.74      181513292 B   ---   --   ---xx   flac  0.5824  gd69-02-02d2t01.flac
+    18:51.03      199515500 B   ---   --   ---xx   flac  0.5681  gd69-02-02d2t02.flac
+    85:50.24      908516756 B                            0.5739  (7 files)

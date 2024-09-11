@@ -1,0 +1,61 @@
+This is a tagged version of shnid: 120376
+
+Grateful Dead  
+August 30, 1969
+Family Dog At The Great Highway  
+San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> Cassette -> Dat
+
+Transfer Info:
+Dat (Tascam DA-20) -> Tascam SS-R05 -> Samplitude Professional v11.2.1 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+December 9, 2012
+
+Patch Info:
+AUD -> 4th Gen Cassette (shnid = 122231) supplies:
+Drums (4:58 - 5:30)
+
+Notes:
+-- Disc change is seamless
+______________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - China Cat Sunflower ->
+102-d1t02 - Doin' That Rag
+103-d1t03 - Morning Dew
+104-d1t04 - Easy Wind
+105-d2t01 - Dark Star ->
+106-d2t02 - Saint Stephen ->
+107-d2t03 - The Eleven ->
+108-d2t04 - Drums ->
+109-d2t05 - High Time
+______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 12-27-12
+_______________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:37.36       59531516 B   ---   --   ---xx   flac  0.6392  gd69-08-30d1t01.flac
+     8:25.68       89241980 B   ---   --   ---xx   flac  0.6009  gd69-08-30d1t02.flac
+    11:06.29      117550652 B   ---   --   ---xx   flac  0.5772  gd69-08-30d1t03.flac
+     8:26.15       89293724 B   ---   --   ---xx   flac  0.6139  gd69-08-30d1t04.flac
+    28:51.28      305414300 B   ---   --   ---xx   flac  0.5823  gd69-08-30d2t01.flac
+     6:25.41       68010476 B   ---   --   ---xx   flac  0.5841  gd69-08-30d2t02.flac
+     6:25.36       67998716 B   ---   --   ---xx   flac  0.6040  gd69-08-30d2t03.flac
+     5:48.73       61558940 B   ---   --   ---xx   flac  0.5688  gd69-08-30d2t04.flac
+     6:32.06       69162956 B   ---   --   ---xx   flac  0.5232  gd69-08-30d2t05.flac
+    87:39.32      927763260 B                            0.5866  (9 files)

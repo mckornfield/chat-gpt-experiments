@@ -1,0 +1,145 @@
+Grateful Dead
+
+July 11, 1969
+
+New York State Pavilion
+
+Flushing Meadows, Queens, New York City, NY
+
+Recording Info: 
+SBD Master Cassette > DAT (Panasonic 3700) > 
+
+
+
+Transfer Info: Delta DiO 2496 sound card > 
+HD > CD-R >
+
+
+
+Mastering Info: 
+CD WAV > Cool Edit > xACT 2.25 FLAC 8
+
+Mastering by Seth Kaplan (alligator69@optonline.net) 
+March 02, 2014
+
+
+
+
+Disc 1.
+
+
+1.	Intro >	
+2.	The Story of a Brick >	         
+3.	Dupree's Diamond Blues >	 
+4.	Dire Wolf	                 
+5.	Hard To Handle	                 
+6.	Silver Threads & Golden Needles	 
+7.	Casey Jones	                 
+8.	Sittin' On Top of the World >	 
+9.	Big Boss Man	                 
+10.	Mama Tried	                 
+11.	High Time//	                 
+
+
+
+
+Disc 2.
+
+
+01.	Alligator >	                 
+02.	Drums >	                         
+03.	Jam >	                        
+04.	The Other One >	                 
+05.	Death Don't Have No Mercy >	
+06.	Turn On Your Love Light//	 
+
+
+
+
+
+     
+
+shntool 3.0.4 output:
+
+     length     expanded size   cdr  WAVE problems fmt   ratio   filename
+     
+     1:55.48       20398940 B   ---   --   ---xx   flac  0.6137  gd1969-07-11d1t01.flac
+ 
+     2:46.74       29456492 B   ---   --   ---xx   flac  0.6295  gd1969-07-11d1t02.flac
+ 
+     4:03.35       42947564 B   ---   --   ---xx   flac  0.6536  gd1969-07-11d1t03.flac
+ 
+     3:13.43       34146380 B   ---   --   ---xx   flac  0.6501  gd1969-07-11d1t04.flac
+
+     4:09.42       44022428 B   ---   --   ---xx   flac  0.6174  gd1969-07-11d1t05.flac
+
+     3:45.35       39772364 B   ---   --   ---xx   flac  0.6205  gd1969-07-11d1t06.flac
+
+     6:00.38       63593420 B   ---   --   ---xx   flac  0.6351  gd1969-07-11d1t07.flac
+
+     3:21.74       35630492 B   ---   --   ---xx   flac  0.6530  gd1969-07-11d1t08.flac
+
+     5:51.47       62026988 B   ---   --   ---xx   flac  0.6355  gd1969-07-11d1t09.flac
+
+     2:45.26       29167196 B   ---   --   ---xx   flac  0.6468  gd1969-07-11d1t10.flac
+
+     3:58.63       42131420 B   ---   --   ---xx   flac  0.5912  gd1969-07-11d1t11.flac
+
+     3:43.30       39407804 B   ---   --   ---xx   flac  0.6060  gd1969-07-11d2t01.flac
+
+     6:41.30       70807004 B   ---   --   ---xx   flac  0.6017  gd1969-07-11d2t02.flac
+
+    14:06.30      149305004 B   ---   --   ---xx   flac  0.6296  gd1969-07-11d2t03.flac
+
+     8:01.52       84970748 B   ---   --   ---xx   flac  0.6459  gd1969-07-11d2t04.flac
+
+    10:50.63      114808220 B   ---   --   ---xx   flac  0.6045  gd1969-07-11d2t05.flac
+
+     9:01.73       95604140 B   ---   --   ---xx   flac  0.6366  gd1969-07-11d2t06.flac
+
+    94:18.53      998196604 B                            0.6268  (17 files)
+
+
+
+
+Thanks to anonymous for the discs
+
+
+
+Notes:
+
+This most recent source is MSC direct to DAT without the additional analog cassette 
+generation(s)
+of previously circulating versions. 
+
+
+
+Mastering Notes:
+
+Track editing, pitch correction, minor edits and sector boundary correction and 
+verification done by Seth Kaplan (alligator69@optonline.net) via CDWAV, Cool Edit 2k 
+and xACT 2.25 (X Audio Compression Toolkit), respectively. The 
+existing AUD patch 
+(see etree.org - http://db.etree.org/shninfo_detail.php?shnid=4644) is also used here and 
+has the following info: patch (Alligator > 01:36 of Drums) from AUD master > low-gen reel > 
+cassette > CD. Light EQ applied
+to the AUD segment included here with this latest SBD source. 
+
+
+Alligator = all AUD
+Drums = first 1:36 AUD, remaining 5:05 SBD
+
+Per shn ID 4644:
+patch by H.B., 7/01
+thanks to Uli for the AUD
+
+
+Deadlists comments: The soundboard cassette tape breaks off during
+High Time at the end of Side A; Side B cuts in during the drums after
+Alligator and breaks off during Lovelight.  The audience tape in
+circulation runs from Alligator into The Other One before breaking
+off.
+
+
+
+

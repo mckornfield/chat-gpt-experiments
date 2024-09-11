@@ -1,0 +1,71 @@
+This is a tagged version of shnid: 109641
+
+Grateful Dead 
+January 25, 1969
+Avalon Ballroom 
+San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> Dat (44.1k)
+
+Transfer Info:
+Dat (Sony R500) -> Sound Devices 744T -> Samplitude Professional v11.03 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+May 30, 2010
+
+Notes:
+-- The mix in Set 1 is a mess
+-- Beginning of Dark Star is cut
+-- Reel flip in Turn On Your Lovelight
+-- And We Bid You Good Night is cut at end
+-- Thanks to Rob Eaton for lending me his Dats
+________________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Dark Star ->
+102-d1t02 - St. Stephen ->
+103-d1t03 - The Eleven ->
+104-d1t04 - Turn On Your Lovelight
+
+--Set 2--
+201-d2t01 - Dupree's Diamond Blues ->
+202-d2t02 - Doin' That Rag ->
+203-d2t03 - Cosmic Charlie
+204-d2t04 - Alligator ->
+205-d2t05 - Drums ->
+206-d2t06 - Alligator ->
+207-d2t07 - Caution (Do Not Stop On Tracks) ->
+208-d2t08 - Feedback ->
+209-d2t09 - And We Bid You Good Night
+________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the headerof each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 9-03-10
+______________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+    14:06.58     149370860     ---   --    ---    gd69-01-25d1t01.wav
+     6:30.42      68894828     ---   --    ---    gd69-01-25d1t02.wav
+    10:36.11     112216316     ---   --    ---    gd69-01-25d1t03.wav
+    20:42.56     219220556     ---   --    ---    gd69-01-25d1t04.wav
+     4:11.22      44328188     ---   --    ---    gd69-01-25d2t01.wav
+     5:36.04      59279852     ---   --    ---    gd69-01-25d2t02.wav
+     7:29.06      79217756     ---   --    ---    gd69-01-25d2t03.wav
+     3:38.73      38626940     ---   --    ---    gd69-01-25d2t04.wav
+     2:16.55      24119804     ---   --    ---    gd69-01-25d2t05.wav
+     3:31.34      37300412     ---   --    ---    gd69-01-25d2t06.wav
+     6:10.29      65336252     ---   --    ---    gd69-01-25d2t07.wav
+     4:04.41      43138076     ---   --    ---    gd69-01-25d2t08.wav
+     2:32.28      26878700     ---   --    ---    gd69-01-25d2t09.wav
+    91:27.09     967928540 B                      (totals for 13 files)

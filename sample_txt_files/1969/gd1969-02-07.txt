@@ -1,0 +1,51 @@
+Grateful Dead
+02/07/69b
+Stanley Theater
+Pittsburg, PA
+
+Late Show
+
+Source: SBD>MC(Bear Owsley)>DAT(Rob Eaton)>(Jim Wise)HHb>CDR 
+
+Conversion: EAC(secure)>CD WAV>Cool Edit Pro>SHN(seekable)
+
+SET 
+CD 1 {61:40.22}  
+01. George Washington Story {1:24.45}
+02. Cryptical Envelopment-> {1:54.64}
+03. The Other One-> {7:27.06}
+04. Cryptical Envelopment-> {9:04.20}
+05. Death Don't Have No Mercy {11:32.61}
+06. Alligator-> {3:45.63}
+07. Drums-> {3:51.06}
+08. Jam-> {1:04.09}
+09. China Cat jam-> {1:15.51}
+10. Primal Alligator Jam-> {7:34.62}
+11. Caution (Do Not Stop On Tracks)-> {6:32.65}
+12. Feedback-> {4:24.13}
+13. And We Bid You Good Night {1:48.07}
+ 
+COMMENTS:   Late Show.  Recorded by Bear (Owsley) on a "Concord" cassette deck model unknown 
+...laid on an Ampex 90-minute cassette. Restoration &Preservation by Rob Eaton. Playback on 
+a Tascam 122 mk111 (azimuth adjusted) > db 926 a/d converter > db 3000 s sample rate 
+converter (variable speed) > panasonic 3800 DAT @ 44.1 kHz By Rob Eaton. 
+DAT>HHb>CDR By Jim Wise. Rob Eaton's list reads(4.5, 067min, Sbd, A0D0, Cass M->Dat  0, 48k, 
+Ampex C-90 Master Cass/no dolby->3800 x 0). Yes these disks I ripped with EAC are the 
+actual CDRS that Jim Wise made. I re tracked this one it came to me as 3 tracks. 
+D1t04(Cryptical Envelopment) Minor static @ :48 filtered to remove static, Pop @ 3:35 
+filtered to remove the pop. I had trouble tracking this one so if I tracked it wrong please
+correct it and lmk and give me a better tracked copy. Enjoy!!
+
+Conversion/Edit/Seeded to Etree by T. Wiley 01/13/2003.
+
+EAC: Secure to extract disk @ 100% quality, no reported errors.
+CD WAV: To select tracks.
+Cool Edit Pro: To preform edits(see comments above).
+Shn tool: To confirm sector boundaries.
+SHN: Via mkwact(seekable)
+
+Another Installment Of The Music Never Stopped Project!
+
+Many thanks to PT for Jim Wise's source disks :)
+
+Enjoy!!

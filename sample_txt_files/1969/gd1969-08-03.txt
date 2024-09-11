@@ -1,0 +1,63 @@
+This is a tagged versiopn of shnid: 30652
+
+Grateful Dead 
+August 3, 1969
+Family Dog at the Great Highway 
+San Francisco, CA  
+
+Recording Info:
+SBD -> Cassette Master -> Dat
+
+Transfer Info:
+Dat (Sony R500) -> SEK'D Prodif Plus -> Samplitude Professional v7.02 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+Transferred and Edited By Charlie Miller
+charliemiller87@earthlink.net
+August 26, 2005
+
+Notes:
+-- Seamless transition between discs.
+-- There is an unknown Violin and Sax player.
+-- There is some weird stuff going on with the tape during Caution.
+____________________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Hard To Handle
+102-d1t02 - Beat It On Down The Line
+103-d1t03 - Hi-Heel Sneakers
+104-d1t04 - High Time
+105-d1t05 - Mama Tried
+106-d2t01 - Dark Star
+107-d2t02 - Alligator ->
+108-d2t03 - Drums ->
+109-d2t04 - The Other One ->
+110-d2t05 - Caution (Do Not Stop On Tracks) ->
+111-d2t06 - And We Bid You Goodnight
+____________________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 9-28-11
+____________________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+     7:46.31      82275356     ---   --    ---    gd69-08-03d1t01.wav
+     4:29.62      47597468     ---   --    ---    gd69-08-03d1t02.wav
+     7:14.39      76649372     ---   --    ---    gd69-08-03d1t03.wav
+     6:12.18      65663180     ---   --    ---    gd69-08-03d1t04.wav
+     5:19.05      56283404     ---   --    ---    gd69-08-03d1t05.wav
+    23:08.01     244845596     ---   --    ---    gd69-08-03d2t01.wav
+     3:59.05      42171404     ---   --    ---    gd69-08-03d2t02.wav
+     6:39.28      70449500     ---   --    ---    gd69-08-03d2t03.wav
+    17:35.02     186106748     ---   --    ---    gd69-08-03d2t04.wav
+    17:45.21     187915436     ---   --    ---    gd69-08-03d2t05.wav
+     2:12.65      23437724     ---   --    ---    gd69-08-03d2t06.wav
+   102:21.52    1083395188 B                      (totals for 11 files)

@@ -1,0 +1,80 @@
+This is a tagged version of shnid: 132812
+
+Grateful Dead
+Rose Palace
+Pasadena, CA
+05/10/1969
+
+
+Cassette Master (Recorded By Bear on a  Concord F-400 Cassette Deck) -
+Cassette (Ampex C-90) Playback Tascam 122 MK111 Cassette Deck No Dolby - Panasonic SV-3700 DAT @ 44.1KHz (DL)
+
+
+--Songlist--
+101   Intro
+102   Hard To Handle
+103   Me And My Uncle
+104   Morning Dew
+105   power failure/banter/Yellow Dog Story/tuning
+106   Doin'//That Rag
+107   tech problem/banter/tuning
+109   Dark Star >
+109   St. Stephen >
+110   The Eleven >
+111   Turn//On Your Love Light
+_________________________________________________________________________________________________________________
+
+Notes:
+I offered to help Jim with this to see if I could fix up some of the problems that occur due to tape degradation.  
+It happens in the left channel from around 10:32 of "Dark Star" through to the cut in "Love Light"  There is a 
+noted drop in the overall levels for much of the time and some sections that just sounded very scratchy due to 
+the loss of audio information from the tape.
+
+What I've done is copy and paste with level adjustments made by various methods, using iZotope Ozone RX4 Advanced.  
+I found the easiest way to deal-with the really bad sections was to first clean up the left channel a little then 
+copy the right-channel into it (a matrix).  Then I made level adjustments.  So what you end up with is a slightly 
+different mix to the original recording but also something that is very listenable.
+
+I also removed a couple of clicks earlier in the show but haven't kept a note of where they were, and other level 
+adjustments have been as well.
+
+Comments:
+There is a power failure after they play "Hard To Handle" and another during "Morning Dew" which causes 
+it to completely break down.
+
+Thanks to Jim for the transfer
+
+edited and mastered
+SIRMick
+April 2015
+_________________________________________________________________________________________________________________
+
+shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:38.46       49147436 B   ---   --   ---xx   flac  0.4577  gd1969-05-10t01.flac
+     6:37.39       70122572 B   ---   --   ---xx   flac  0.5488  gd1969-05-10t02.flac
+     4:25.62       46891868 B   ---   --   ---xx   flac  0.5282  gd1969-05-10t03.flac
+     8:13.00       86965244 B   ---   --   ---xx   flac  0.5231  gd1969-05-10t04.flac
+     2:19.19       24564332 B   ---   --   ---xx   flac  0.4180  gd1969-05-10t05.flac
+     6:33.37       69412268 B   ---   --   ---xx   flac  0.5417  gd1969-05-10t06.flac
+     2:07.29       22471052 B   ---   --   ---xx   flac  0.3987  gd1969-05-10t07.flac
+    20:56.35      221640764 B   ---   --   ---xx   flac  0.5217  gd1969-05-10t08.flac
+     9:05.21       96187436 B   ---   --   ---xx   flac  0.5901  gd1969-05-10t09.flac
+    12:53.70      136521884 B   ---   --   ---xx   flac  0.6224  gd1969-05-10t10.flac
+    29:35.34      313190012 B   ---   --   ---xx   flac  0.5242  gd1969-05-10t11.flac
+   107:26.17     1137114868 B                            0.5361  (11 files)
+
+flac fingerprints:
+
+gd1969-05-10t01.flac:bca2f618d3f6ba9c25bc4d2303032a23
+gd1969-05-10t02.flac:055bcaf4049e12f467903b8e9a79e505
+gd1969-05-10t03.flac:3e35c42d1f11e08ae969946ffd830691
+gd1969-05-10t04.flac:f568c4f2a41f57bc7d1a461a9abfddaa
+gd1969-05-10t05.flac:49a1a50d16a43581dd55bb319494c968
+gd1969-05-10t06.flac:ef034b27501a6debb70de8eed14a47f6
+gd1969-05-10t07.flac:993d3b7cc2d7c5e39d572a078a67c851
+gd1969-05-10t08.flac:489d11e9be45dc06cce36ebad64f9bda
+gd1969-05-10t09.flac:ebd10b70ff243f2058f556ba0c2eac54
+gd1969-05-10t10.flac:2b8403cdd92db328017c1f6f3bf68fd0
+gd1969-05-10t11.flac:a1947af094bcf165a2287366e70cd550

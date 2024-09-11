@@ -1,0 +1,56 @@
+Grateful Dead
+Student Center
+Modesto Jr. College
+Modesto, CA
+Friday March 28, 1969
+
+Recording Info:
+Bear's Master Soundboard Cassettes > Harvey Lubar's 1st generation Reels > Tim Dalton's PCM (Sony HG beta tape)
+
+Transfer Info:
+PCM (Sony SL-10)> Sony PCM-601ESD > Behringer Ultramatch Pro > Tascam DA-3000 (wav 16-bit/44.1k)> Adobe Audition 3.0 > TLH flac16
+
+Notes:
+- Thanks to Harvey Lubar (R.I.P.) for the 1st generation reels
+- Thanks to Tim Dalton for the source PCM
+- Thanks to Charlie Miller for the transfer
+- Thanks to Charlie Miller and Rob Bertrando for the shnid81543 soundboard source which supplies the final 0:18 of "The Eleven", as well as the first 1:12 of "Death Don't Have No Mercy"
+- "Good Morning Little Schoolgirl" is clipped
+- Pitch corrected
+
+Mastered by Scott Clugston
+February 12, 2018
+
+Set 1:
+t01 - //Good Morning Little Schoolgirl
+t02 - "How 'bout these monitors Bear?...alright, just a taste"
+t03 - Dark Star >
+t04 - St. Stephen >
+t05 - The Eleven >
+t06 - Death Don't Have No Mercy
+t07 - Turn On Your Lovelight
+
+Set 2:
+t08 - Tuning/Banter
+t09 - Cryptical Envelopment >
+      Drums >
+t10 - The Other One >
+t11 - Cryptical Envelopment
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    11:46.63      124686620 B   ---   --   ---xx   flac  0.5337  gd69-03-28 t01 Good Morning Little Schoolgirl.flac
+     1:22.04       14474252 B   ---   --   ---xx   flac  0.4995  gd69-03-28 t02 Tuning_Banter.flac
+    22:55.51      242669996 B   ---   --   ---xx   flac  0.6019  gd69-03-28 t03 Dark Star.flac
+     6:10.22       65319788 B   ---   --   ---xx   flac  0.6048  gd69-03-28 t04 St. Stephen.flac
+    15:20.57      162422108 B   ---   --   ---xx   flac  0.6214  gd69-03-28 t05 The Eleven.flac
+     9:56.43      105235580 B   ---   --   ---xx   flac  0.5721  gd69-03-28 t06 Death Don't Have No Mercy.flac
+    22:26.27      237497948 B   ---   --   ---xx   flac  0.6040  gd69-03-28 t07 Turn On Your Lovelight.flac
+     1:56.29       20530652 B   ---   --   ---xx   flac  0.5256  gd69-03-28 t08 Tuning_Banter.flac
+     2:24.43       25502780 B   ---   --   ---xx   flac  0.5742  gd69-03-28 t09 Cryptical Envelopment.flac
+     8:48.55       93268604 B   ---   --   ---xx   flac  0.6240  gd69-03-28 t10 The Other One.flac
+    11:16.50      119364044 B   ---   --   ---xx   flac  0.5829  gd69-03-28 t11 Cryptical Envelopment.flac
+   114:24.69     1210972372 B                            0.5922  (11 files)
+
+No errors occured.

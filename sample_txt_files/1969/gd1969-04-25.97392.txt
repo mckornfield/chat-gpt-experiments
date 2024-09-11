@@ -1,0 +1,57 @@
+This is a tagged version of shnid: 97392
+
+Grateful Dead 
+April 25, 1969
+Electric Theater  
+Chicago, IL
+
+Recording Info:
+SBD -> Master Reel -> Dat (44.1k)
+
+Transfer Info:
+Dat (Sony R500) -> Sound Devices 744T -> Adobe Audition v1.5 ->
+Samplitude Professional v10.2 -> FLAC
+(1 Disc Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+February 11, 2009
+
+Notes:
+-- Thanks to Rob Eaton for the Dats
+-- Thanks to Joe B. Jones for his help with the pitch correction
+____________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Introduction
+102-d1t02 - Hard to Handle
+103-d1t03 - Doin' That Rag
+104-d1t04 - Good Morning Little Schoolgirl
+105-d1t05 - Morning Dew
+106-d1t06 - Yellow Dog Story
+107-d1t07 - Sitting on Top of the World
+108-d1t08 - Turn on Your Lovelight
+____________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-09-11
+____________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE problems filename
+     1:15.20       13277084    ---   --   -----   gd69-04-25d1t01.wav
+     4:30.59       47766812    ---   --   -----   gd69-04-25d1t02.wav
+     8:02.19       85069532    ---   --   -----   gd69-04-25d1t03.wav
+    12:58.44      137342732    ---   --   -----   gd69-04-25d1t04.wav
+     8:47.23       93016940    ---   --   -----   gd69-04-25d1t05.wav
+     2:20.43       24797180    ---   --   -----   gd69-04-25d1t06.wav
+     4:15.19       45026732    ---   --   -----   gd69-04-25d1t07.wav
+    23:44.19      251238332    ---   --   -----   gd69-04-25d1t08.wav
+    65:54.21      697535344 B                     (totals for 8 files)

@@ -1,0 +1,42 @@
+MOTB Release: 0123 16/44.1
+Release Date: 2010-06-04
+Band: Grateful Dead
+Date: 1969-03-28 (Sunday)
+Venue: Student Center, Modesto Junior College
+Location: Modesto, CA
+Analog Soundboard Source: Master Soundboard Cassette (MSC)
+Medium Stock Brands: Master Cassette ampex c120 
+Analog Lineage: SBD >> Unknown Deck >> MSC
+Analog Sound Preservation: MSC >> Nakamichi CR7a => Korg MR-1000 >> DSF [1-bit 5.6448 MHz Stereo] >> Korg MR-1000 => Korg AudioGate >> WAV [24/96]
+Taped By: Bear (Mr. Owsley himself)
+Transfer By: Bob Menke
+Mastering By: David Minches, Derek McCabe
+
+
+Disc One
+
+Set 1:
+d1t01: //Good Morning Little Schoolgirl
+d1t02: Dark Star >
+d1t03: St. Stephen >
+d1t04: The Eleven >
+d1t05: Death Don't Have No Mercy
+
+Disc Two
+
+d2t01: Turn On Your Lovelight
+
+Set 2:
+d2t02: Cryptical Envelopment >
+d2t03: Drums >
+d2t04: The Other One >
+d2t05: Cryptical Envelopment
+
+
+Notes:  * patch from SH ID 81543 for tape flip at the end of "The Eleven" going into "Death"
+
+Pitch correction by Joe B. Jones
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename    13:02.65      138097724 B   ---   --   ---xx  gd1969-03-28d1t01.flac    22:55.32      242625308 B   ---   --   ---xx  gd1969-03-28d1t02.flac     6:11.46       65552636 B   ---   --   ---xx  gd1969-03-28d1t03.flac    15:30.63      164200220 B   ---   --   ---xx  gd1969-03-28d1t04.flac     9:51.25      104311244 B   ---   --   ---xx  gd1969-03-28d1t05.flac    24:33.18      259879580 B   ---   --   ---xx  gd1969-03-28d2t01.flac     2:07.05       22414604 B   ---   --   ---xx  gd1969-03-28d2t02.flac     0:17.68        3158780 B   ---   --   ---xx  gd1969-03-28d2t03.flac     8:50.38       93581420 B   ---   --   ---xx  gd1969-03-28d2t04.flac    11:16.70      119411084 B   ---   --   ---xx  gd1969-03-28d2t05.flac   114:37.55     1213232600 B                            0.4796  (10 files)
+
+ 

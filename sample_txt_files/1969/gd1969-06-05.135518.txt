@@ -1,0 +1,80 @@
+This is a tagged version of shnid: 135518
+
+Grateful Dead 
+June 5, 1969
+Fillmore West 
+San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> Dat (48k)
+
+Transfer Info:
+Dat (Tascam DA-20) -> Sound Devices 744T -> Samplitude Professional 11.2.1 -> FLAC/48k
+(1 DVD FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller98@earthlink.net
+April 16, 2016
+
+Notes:
+-- This is a 48k sampled transfer
+-- A few spots have the same tape squeal as 6/7/69
+
+Patch Info:
+SBD -> Cassette Master -> Cassette -> Dat -> CD (shnid=15204) supplies:
+Morning Dew (0:00 - 0:10)
+That's It For The Other One (0:00 - 3:54)
+China Cat Sunflower (0:00 - 0:02)
+Dark Star (12:59 - end of track)
+St. Stephen (complete track)
+The Eleven (complete track)
+Turn On Your Lovelight (complete track)
+______________________________________________________________________________________
+
+Set 1:
+s1t01 - Morning Dew
+s1t02 - Me And My Uncle
+s1t03 - Doin' That Rag ->
+s1t04 - He Was A Friend Of Mine
+s1t05 - Hard To Handle
+s1t06 - Cosmic Charlie
+s1t07 - That's It For The Other One
+
+Set 2:
+s2t01 - China Cat Sunflower ->
+s2t02 - Sittin' On Top Of The World ->
+s2t03 - Dark Star ->
+s2t04 - St. Stephen ->
+s2t05 - The Eleven ->
+s2t06 - Turn On Your Lovelight
+______________________________________________________________________________________
+
+
+Tagging notes:
+Show information is embedded within the header of each flac file.
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 4-28-2018
+______________________________________________________________________________________
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    10:17.922     118641000 B   cxx   --   ---xx   flac  0.5134  gd69-06-05s1t01.flac
+     3:20.619      38518888 B   cxx   --   ---xx   flac  0.5338  gd69-06-05s1t02.flac
+     6:54.694      79621212 B   cxx   --   ---xx   flac  0.5345  gd69-06-05s1t03.flac
+    11:35.526     133540996 B   cxx   --   ---xx   flac  0.4819  gd69-06-05s1t04.flac
+     5:32.397      63820240 B   cxx   --   ---xx   flac  0.5462  gd69-06-05s1t05.flac
+     6:26.668      74240344 B   cxx   --   ---xx   flac  0.5244  gd69-06-05s1t06.flac
+    24:25.423     281361324 B   cxx   --   ---xx   flac  0.5384  gd69-06-05s1t07.flac
+     4:21.010      50114052 B   cxx   --   ---xx   flac  0.5796  gd69-06-05s2t01.flac
+     3:26.106      39572404 B   cxx   --   ---xx   flac  0.5789  gd69-06-05s2t02.flac
+    20:31.535     236454752 B   cxx   --   ---xx   flac  0.5496  gd69-06-05s2t03.flac
+     6:52.074      79118176 B   cxx   --   ---xx   flac  0.5399  gd69-06-05s2t04.flac
+    11:22.050     130953564 B   cxx   --   ---xx   flac  0.5640  gd69-06-05s2t05.flac
+    25:52.147     298012244 B   cxx   --   ---xx   flac  0.5611  gd69-06-05s2t06.flac
+   140:58.170    1623969196 B                            0.5415  (13 files)

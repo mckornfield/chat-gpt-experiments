@@ -1,0 +1,76 @@
+Grateful Dead - April 21, 1969
+The Ark - Boston, MA
+
+Recording Info:
+SBD -> Master Reel -> Dat -> CD
+
+Transfer Info:
+CD -> Samplitude Professional v9.12 -> FLAC
+(3 Discs Audio / 2 Discs FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+November 13, 2007
+
+Patch Info:
+Alternate SBD source provides:
+Introduction (complete track)
+2nd Cryptical Envelopment (1:21 - 6:19)
+Dark Star (14:52 - 16:36)
+Turn On Your Lovelight (23:56 - end of track)
+
+Notes:
+-- Cleaned up numerous flaws and fixed the levels
+-- Alligator has a false start
+-- Tape runs out during Feedback
+
+Set 1:
+d1t01 - Introduction
+d1t02 - Hard To Handle
+d1t03 - Morning Dew
+d1t04 - Cryptical Envelopment ->
+d1t05 - Drums ->
+d1t06 - The Other One ->
+d1t07 - Cryptical Envelopment ->
+d1t08 - Sittin' On Top Of The World
+d1t09 - Alligator ->
+d1t10 - Drums ->
+d1t11 - Jam ->
+d1t12 - Doin' That Rag
+
+Set 2:
+d2t01 - Foxy Lady Jam
+d2t02 - Dark Star ->
+d2t03 - St. Stephen ->
+d2t04 - The Eleven ->
+d2t05 - Turn On Your Lovelight
+
+Encore:
+d3t01 - Tuning
+d3t02 - Viola Lee Blues ->
+d3t03 - Feedback
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE problems filename
+     1:29.29       15767852    ---   --   -----   gd69-04-21d1t01.wav
+     5:26.09       57527612    ---   --   -----   gd69-04-21d1t02.wav
+     9:25.10       99689564    ---   --   -----   gd69-04-21d1t03.wav
+     1:57.45       20744684    ---   --   -----   gd69-04-21d1t04.wav
+     0:39.36        6964316    ---   --   -----   gd69-04-21d1t05.wav
+     9:10.45       97125884    ---   --   -----   gd69-04-21d1t06.wav
+     7:54.11       83639516    ---   --   -----   gd69-04-21d1t07.wav
+     3:27.14       36547772    ---   --   -----   gd69-04-21d1t08.wav
+     4:06.73       43566140    ---   --   -----   gd69-04-21d1t09.wav
+     3:26.44       36441932    ---   --   -----   gd69-04-21d1t10.wav
+     7:46.10       82225964    ---   --   -----   gd69-04-21d1t11.wav
+     7:03.24       74673692    ---   --   -----   gd69-04-21d1t12.wav
+     3:25.26       36223196    ---   --   -----   gd69-04-21d2t01.wav
+    22:41.04      240089852    ---   --   -----   gd69-04-21d2t02.wav
+     6:51.56       72632156    ---   --   -----   gd69-04-21d2t03.wav
+    10:59.17      116287628    ---   --   -----   gd69-04-21d2t04.wav
+    25:24.55      268963004    ---   --   -----   gd69-04-21d2t05.wav
+     2:27.02       25935548    ---   --   -----   gd69-04-21d3t01.wav
+    13:47.59      146021612    ---   --   -----   gd69-04-21d3t02.wav
+     5:39.05       59811404    ---   --   -----   gd69-04-21d3t03.wav
+   153:08.49     1620879328 B                     (totals for 20 files)

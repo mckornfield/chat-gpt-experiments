@@ -1,0 +1,48 @@
+Grateful Dead
+New York State Pavilion
+Flushing Meadow Park,
+Queens, New York, NY
+07/12/1969
+
+Partial Set II
+
+
+Source: Soundboard > Cassette Master > DAT (44k) 
+
+
+
+01   //Dark Star >
+02   The Other One >
+03   St. Stephen >
+04   The Eleven >
+05   Turn On Your Love Light
+
+
+Notes:
+
+- This version has been provided by an anonymous source.
+- All files are tagged.
+
+
+edited and mastered
+SIRMick
+January 2015
+
+
+shntool ouput:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:48.19      103767932 B   ---   --   ---xx   flac  0.3850  gd1969-07-12t01.flac
+     5:38.70       59787884 B   ---   --   ---xx   flac  0.4060  gd1969-07-12t02.flac
+     7:08.56       75630956 B   ---   --   ---xx   flac  0.3882  gd1969-07-12t03.flac
+    13:42.01      145003196 B   ---   --   ---xx   flac  0.3948  gd1969-07-12t04.flac
+    23:02.57      243918908 B   ---   --   ---xx   flac  0.3773  gd1969-07-12t05.flac
+    59:20.53      628108876 B                            0.3867  (5 files)
+
+flac fingerprints:
+
+gd1969-07-12t01.flac:abd0e27e3c3c38a8b649736d633a2d1c
+gd1969-07-12t02.flac:f682d3de88c77b0b3da2084435007f9b
+gd1969-07-12t03.flac:c32714b0cf16aa42383909b70b6e6cc1
+gd1969-07-12t04.flac:a62b5935fc6e0e59ea430bc0b5e82280
+gd1969-07-12t05.flac:40d0dcb8f7d3c78dafe5ea6e27e9fda0

@@ -1,0 +1,62 @@
+This is a tagged version of shind: 123101
+
+Grateful Dead  
+August 29, 1969
+Family Dog At The Great Highway 
+San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> Cassette -> Dat
+
+Transfer Info:
+Dat (Tascam DA-20) -> Tascam SS-R05 -> Samplitude Professional v11.2.1 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+December 13, 2012
+
+Notes:
+-- This is a fixed version of shnid=123075 (Easy Wind fixed)
+-- Disc change is seamless
+-- Show will fit on one CD with an overburn
+-- There is a splice at 1:26 into Good Lovin
+______________________________________________________________________________________'
+
+--Setlist--
+101-d1t01 - Casey Jones
+102-d1t02 - Easy Wind
+103-d1t03 - Me & My Uncle ->
+104-d1t04 - High Time
+105-d1t05 - New Orleans ->
+106-d1t06 - Searchin' ->
+107-d1t07 - Good Lovin'
+108-d1t08 - Dire Wolf
+109-d1t09 - I'm A King Bee
+110-d2t01 - Turn On Your Lovelight
+______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 12-27-12
+______________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:55.60       62763164 B   ---   --   ---xx   flac  0.5985  gd69-08-29d1t01.flac
+     8:10.18       86478380 B   ---   --   ---xx   flac  0.6218  gd69-08-29d1t02.flac
+     3:09.45       33445484 B   ---   --   ---xx   flac  0.6122  gd69-08-29d1t03.flac
+     9:23.27       99376748 B   ---   --   ---xx   flac  0.5161  gd69-08-29d1t04.flac
+     3:31.16       37258076 B   ---   --   ---xx   flac  0.6046  gd69-08-29d1t05.flac
+     3:16.02       34579148 B   ---   --   ---xx   flac  0.5900  gd69-08-29d1t06.flac
+     4:35.63       48658220 B   ---   --   ---xx   flac  0.6108  gd69-08-29d1t07.flac
+     4:41.29       49636652 B   ---   --   ---xx   flac  0.5952  gd69-08-29d1t08.flac
+     7:50.61       83051516 B   ---   --   ---xx   flac  0.5716  gd69-08-29d1t09.flac
+    30:37.41      324143276 B   ---   --   ---xx   flac  0.5895  gd69-08-29d2t01.flac
+    81:11.62      859390664 B                            0.5863  (10 files)

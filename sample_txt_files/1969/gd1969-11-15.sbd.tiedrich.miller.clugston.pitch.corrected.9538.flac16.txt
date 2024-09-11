@@ -1,0 +1,85 @@
+Grateful Dead
+Lanai Theatre
+Crockett, CA
+Saturday November 15, 1969
+
+Source Info:
+Master Soundboard Cassette > PCM > CDR > iMac > SHN
+
+Transfer Info:
+SHN's > TLH > flac16 > Samplitude (16/44 .wav)> Adobe Audition 3.0 (16/44 .wav)> TLH flac16
+
+Notes:
+- This is a pitch corrected version of Jeff Tiedrich's shnid9538 source
+- All songs except the "Tuning" and "Casey Jones" were pitch corrected
+- Thanks to Joe B. Jones for his help with the pitch correction 
+- Tape flips in "High Time" and "Turn On Your Lovelight"
+- Thanks to Charlie Miller for coordinating this effort
+
+Mastered by Scott Clugston and Charlie Miller
+March 3, 2018
+
+t01 - Tuning                               
+t02 - Casey Jones                           
+t03 - Me And My Uncle                       
+t04 - Easy Wind                             
+t05 - Washington's Teeth Story           
+t06 - Cumberland Blues >                                      
+t07 - China Cat Sunflower >                   
+t08 - I Know You Rider                      
+t09 - High Time                             
+t10 - Next Time You See Me                  
+t11 - Mama Tried                            
+t12 - Big Boss Man                          
+t13 - Cosmic Charlie                        
+t14 - Dire Wolf                             
+t15 - Cold Rain And Snow                    
+t16 - Good Lovin' >                          
+      Drums >                                
+      Good Lovin'                            
+t17 - Turn On Your Lovelight               	
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:17.43       34851980 B   ---   --   ---xx   flac  0.4159  gd69-11-15 pc t01 Tuning.flac
+     5:04.01       53627996 B   ---   --   ---xx   flac  0.4809  gd69-11-15 pc t02 Casey Jones.flac
+     3:26.50       36456044 B   ---   --   ---xx   flac  0.4767  gd69-11-15 pc t03 Me & My Uncle.flac
+     8:23.68       88889180 B   ---   --   ---xx   flac  0.4797  gd69-11-15 pc t04 Easy Wind.flac
+     3:13.68       34205180 B   ---   --   ---xx   flac  0.4028  gd69-11-15 pc t05 Washington's Teeth Story.flac
+     3:53.72       41270588 B   ---   --   ---xx   flac  0.4682  gd69-11-15 pc t06 Cumberland Blues.flac
+     4:12.03       44459900 B   ---   --   ---xx   flac  0.4745  gd69-11-15 pc t07 China Cat Sunflower.flac
+     4:29.29       47519852 B   ---   --   ---xx   flac  0.4719  gd69-11-15 pc t08 I Know You Rider.flac
+     5:25.31       57402956 B   ---   --   ---xx   flac  0.4300  gd69-11-15 pc t09 High Time.flac
+     4:16.55       45287804 B   ---   --   ---xx   flac  0.4696  gd69-11-15 pc t10 Next Time You See Me.flac
+     2:43.36       28837916 B   ---   --   ---xx   flac  0.4550  gd69-11-15 pc t11 Mama Tried.flac
+     3:45.48       39802940 B   ---   --   ---xx   flac  0.4530  gd69-11-15 pc t12 Big Boss Man.flac
+     6:40.01       70562396 B   ---   --   ---xx   flac  0.4555  gd69-11-15 pc t13 Cosmic Charlie.flac
+     4:16.36       45243116 B   ---   --   ---xx   flac  0.4434  gd69-11-15 pc t14 Dire Wolf.flac
+     6:08.07       64931708 B   ---   --   ---xx   flac  0.4565  gd69-11-15 pc t15 Cold Rain & Snow.flac
+     9:58.32      105562508 B   ---   --   ---xx   flac  0.4707  gd69-11-15 pc t16 Good Lovin'.flac
+    43:09.52      456821948 B   ---   --   ---xx   flac  0.4649  gd69-11-15 pc t17 Turn On Your Lovelight.flac
+   122:25.32     1295734012 B                            0.4615  (17 files)
+
+No errors occured.
+
+
+
+c84a7649a1ea50dfa75fd193192e40ec *gd69-11-15 pc t01 Tuning.flac
+44d1df46d6a47998f54276b177dc4fe3 *gd69-11-15 pc t02 Casey Jones.flac
+9c1b4812136b5beb0e184b803842f959 *gd69-11-15 pc t03 Me & My Uncle.flac
+85cb10364405bf5fc95458a870cd2444 *gd69-11-15 pc t04 Easy Wind.flac
+8cf1a6203105c32f68e43b44c9ba119e *gd69-11-15 pc t05 Washington's Teeth Story.flac
+659458f377818c75acc8057ea0ea4a56 *gd69-11-15 pc t06 Cumberland Blues.flac
+2b6849caf13facb5b88454c66326d560 *gd69-11-15 pc t07 China Cat Sunflower.flac
+4ca94f77fc6ee6432ebaea95add30b21 *gd69-11-15 pc t08 I Know You Rider.flac
+975e88c9befdf5464bfc1ae2f79f15e8 *gd69-11-15 pc t09 High Time.flac
+274b283114881ad3761a34a16b04fb3a *gd69-11-15 pc t10 Next Time You See Me.flac
+5ab8503cdb8b001d6ee90f710b845997 *gd69-11-15 pc t11 Mama Tried.flac
+9dbb34eee332029f65cbde440f2e92a4 *gd69-11-15 pc t12 Big Boss Man.flac
+54dd04b92d1d9adc55a890b317df6d81 *gd69-11-15 pc t13 Cosmic Charlie.flac
+0d9ae2fce1776c4c56a29f6dcb2c6311 *gd69-11-15 pc t14 Dire Wolf.flac
+69b4fc48f74487a70a65d02f7cc2b929 *gd69-11-15 pc t15 Cold Rain & Snow.flac
+c11cd4516ef1296427663633575ef6a4 *gd69-11-15 pc t16 Good Lovin'.flac
+aeaaa8775cd68d3d70a5dd65f4d0c1b8 *gd69-11-15 pc t17 Turn On Your Lovelight.flac
+
+No errors occured.

@@ -1,0 +1,60 @@
+This is a flac encoded & tagged version of shnid: 8994
+
+Grateful Dead
+3-22-69
+Rose Palace,
+Pasadena, California
+gd69-03-22.sbd.cotsman.8994.sbeok.flac16
+
+SBD>MC>C>D>CD>EAC>SHN
+_________________________________________________________________________
+
+--Setlist--
+101 - //Good Morning, Little Schoolgirl
+102 - Dark Star-->
+103 - St. Stephen//-->
+104 - //The Eleven-->
+105 - Turn on Your Lovelight//
+_________________________________________________________________________
+
+The Dead shared the billing with two other bands, and this may be the 
+complete show for them, although there could be a song or two missing 
+after Schoolgirl.
+
+The recording was pitch corrected and normalized using Sound Forge.  
+Track boundary errors were also fixed.
+
+thanks to Andrew Clarke
+edits/encoding by J. Cotsman
+_________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac 
+files. If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. If you must 
+transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 9-12-08
+________________________________________________________________________
+
+; shntool md5 fingerprint file
+dbbaac281b7d94de10702acb730c2863  [shntool]  gd69-03-22d1t01.shn
+555316b7730324ce2e99defc7539fa87  [shntool]  gd69-03-22d1t02.shn
+5bed9a3b04f7524689ff0ccc645f5724  [shntool]  gd69-03-22d1t03.shn
+8230ea830f33149c164d537c84ac052a  [shntool]  gd69-03-22d1t04.shn
+830e920931693f448f088a92f8c84ede  [shntool]  gd69-03-22d1t05.shn
+
+; shntool md5 fingerprint file 
+dbbaac281b7d94de10702acb730c2863  [shntool]  gd69-03-22d1t01.flac
+555316b7730324ce2e99defc7539fa87  [shntool]  gd69-03-22d1t02.flac
+5bed9a3b04f7524689ff0ccc645f5724  [shntool]  gd69-03-22d1t03.flac
+8230ea830f33149c164d537c84ac052a  [shntool]  gd69-03-22d1t04.flac
+830e920931693f448f088a92f8c84ede  [shntool]  gd69-03-22d1t05.flac

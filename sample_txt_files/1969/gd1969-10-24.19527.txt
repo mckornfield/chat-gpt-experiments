@@ -1,0 +1,83 @@
+This is a flac encoded & tagged version of shnid: 19527
+
+Grateful Dead
+10/24/1969
+Winterland Arena
+San Francisco, California
+
+Low generation audience > CD
+Extracted with EAC. Tracks cut using CDWave. SB verified via SHNTool
+
+Uploaded to Tol 20 September 2003
+_________________________________________________________________________________
+
+--Setlist--
+101-t01 - //Casey Jones
+102-t02 - "Turn Up The Monitors"
+103-t03 - Dire Wolf
+104-t04 - High Time
+105-t05 - Tuning
+106-t06 - Easy Wind
+107-t07 - Tuning
+108-t08 - China Cat Sunflower ->
+109-t09 - I know You Rider
+110-t10 - "Hey man, turn the microphones on!!"
+_________________________________________________________________________________
+
+*Please note
+
+Deadlists mentions the tape as having: 
+The Other One>Cryptical Envelopment>Jam>Cosmic Charlieon the tape. 
+This copy of the tape does not have this.
+
+I received this show from Hanno Bunjes who in turn received it from Uli Teute. 
+Thanks!!!!
+
+In a recent conversion with Hanno at my place he cast doubt that the songs were 
+part of the tape (If memory serves).
+
+Hanno, if you read this text entry please confirm you thoughts and findings:)
+_________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-22-11
+_________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+0aff1f72844e7da6a86cb954508f47b2  [shntool]  gd69-10-24t01.shn
+e1bf6d0da3374b93bf43621a4bf87c40  [shntool]  gd69-10-24t02.shn
+6fc36f353b3f38d16f2dc735f5a12d49  [shntool]  gd69-10-24t03.shn
+d1374359c9b84ea6d960e3ab4f7fc4db  [shntool]  gd69-10-24t04.shn
+d795fb3ac48bb7e7be0e355d79c0a685  [shntool]  gd69-10-24t05.shn
+8ae2874f5056fbd025ee511dde9d59b1  [shntool]  gd69-10-24t06.shn
+b88a00f9f15f74aa3c1d2d24b359ebbc  [shntool]  gd69-10-24t07.shn
+059649fedd3c286d7742756ba59f029c  [shntool]  gd69-10-24t08.shn
+78c9d6ab0324bf887ca7c4cf65d6c5ee  [shntool]  gd69-10-24t09.shn
+fb98561f93774413b36720b7bd0b782f  [shntool]  gd69-10-24t10.shn
+
+; shntool md5 fingerprint file
+0aff1f72844e7da6a86cb954508f47b2  [shntool]  gd69-10-24t01.flac
+e1bf6d0da3374b93bf43621a4bf87c40  [shntool]  gd69-10-24t02.flac
+6fc36f353b3f38d16f2dc735f5a12d49  [shntool]  gd69-10-24t03.flac
+d1374359c9b84ea6d960e3ab4f7fc4db  [shntool]  gd69-10-24t04.flac
+d795fb3ac48bb7e7be0e355d79c0a685  [shntool]  gd69-10-24t05.flac
+8ae2874f5056fbd025ee511dde9d59b1  [shntool]  gd69-10-24t06.flac
+b88a00f9f15f74aa3c1d2d24b359ebbc  [shntool]  gd69-10-24t07.flac
+059649fedd3c286d7742756ba59f029c  [shntool]  gd69-10-24t08.flac
+78c9d6ab0324bf887ca7c4cf65d6c5ee  [shntool]  gd69-10-24t09.flac
+fb98561f93774413b36720b7bd0b782f  [shntool]  gd69-10-24t10.flac
+
+

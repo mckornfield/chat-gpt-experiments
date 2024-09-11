@@ -1,0 +1,50 @@
+This is a tagged version of shnid: 123467
+
+Grateful Dead  
+March 29, 1969
+Ice Palace  
+Las Vegas, NV
+
+Recording Info:
+SBD -> Master Reel -> Cassette -> Dat
+
+Transfer Info:
+Dat (Tascam DA-20) -> Tascam SS-R05 -> Samplitude Professional v11.2.1 -> FLAC
+(1 Disc Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+January 15, 2013
+______________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Morning Dew
+102-d1t02 - Good Morning Little Schoolgirl
+103-d1t03 - Doin' That Rag
+104-d1t04 - Dark Star ->
+105-d1t05 - St. Stephen ->
+106-d1t06 - The Eleven ->
+107-d1t07 - Turn On Your Lovelight
+______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the headerof each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 1-16-13
+______________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:56.05      105146204 B   ---   --   ---xx   flac  0.4747  gd69-03-29d1t01.flac
+     9:37.19      101827532 B   ---   --   ---xx   flac  0.4980  gd69-03-29d1t02.flac
+     7:55.08       83808860 B   ---   --   ---xx   flac  0.4868  gd69-03-29d1t03.flac
+    15:04.27      159529148 B   ---   --   ---xx   flac  0.4714  gd69-03-29d1t04.flac
+     5:35.39       59185772 B   ---   --   ---xx   flac  0.4786  gd69-03-29d1t05.flac
+    11:48.06      124905356 B   ---   --   ---xx   flac  0.5094  gd69-03-29d1t06.flac
+    17:49.14      188604572 B   ---   --   ---xx   flac  0.4795  gd69-03-29d1t07.flac
+    77:45.43      823007444 B                            0.4848  (7 files)

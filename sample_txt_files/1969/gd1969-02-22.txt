@@ -1,0 +1,68 @@
+This is a tagged version of shnid: 112691
+
+Grateful Dead 
+February 22, 1969
+Dream Bowl 
+Vallejo, CA
+
+Recording Info:
+SBD -> Master Reel -> Dat (44.1k)
+
+Transfer Info:
+Dat (Sony R500) -> Tascam SS-R05 -> Samplitude Professional v11.2 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+April 1, 2011
+
+Patch Info:
+SBD -> Bear's Cassette -> PCM Supplies:
+Dupree's Diamond Blues (complete track)
+That's It For The Other One (16:09 - 19:23)
+Turn On Your Lovelight (8:10 - 8:42)
+
+Notes:
+-- Thanks To David Gans and Dick Latvala for the Dat
+-- Thanks to Bob Menke for the patch source
+-- Tape flip in Death Don't Have No Mercy cleaned up with crossfade
+-- Thanks to Joe B. Jones for his help pitch correcting the patch source
+_________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Dupree's Diamond Blues ->
+102-d1t02 - Mountains Of The Moon ->
+103-d1t03 - Dark Star ->
+104-d1t04 - That's It For The Other One ->
+105-d1t05 - Death Don't Have No Mercy
+
+-Set 2--
+201-d2t01 - Doin' That Rag ->
+202-d2t02 - St. Stephen ->
+203-d2t03 - The Eleven ->
+204-d2t04 - Turn On Your Lovelight
+_________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the headerof each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 4-02-11
+_________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+     3:55.60      41595164     ---   --    ---    gd69-02-22d1t01.wav
+     5:22.26      56861996     ---   --    ---    gd69-02-22d1t02.wav
+    22:19.23     236253740     ---   --    ---    gd69-02-22d1t03.wav
+    19:55.62     210943868     ---   --    ---    gd69-02-22d1t04.wav
+     7:21.66      77947676     ---   --    ---    gd69-02-22d1t05.wav
+     6:45.29      71510252     ---   --    ---    gd69-02-22d2t01.wav
+     7:05.51      75089996     ---   --    ---    gd69-02-22d2t02.wav
+    18:07.01     191749196     ---   --    ---    gd69-02-22d2t03.wav
+    23:14.04     245911052     ---   --    ---    gd69-02-22d2t04.wav
+   114:07.22    1207862940 B                      (totals for 9 files)

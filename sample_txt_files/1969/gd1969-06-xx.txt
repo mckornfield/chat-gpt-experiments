@@ -1,0 +1,64 @@
+This is a flac encoded & tagged version of shnid: 10510
+
+Grateful Dead & Friends
+Summer 1969
+Home Recordings
+
+AUD (portable recorder and cheap mic):
+
+SHN'd and posted to alt.binaries.gdead.highspeed by Tzuriel 6/24/02 
+__________________________________________________________________________________________
+
+--Songlist--
+101-t01 - Friend of the Devil (with other lyrics & John "Marmaduke"Dawson singing lead)  
+102-t02 - Trumpet Solo - Robert Hunter?  
+103-t03 - Dead Or Alive  (Robert Hunter vocal, undocumented song) 
+104-t04 - Train Song  (Robert Hunter vocal, undocumented song) 
+105-t05 - No Eggs Today  (Robert Hunter vocal, undocumented song) 
+106-t06 - Jam - "Feeling Groovy" and Uncle John's Band riffs  
+107-t07 - Uncle John's Band Jam  
+108-t08 - ...baby crying?...  
+109-t09 - unidentified guitar / end of tape.
+
+Total time = 28:55
+__________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 8-07-11 
+__________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+85a49c0230d2bb989eefe0c2cd7883fa  [shntool]  HomeRecordings-1969_Track01.shn
+2de24cf59e3c0982bd8ac3f30fcc7bd7  [shntool]  HomeRecordings-1969_Track02.shn
+0a33885bffc4c89d6983e80528063ec4  [shntool]  HomeRecordings-1969_Track03.shn
+ae95ef35810a283ea7781c74faa90a38  [shntool]  HomeRecordings-1969_Track04.shn
+70ddcebd6f9f834648417bbe4d5bc1c9  [shntool]  HomeRecordings-1969_Track05.shn
+e549141683879806d6f2d24807809c35  [shntool]  HomeRecordings-1969_Track06.shn
+df867488e5e2f3b75859221617832c8c  [shntool]  HomeRecordings-1969_Track07.shn
+0757e1188e2783e7d887a8032854c4e1  [shntool]  HomeRecordings-1969_Track08.shn
+569aa8097221fd8266170242071c697a  [shntool]  HomeRecordings-1969_Track09.shn
+
+; shntool md5 fingerprint file 
+85a49c0230d2bb989eefe0c2cd7883fa  [shntool]  HomeRecordings-1969_Track01.flac
+2de24cf59e3c0982bd8ac3f30fcc7bd7  [shntool]  HomeRecordings-1969_Track02.flac
+0a33885bffc4c89d6983e80528063ec4  [shntool]  HomeRecordings-1969_Track03.flac
+ae95ef35810a283ea7781c74faa90a38  [shntool]  HomeRecordings-1969_Track04.flac
+70ddcebd6f9f834648417bbe4d5bc1c9  [shntool]  HomeRecordings-1969_Track05.flac
+e549141683879806d6f2d24807809c35  [shntool]  HomeRecordings-1969_Track06.flac
+df867488e5e2f3b75859221617832c8c  [shntool]  HomeRecordings-1969_Track07.flac
+0757e1188e2783e7d887a8032854c4e1  [shntool]  HomeRecordings-1969_Track08.flac
+569aa8097221fd8266170242071c697a  [shntool]  HomeRecordings-1969_Track09.flac
+

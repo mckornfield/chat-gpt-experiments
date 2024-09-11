@@ -1,0 +1,53 @@
+Grateful Dead
+Ice Palace
+Las Vegas, NV
+Saturday March 29, 1969
+
+Recording Info:
+Master Soundboard Reel > Cassette > Dat 16/48
+
+Transfer Info:
+Dat (16/48)(Sony PCM-R500) > Tascam DA-3000 (.wav 16/48) > Adobe Audition (16/48) > TLH flac1648 
+
+Notes:
+- Thanks to Tim Dalton for the source Dat
+- Thanks to Charlie Miller for the transfer
+- Thanks to Uli Teute, Rich Petlock and taperchuck for the soundboard source which supplies a 6:00 patch in "Dark Star"
+- "The next tune we're going to do is something we wrote especially for the Ice Palace here in Las Vegas. We wrote it this morning."
+
+Mastered by Scott Clugston
+3/13/2018
+
+01 - Morning Dew
+02 - Good Morning Little Schoolgirl
+03 - Doin' That Rag
+04 - Dark Star >
+05 - St. Stephen >
+06 - The Eleven >
+07 - Turn On Your Lovelight
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    10:05.800     116313644 B   cxx   --   ---xx   flac  0.5502  gd69-03-29 t01 Morning Dew.flac
+     9:38.707     111111724 B   cxx   --   ---xx   flac  0.5563  gd69-03-29 t02 Good Morning Little Schoolgirl.flac
+     7:39.480      88220204 B   cxx   --   ---xx   flac  0.5439  gd69-03-29 t03 Doin' That Rag.flac
+    21:19.120     245591084 B   cxx   --   ---xx   flac  0.5454  gd69-03-29 t04 Dark Star.flac
+     5:35.467      64409644 B   cxx   --   ---xx   flac  0.5469  gd69-03-29 t05 St. Stephen.flac
+    11:52.053     136714284 B   cxx   --   ---xx   flac  0.5595  gd69-03-29 t06 The Eleven.flac
+    17:41.379     203784796 B   cxx   --   ---xx   flac  0.5401  gd69-03-29 t07 Turn On Your Lovelight.flac
+    83:52.006     966145380 B                            0.5481  (7 files)
+
+No errors occured.
+
+
+
+b020199a39f6973527ec9abbc070e1de *gd69-03-29 t01 Morning Dew.flac
+98c02eeae8d1d3121162dff412092402 *gd69-03-29 t02 Good Morning Little Schoolgirl.flac
+fc2fb63bdfa920eae00ec05c493fcd30 *gd69-03-29 t03 Doin' That Rag.flac
+df2c1d76f484f5d92e54e085a03c6d3b *gd69-03-29 t04 Dark Star.flac
+5ccf682b39b2aeef336a0d27274a5a4f *gd69-03-29 t05 St. Stephen.flac
+3a1b3742836c0684ad9cfb361abe01a3 *gd69-03-29 t06 The Eleven.flac
+988516a0133498b6d6e4cb65cf7990ae *gd69-03-29 t07 Turn On Your Lovelight.flac
+
+No errors occured.

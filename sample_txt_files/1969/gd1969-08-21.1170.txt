@@ -1,0 +1,69 @@
+This is flac encoded & tagged version of shnid: 1170
+
+Grateful Dead
+8/21/69 
+Aquatheatre, 
+Seattle, WA
+
+Lineage: S:Cm,C,D,CDR [Soundboard -> Bear's Cassette master -> Cassette -> DAT -> CD]
+CD>EAC>SHN by Glenn Tremblay (glenntremblay@charter.net)
+______________________________________________________________________________________
+
+--Setlist--
+101-t01 - /China Cat Sunflower*-> Jam*
+102-t02 - Doin' That Rag
+103-t03 - Big Boss Man
+104-t04 - Sitting On Top Of The World
+105-t05 - Cryptical Envelopement-> 
+106-t06 - Drums-> 
+107-t07 - The Other One-> 
+108-t08 - Cryptical Envelopement-> 
+109-t09 - Dark Star-> 
+110-t10 - Cosmic Charlie
+
+* Charles Lloyd plays flute
+______________________________________________________________________________________
+
+
+Flac encoding notes:Aquath
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 9-29-11
+______________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+1f0608a4f453fd9d9c991343edd75336  [shntool]  GD69-08-21t01.wav.shn
+498c95e784ec7e7a74265e234a0cff17  [shntool]  GD69-08-21t02.wav.shn
+36870f66d368a318564380ce3e129998  [shntool]  GD69-08-21t03.wav.shn
+4f8f6ec22af72f3fa8bac77ce1a404a5  [shntool]  GD69-08-21t04.wav.shn
+e317ed2ad96e9977d3edc14fac1da202  [shntool]  GD69-08-21t05.wav.shn
+3695392b98e59ecc5aa6bc964e1ff22f  [shntool]  GD69-08-21t06.wav.shn
+26533eff71f9d416b4dc0ea62fed6a37  [shntool]  GD69-08-21t07.wav.shn
+f8ac84f6869a3b9bdeed4e349e71d55d  [shntool]  GD69-08-21t08.wav.shn
+54334871a8c9101e70337884d420ed29  [shntool]  GD69-08-21t09.wav.shn
+c5216d77b1c1dcffd38f2e799e19a2b6  [shntool]  GD69-08-21t10.wav.shn
+
+; shntool md5 fingerprint file 
+1f0608a4f453fd9d9c991343edd75336  [shntool]  GD69-08-21t01.wav.flac
+498c95e784ec7e7a74265e234a0cff17  [shntool]  GD69-08-21t02.wav.flac
+36870f66d368a318564380ce3e129998  [shntool]  GD69-08-21t03.wav.flac
+4f8f6ec22af72f3fa8bac77ce1a404a5  [shntool]  GD69-08-21t04.wav.flac
+e317ed2ad96e9977d3edc14fac1da202  [shntool]  GD69-08-21t05.wav.flac
+3695392b98e59ecc5aa6bc964e1ff22f  [shntool]  GD69-08-21t06.wav.flac
+26533eff71f9d416b4dc0ea62fed6a37  [shntool]  GD69-08-21t07.wav.flac
+f8ac84f6869a3b9bdeed4e349e71d55d  [shntool]  GD69-08-21t08.wav.flac
+54334871a8c9101e70337884d420ed29  [shntool]  GD69-08-21t09.wav.flac
+c5216d77b1c1dcffd38f2e799e19a2b6  [shntool]  GD69-08-21t10.wav.flac
+
+

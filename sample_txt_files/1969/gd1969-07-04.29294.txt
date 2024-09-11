@@ -1,0 +1,113 @@
+This is flac encoded & tagged version of shind: 29294
+
+Grateful Dead
+07/04/1969
+Electric Theater 
+Chicago, IL
+
+source: sbd > mc > d >cd > shn > wav > shn 
+___________________________________________________________________________________________
+
+--Songlist--
+101-dqt0q - Hard to Handle
+102-d1t02 - Mama Tried
+103-d1t04 - //Ol' Slewfoot
+104-d1t04 - //Silver Threads & Golden Needles
+105-d1t05 - Cryptical Envelopment ->
+106-d1t06 - Drums ->
+107-d1t07 - The Other One ->
+108-d1t08 - High Time ->
+109-d1t09 - Casey Jones
+110-d1t10 - King Bee
+111-d2t01 - Sittin' on Top of the World ->
+112-d2t02 - Me & My Uncle//
+113-d2t03 - //Doin' That Rag
+114-d2t04 - Let Me In 83968
+115-d2t05 - Dire Wolf
+116-d2t06 - tuning
+117-d2t07 - St. Stephen ->
+118-d2t08 - Turn on Your Lovelight
+__________________________________________________________________________________________
+
+notes:
+- d1t01 small dropout at 3:09 repaired.  small gap at 4:49 closed.
+- d1t02 three minor clicks prior to song commencing removed.  click removed at 1:14.  
+  smoothed splice a little at 1:25.5.
+- d1t03 two small clicks removed at 0.35 seconds.  volume boost by 4 dbs in left channel 
+  between 6.7-10.8 seconds.  volume boost by 2.5-5 dbs in right channel between 34.3-35.93 
+  seconds.  volume boost by 3.4 dbs in right channel between 2.43-3.04 seconds
+- d1t04 removed click at 1:01
+- d1t07 clipping between 0:20-3:00 partially restored.  a number of clicks between 
+  9:13-9:21 removed.  click removed at 10:56
+- d1t09 click removed at 0:42
+- d2 a significant amount of volume adjustments have been made, far too many to document.
+- some noise reduction has been applied throughout and a final polish made with iZotope 
+  Ozone 
+
+comments:
+It's still far from perfect.  The biggest problems occur where it was necessary to make 
+large boosts to the left channel and this introduced artifacts that were not present 
+before.  This is most noticeable during d2t04.
+
+This is for Richard, who suggested this show could sound better.
+
+SIRMick
+May 2005
+____________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 8-07-11 
+_________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+dff29dcbb67ac73f7594bca53256933d  [shntool]  gd69-07-04d1t01.shn
+58050a2faf834d155873503570ee8f26  [shntool]  gd69-07-04d1t02.shn
+6ee46ffe092779c6480b897e5dcedfd8  [shntool]  gd69-07-04d1t03.shn
+a97a1f6b65f40eb7ca1f17c4e3ad24d9  [shntool]  gd69-07-04d1t04.shn
+d873153f13cf0e164a420c4929352069  [shntool]  gd69-07-04d1t05.shn
+a6dfae3fbc53a9e87ff81110d383010b  [shntool]  gd69-07-04d1t06.shn
+23da71d577afd028bac1f1c131b932d0  [shntool]  gd69-07-04d1t07.shn
+985bc92602629a9453abbb388a506a75  [shntool]  gd69-07-04d1t08.shn
+48f33a0ff39c6c8d5bc7d6654f18f27d  [shntool]  gd69-07-04d1t09.shn
+1c823e5831cee434a187f96193510956  [shntool]  gd69-07-04d1t10.shn
+8b84f84a83d8d12d8ab03a2784fce167  [shntool]  gd69-07-04d2t01.shn
+336fc64ac3252dd4bc42c7ec4dab6fae  [shntool]  gd69-07-04d2t02.shn
+568b4c9e91602b9d899ef615c288ae6b  [shntool]  gd69-07-04d2t03.shn
+3c4902b0477a24bc61e23a67b5b756dd  [shntool]  gd69-07-04d2t04.shn
+4143d784caee5ab04f8d80e5b0d06ada  [shntool]  gd69-07-04d2t05.shn
+93eeafbb9949cc64a2d542976af2ba37  [shntool]  gd69-07-04d2t06.shn
+1f05a565b34dd6d602261da3132e4731  [shntool]  gd69-07-04d2t07.shn
+1cad416e607ffa69ae971b3fcf3eeeb0  [shntool]  gd69-07-04d2t08.shn
+
+; shntool md5 fingerprint file 
+dff29dcbb67ac73f7594bca53256933d  [shntool]  gd69-07-04d1t01.flac
+58050a2faf834d155873503570ee8f26  [shntool]  gd69-07-04d1t02.flac
+6ee46ffe092779c6480b897e5dcedfd8  [shntool]  gd69-07-04d1t03.flac
+a97a1f6b65f40eb7ca1f17c4e3ad24d9  [shntool]  gd69-07-04d1t04.flac
+d873153f13cf0e164a420c4929352069  [shntool]  gd69-07-04d1t05.flac
+a6dfae3fbc53a9e87ff81110d383010b  [shntool]  gd69-07-04d1t06.flac
+23da71d577afd028bac1f1c131b932d0  [shntool]  gd69-07-04d1t07.flac
+985bc92602629a9453abbb388a506a75  [shntool]  gd69-07-04d1t08.flac
+48f33a0ff39c6c8d5bc7d6654f18f27d  [shntool]  gd69-07-04d1t09.flac
+1c823e5831cee434a187f96193510956  [shntool]  gd69-07-04d1t10.flac
+8b84f84a83d8d12d8ab03a2784fce167  [shntool]  gd69-07-04d2t01.flac
+336fc64ac3252dd4bc42c7ec4dab6fae  [shntool]  gd69-07-04d2t02.flac
+568b4c9e91602b9d899ef615c288ae6b  [shntool]  gd69-07-04d2t03.flac
+3c4902b0477a24bc61e23a67b5b756dd  [shntool]  gd69-07-04d2t04.flac
+4143d784caee5ab04f8d80e5b0d06ada  [shntool]  gd69-07-04d2t05.flac
+93eeafbb9949cc64a2d542976af2ba37  [shntool]  gd69-07-04d2t06.flac
+1f05a565b34dd6d602261da3132e4731  [shntool]  gd69-07-04d2t07.flac
+1cad416e607ffa69ae971b3fcf3eeeb0  [shntool]  gd69-07-04d2t08.flac

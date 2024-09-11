@@ -1,0 +1,67 @@
+Grateful Dead 12/19/69 Fillmore Auditorium, San Francisco, CA
+
+SBD MR>C>D>CD + AUD low-gen
+
+CD 1.
+Monkey & The Engineer
+Little Sadie
+Long Black Limousine
+All Around This World
+Mason's Children
+Black Peter
+Hard To Handle
+Cumberland Blues
+Casey Jones
+Good Lovin'
+
+CD 2.
+Cryptical Envelopment >
+Drums >
+The Other One >
+Cryptical Envelopment >
+Uncle John's Band >
+Lovelight
+
+The AUD tape supplies:
+ D1T09 (Casey Jones) 1:05 through 4:21
+ D2T06 (Lovelight) 7:53 through 8:14
+
+patches by H.B., 4/02<BR>
+thanks to Uli for the AUD tape, and Rob for the SBD download!
+
+Note: The SBD used was the Scott Clugston seed. Everything except
+D1T09 (Casey Jones), D1T10 (Good Lovin') and D2T06 (Lovelight) is
+unchanged. The info file for the Scott Clugston seeds is as follows:
+
+Grateful Dead
+12/19/69
+Fillmore Auditorium
+San Francisco, CA
+
+Source: 7" Master Soundboard Reels > Cassette > DAT > CDR
+
+CD Mastering by Scott Clugston
+EAC'ed / SHN'ed by Scott Clugston
+8/28/01
+
+   Disc 1
+   Acoustic (Garcia & Weir)
+1. Monkey & The Engineer
+2. Little Sadie
+3. Long Black Limousine
+4. I've Been All Around This World
+   Electric
+5. Mason's Children
+6. Black Peter
+7. Hard To Handle
+8. Cumberland Blues
+9. Casey Jones//
+10.Good Lovin'
+
+   Disc 2
+1. Cryptical Envelopment>
+2. Drums>
+3. The Other One>
+4. Cryptical Envelopment>
+5. Uncle John's Band
+6. Turn On Your //Lovelight

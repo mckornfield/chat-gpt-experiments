@@ -1,0 +1,164 @@
+This is a flac encoded & tagged version of shind: 11256
+
+Grateful Dead
+12/05/69
+Fillmore West
+San Francisco, CA
+
+Lineage: Aud Master Cassette > PCM > DAT > CD     
+      ** Recorded by Harry Ely: Sony F995 > Sony TC-124
+
+(Extraction and.shn encoding by Seth Kaplan via EAC and MKW.
+Accurate extraction and properly aligned sector boundaries 
+verified via EAC and .shntool)
+
+Very decent quality '69 AUD 
+_____________________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Me &  My Uncle
+102-d1t02 - Casey Jones
+103-d1t03 - Black Peter
+104-d1t04 - Mama Tried
+105-d1t05 - It Hurts Me Too
+106-d1t06 - Cumberland Blues
+107-d1t07 - Cryptical Envelopment ->
+108-d1t08 - Drums ->
+109-d1t09 - The Other One ->
+110-d1t10 - Cryptical repise
+111-d1t11 - Cosmic charlie
+112-d2t01 - Dancin' in the Streets
+113-d2t02 - Dire Wolf
+114-d2t03 - China Cat Sunflower -> 
+115-d2t04 - I Know You Rider -> 
+116-d2t05 - High Time
+117-d2t06 - Uncle John's Jam -> 
+118-d2t07 - The Main Ten -> 
+119-d2t08 - It's All Over Now,Baby Blue
+_____________________________________________________________________________________________
+
+From Deadists:
+During the pause after Me & My Uncle, referring to the free
+concert the next day at Altamont Bobby says "Bear wants me to tell you to
+bring dope" and Jerry adds "Not only that but it's something to do."
+
+Harry Ely mastered this AUD tape.  He was a little fast on his pause button
+at this show.  He clips several songs and pauses three times during drums.
+Otherwise, he made quite a decent audience tape for '69 Dead.
+
+Jerry introduces Dire Wolf saying "This is a song you can all sing along on"
+and as it turned out "Don't murder me, I beg of you, don't murder me" was a
+good refrain at Altamont.  Jerry uses this intro the night before as well.
+
+The longest China Cat > Rider bridge jam yet features a Caution tease from
+Phil among its divagations.
+
+The Uncle John's Jam is just a scrap from the song's jam in 7s.  Apparently
+the previous night was the song's premier (there are Uncle John's Jams on
+11/7 and 11/8) but as far as we know they didn't play the tune again till
+12/12.  Given this taper's fast pause button finger, he's quite capable of
+having clipped the transition from Uncle John's jam into the Main Ten, but
+unless he ran into serious trouble it's difficult to figure how he lost
+nearly the whole of Uncle John in a flip (he had a flip coming, probably,
+after Dire Wolf).  The evidence leaves it totally unclear whether they
+played the tune or just the jam.
+
+RECORDING  135 A? cassette
+CONTRIBUTORS  Jim Powell  Eric Doherty
+_____________________________________________________________________________________________
+
+Notes:
+This source is listed in the database as a soundboard and attributed to Jeff Cotsman. 
+This is beyond doubt an audience source as listed in the text. I have remnamed the 
+show file to correctly reflect it's lineage.
+
+The original text & Deadlists incorrectly lists an Eleven Jam > 2nd Other One in 
+the first set. These two songs are not present, were not played and have been 
+removed from the text listing. The Other One transitions directly into Cryptical
+reprise which transitions directly into Cosmic Charlie. How the additional songs
+got listed in the first place is a mystery to me. How no one has never corrected 
+the listing before now is even stranger.
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values 11-01-11
+____________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+bede18205ea1cfae89854643cd06ca41  [shntool]  gd69-12-05d1t01.shn
+663b59219292f97f7b614262952f3d01  [shntool]  gd69-12-05d1t02.shn
+a7cf58866897ce65ad386052b0768dd8  [shntool]  gd69-12-05d1t03.shn
+3fecf13fe196e1f8d79d98d6e48b8b4a  [shntool]  gd69-12-05d1t04.shn
+e38afd945c7ef6e15dcb57b62007a082  [shntool]  gd69-12-05d1t05.shn
+d1273688807fa2d8d4db77612615b648  [shntool]  gd69-12-05d1t06.shn
+2671d3b2a69c9e68a9aeb4a9a9a36479  [shntool]  gd69-12-05d1t07.shn
+6e6fcbeaf449e31a0b009b56bdae8071  [shntool]  gd69-12-05d1t08.shn
+804af6b6f9c49ad4215934019fd3909e  [shntool]  gd69-12-05d1t09.shn
+b031e65971144fe589ea59e1523ac4c5  [shntool]  gd69-12-05d1t10.shn
+9754eff55c31e338f5e6afbd7b9c1678  [shntool]  gd69-12-05d1t11.shn
+501f6b3755316e150bcb9a4803ec8c80  [shntool]  gd69-12-05d2t01.shn
+64d424d4f0609750c921042757d606b9  [shntool]  gd69-12-05d2t02.shn
+15b77272b43a708c13662fd98ecf057e  [shntool]  gd69-12-05d2t03.shn
+935639d5542de50d94b84cae0054fc22  [shntool]  gd69-12-05d2t04.shn
+74d070950dec78cf884fb688db5f52a6  [shntool]  gd69-12-05d2t05.shn
+fcf980c74c5198ac6ad5cf499d22fca7  [shntool]  gd69-12-05d2t06.shn
+f3ae9a888a918bc271286791c6ddc95b  [shntool]  gd69-12-05d2t07.shn
+b1dfd9174fda0aab37422485cd88023c  [shntool]  gd69-12-05d2t08.shn
+
+; shntool md5 fingerprint file 
+bede18205ea1cfae89854643cd06ca41  [shntool]  gd69-12-05d1t01.flac
+663b59219292f97f7b614262952f3d01  [shntool]  gd69-12-05d1t02.flac
+a7cf58866897ce65ad386052b0768dd8  [shntool]  gd69-12-05d1t03.flac
+3fecf13fe196e1f8d79d98d6e48b8b4a  [shntool]  gd69-12-05d1t04.flac
+e38afd945c7ef6e15dcb57b62007a082  [shntool]  gd69-12-05d1t05.flac
+d1273688807fa2d8d4db77612615b648  [shntool]  gd69-12-05d1t06.flac
+2671d3b2a69c9e68a9aeb4a9a9a36479  [shntool]  gd69-12-05d1t07.flac
+6e6fcbeaf449e31a0b009b56bdae8071  [shntool]  gd69-12-05d1t08.flac
+804af6b6f9c49ad4215934019fd3909e  [shntool]  gd69-12-05d1t09.flac
+b031e65971144fe589ea59e1523ac4c5  [shntool]  gd69-12-05d1t10.flac
+9754eff55c31e338f5e6afbd7b9c1678  [shntool]  gd69-12-05d1t11.flac
+501f6b3755316e150bcb9a4803ec8c80  [shntool]  gd69-12-05d2t01.flac
+64d424d4f0609750c921042757d606b9  [shntool]  gd69-12-05d2t02.flac
+15b77272b43a708c13662fd98ecf057e  [shntool]  gd69-12-05d2t03.flac
+935639d5542de50d94b84cae0054fc22  [shntool]  gd69-12-05d2t04.flac
+74d070950dec78cf884fb688db5f52a6  [shntool]  gd69-12-05d2t05.flac
+fcf980c74c5198ac6ad5cf499d22fca7  [shntool]  gd69-12-05d2t06.flac
+f3ae9a888a918bc271286791c6ddc95b  [shntool]  gd69-12-05d2t07.flac
+b1dfd9174fda0aab37422485cd88023c  [shntool]  gd69-12-05d2t08.flac
+
+Disc One track timing:
+     4:13             44735084      -    gd69-12-05d1t01.shn
+     4:35             48512396      -    gd69-12-05d1t02.shn
+     9:16             98196044      -    gd69-12-05d1t03.shn
+     2:36             27603116      -    gd69-12-05d1t04.shn
+     5:24             57163052      -    gd69-12-05d1t05.shn
+     6:59             73984556      -    gd69-12-05d1t06.shn
+     2:06             22245260      -    gd69-12-05d1t07.shn
+     5:16             55914140      -    gd69-12-05d1t08.shn
+    12:16            129992732      -    gd69-12-05d1t09.shn
+     2:00             21330332      -    gd69-12-05d1t10.shn
+     6:43             71223308      -    gd69-12-05d1t11.shn
+    61:29            650900020 B         (totals for 11 files)
+
+Disc Two track timing:
+     8:54             94272908      -    gd69-12-05d2t01.shn
+     4:52             51581756      -    gd69-12-05d2t02.shn
+     7:28             79088396      -    gd69-12-05d2t03.shn
+     5:00             52943564      -    gd69-12-05d2t04.shn
+     7:14             76585868      -    gd69-12-05d2t05.shn
+     0:48              8558972      -    gd69-12-05d2t06.shn
+     2:38             28045292      -    gd69-12-05d2t07.shn
+    11:30            121784252      -    gd69-12-05d2t08.shn
+    48:27            512861008 B         (totals for 8 files)
+

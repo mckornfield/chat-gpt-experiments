@@ -1,0 +1,91 @@
+This is a flac encoded & tagged version of shnid: 7775
+
+Grateful Dead
+June 13, 1969
+Fresno Convention Center
+Fresno, Cal
+
+Master Soundboard Cassette > Cass > DAT > ZA2 > SF > CD
+
+Digital Mastering Notes:
+Pitch shifted in SoundForge up 70 cents on highest
+accuracy with anti-alias filter. Normalized prior
+to doing the pitch shift.
+
+distributed as a party favor to all attendees
+of eD's Best Outrageous Northeast Gathering
+March 16th, 2002   M'town, NJ
+
+EAC>SHN transfer by Steve Barbella
+EAC Secure test and copy, w/offsets config'd, no errors
+SHN via MKW v.97 (seek enabled)
+shntool used to verify sectors.  They were fine.
+_________________________________________________________________________________
+
+--Songlist-
+101-d1t01 - Hard to Handle
+102-d1t02 - Yellow Dog Story
+103-d1t03 - Me & My Uncle
+104-d1t04 - Sittin on Top of the World
+105-d1t05 - Beat It on Down the Line
+106-d1t06 - Good Morning, Little Schoolgirl
+107-d1t07 - China Cat Sunflower ->
+108-d1t08 - Morning Dew
+109-d2t01 - St. Stephen ->
+110-d2t02 - The Eleven ->
+111-d2t03 - Turn on Your Lovelight
+_________________________________________________________________________________
+
+Deadlist Comments:
+Ronnie Hawkins appears on Good Morning Little Schoolgirl and
+Lovelight.  Someone adds flute on Lovelight.  Some speculate
+that it's Charles Lloyd, but this seems unlikely.
+
+Tape Notes:
+tape splice in Saint Stephen @ 0:37 (probably no music missing)
+tape splice in The Eleven @ 11:00  (a few minutes might be clipped)
+_________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-29-11 
+_________________________________________________________________________________
+
+; shntool md5 fingerprint file
+d5b04629198233145b85489c30d8aaac  [shntool]  gd69-06-13d1t01.shn
+e9303703feee2c05470fb392fe867648  [shntool]  gd69-06-13d1t02.shn
+3aaddf5986ec336021891ca3d243dd87  [shntool]  gd69-06-13d1t03.shn
+b8834c4caa1f0afae4c20d97c9b46c8d  [shntool]  gd69-06-13d1t04.shn
+72bea573afd4cf816bea8d9e5aad96e5  [shntool]  gd69-06-13d1t05.shn
+4b26514ae6dddc33da06df844c6bdb8b  [shntool]  gd69-06-13d1t06.shn
+23cf09ff2168a78e87e19dd9d9a915e6  [shntool]  gd69-06-13d1t07.shn
+1b452c783d1441ea04b9b21d370abed7  [shntool]  gd69-06-13d1t08.shn
+50a2211e2685cc4fa15df9f1866be622  [shntool]  gd69-06-13d2t01.shn
+e35d6e79fc00035bebf00893da330fb6  [shntool]  gd69-06-13d2t02.shn
+88e3d9ebf46d06c74d03b7e3051269ee  [shntool]  gd69-06-13d2t03.shn
+
+
+; shntool md5 fingerprint file 
+d5b04629198233145b85489c30d8aaac  [shntool]  gd69-06-13d1t01.flac
+e9303703feee2c05470fb392fe867648  [shntool]  gd69-06-13d1t02.flac
+3aaddf5986ec336021891ca3d243dd87  [shntool]  gd69-06-13d1t03.flac
+b8834c4caa1f0afae4c20d97c9b46c8d  [shntool]  gd69-06-13d1t04.flac
+72bea573afd4cf816bea8d9e5aad96e5  [shntool]  gd69-06-13d1t05.flac
+4b26514ae6dddc33da06df844c6bdb8b  [shntool]  gd69-06-13d1t06.flac
+23cf09ff2168a78e87e19dd9d9a915e6  [shntool]  gd69-06-13d1t07.flac
+1b452c783d1441ea04b9b21d370abed7  [shntool]  gd69-06-13d1t08.flac
+50a2211e2685cc4fa15df9f1866be622  [shntool]  gd69-06-13d2t01.flac
+e35d6e79fc00035bebf00893da330fb6  [shntool]  gd69-06-13d2t02.flac
+88e3d9ebf46d06c74d03b7e3051269ee  [shntool]  gd69-06-13d2t03.flac

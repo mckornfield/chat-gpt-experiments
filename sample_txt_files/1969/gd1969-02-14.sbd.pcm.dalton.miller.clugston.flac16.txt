@@ -1,0 +1,70 @@
+Grateful Dead
+Electric Factory
+Philadelphia, PA
+Friday February 14, 1969
+
+Source Info:
+Master Soundboard Cassette > Reel to Reel > PCM (Sony HG tape)
+
+Transfer Info:
+PCM (Sony SL-10)> Sony PCM-601ESD > Behringer Ultramatch Pro > Tascam DA-3000 (wav 16-bit/44.1k)> Adobe Audition 3.0 > TLH flac16
+
+Notes:
+- Thanks to Tim Dalton for the source PCM
+- Thanks to Charlie Miller for the transfer
+- First few notes of "Good Morning Little Schoolgirl" clipped
+- Beginning of "Dark Star" clipped
+- Anomaly at 0:25 of Schoolgirl, which is also present on the previous version (shnid6286), has been minimized
+- Pitch corrected
+- Upgrade to what is in general circulation (2/18)
+
+Mastered by Scott Clugston
+February 14, 2018 - Happy Valentine's Day
+
+Set One:
+t01 - //Good Morning, Little Schoolgirl
+t02 - "Ladies and Gentlemen, that's Bear"
+t03 - //Dark Star >
+t04 - St. Stephen >
+t05 - The Eleven >
+t06 - Turn On Your Lovelight
+
+Set Two:
+t07 - Morning Dew
+t08 - Cryptical Envelopment >
+t09 - The Other One >
+t10 - Cryptical Envelopment >
+t11 - Death Don't Have No Mercy
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:58.21      105536636 B   ---   --   ---xx   flac  0.5380  gd69-02-14 t01 Good Morning Little Schoolgirl.flac
+     1:36.27       16997948 B   ---   --   ---xx   flac  0.4837  gd69-02-14 t02 Ladies and Gentlemen that's Bear.flac
+    19:03.29      201693452 B   ---   --   ---xx   flac  0.5788  gd69-02-14 t03 Dark Star.flac
+     6:15.74       66324092 B   ---   --   ---xx   flac  0.5573  gd69-02-14 t04 St. Stephen.flac
+    16:06.50      170520044 B   ---   --   ---xx   flac  0.5620  gd69-02-14 t05 The Eleven.flac
+    13:06.48      138763340 B   ---   --   ---xx   flac  0.5508  gd69-02-14 t06 Turn On Your Lovelight.flac
+    10:58.53      116195900 B   ---   --   ---xx   flac  0.5444  gd69-02-14 t07 Morning Dew.flac
+     2:18.56       24474956 B   ---   --   ---xx   flac  0.5339  gd69-02-14 t08 Cryptical Envelopment.flac
+     9:26.19       99887132 B   ---   --   ---xx   flac  0.5701  gd69-02-14 t09 The Other One.flac
+    12:29.55      132253004 B   ---   --   ---xx   flac  0.5520  gd69-02-14 t10 Cryptical Envelopment.flac
+    12:51.17      136044428 B   ---   --   ---xx   flac  0.5149  gd69-02-14 t11 Death Don't Have No Mercy.flac
+   114:11.74     1208690932 B                            0.5521  (11 files)
+
+No errors occured.
+
+
+
+bac6507e929d327b82fb9cb5e4d91aee *gd69-02-14 t01 Good Morning Little Schoolgirl.flac
+f8793daca15ddc0b5882f67e6e1e9109 *gd69-02-14 t02 Ladies and Gentlemen that's Bear.flac
+0476e78806f729b36c78b50359787191 *gd69-02-14 t03 Dark Star.flac
+d449cfd307ce94a931109d3fc395132d *gd69-02-14 t04 St. Stephen.flac
+7ce34677feba468f80afc7ca0f5f459e *gd69-02-14 t05 The Eleven.flac
+616e01c27d65390e076daffed67f6c15 *gd69-02-14 t06 Turn On Your Lovelight.flac
+017e0c57f1fcdc455d6967af6bffa757 *gd69-02-14 t07 Morning Dew.flac
+01b126a832274c7a7c6925e077ef4a8e *gd69-02-14 t08 Cryptical Envelopment.flac
+7292007369c04960ad9b08532af7707c *gd69-02-14 t09 The Other One.flac
+02a0e8306fb5c57fa61337351847a2a3 *gd69-02-14 t10 Cryptical Envelopment.flac
+ca2d116e466b9bc99a0ad9796e978f1a *gd69-02-14 t11 Death Don't Have No Mercy.flac
+

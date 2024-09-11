@@ -1,0 +1,93 @@
+This is a flac encoded & tagged version of shnid: 6298
+
+Grateful Dead
+11-1-69
+Family Dog At The Great Highway,
+San Francisco
+
+SBD>MC>C>D>CD>EAC>SHN
+
+The sound is not as full or crisp as many others from '69 with a similiar 
+lineage, but the mix is stable and there are very few blemishes.   Sound 
+Forge was used for normalization and minor edits.
+
+Thanks to Paul Hartman
+encoding/edits by J. Cotsman
+_______________________________________________________________________________________
+
+--set 1--
+101-d1t01 - Morning Dew
+102-d1t02 - Dire Wolf ->
+103-d1t03 - Cold Rain & Snow
+104-d1t04 - Hard To Handle
+105-d1t05 - Mama Tried ->
+106-d1t06 - High Time
+107-d1t07 - Good Lovin'
+108-d1t08 - Easy Wind%
+
+--Set 2--
+201-d2t01 - He Was A Friend Of Mine->
+202-d2t02 - China Cat Sunflower ->
+203-d2t03 - I Know You Rider ->
+204-d2t04 - Casey Jones
+205-d2t05 - Alligator ->
+206-d2t06 - Jam ->
+207-d2t07 - Uncle John's Band Jam ->
+208-d2t08 - Turn on Your Lovelight%
+_______________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-23-11
+_______________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+d50f07743ff0e31085f202848ecc9546  [shntool]  gd69-11-01d1t01.shn
+58553f746a69f338d29a2146b9973a33  [shntool]  gd69-11-01d1t02.shn
+86fd28ccde0a6f2d03f2522c09b33587  [shntool]  gd69-11-01d1t03.shn
+a21d9faf465b4e4d3fb7217fe61558a6  [shntool]  gd69-11-01d1t04.shn
+fdd93c379497c222ab681fee36944f98  [shntool]  gd69-11-01d1t05.shn
+34f70b24a11fc5865aaf6f451c096d45  [shntool]  gd69-11-01d1t06.shn
+c474ba30faab9323ac0aa402846856a1  [shntool]  gd69-11-01d1t07.shn
+a9804cf9410550cd417253cd0f658b97  [shntool]  gd69-11-01d1t08.shn
+f78a8c52be7152e6fb5c2ea78841fc6c  [shntool]  gd69-11-01d2t01.shn
+8c04c283500f05f229b5eae006eb5473  [shntool]  gd69-11-01d2t02.shn
+be811d4285dc4084ad3124bb0df1c239  [shntool]  gd69-11-01d2t03.shn
+f82d09d47a9360447eb13862e71cf83d  [shntool]  gd69-11-01d2t04.shn
+d7f26c88a17a7b68c6ff97c31e815384  [shntool]  gd69-11-01d2t05.shn
+5d710151cabd178dfbdc7104da1f09b5  [shntool]  gd69-11-01d2t06.shn
+a28f42dc9127a63121cdf30a66dbd25a  [shntool]  gd69-11-01d2t07.shn
+4b3392c21ac0efd2f7e299f7305444c5  [shntool]  gd69-11-01d2t08.shn
+
+; shntool md5 fingerprint file 
+d50f07743ff0e31085f202848ecc9546  [shntool]  gd69-11-01d1t01.flac
+58553f746a69f338d29a2146b9973a33  [shntool]  gd69-11-01d1t02.flac
+86fd28ccde0a6f2d03f2522c09b33587  [shntool]  gd69-11-01d1t03.flac
+a21d9faf465b4e4d3fb7217fe61558a6  [shntool]  gd69-11-01d1t04.flac
+fdd93c379497c222ab681fee36944f98  [shntool]  gd69-11-01d1t05.flac
+34f70b24a11fc5865aaf6f451c096d45  [shntool]  gd69-11-01d1t06.flac
+c474ba30faab9323ac0aa402846856a1  [shntool]  gd69-11-01d1t07.flac
+a9804cf9410550cd417253cd0f658b97  [shntool]  gd69-11-01d1t08.flac
+f78a8c52be7152e6fb5c2ea78841fc6c  [shntool]  gd69-11-01d2t01.flac
+8c04c283500f05f229b5eae006eb5473  [shntool]  gd69-11-01d2t02.flac
+be811d4285dc4084ad3124bb0df1c239  [shntool]  gd69-11-01d2t03.flac
+f82d09d47a9360447eb13862e71cf83d  [shntool]  gd69-11-01d2t04.flac
+d7f26c88a17a7b68c6ff97c31e815384  [shntool]  gd69-11-01d2t05.flac
+5d710151cabd178dfbdc7104da1f09b5  [shntool]  gd69-11-01d2t06.flac
+a28f42dc9127a63121cdf30a66dbd25a  [shntool]  gd69-11-01d2t07.flac
+4b3392c21ac0efd2f7e299f7305444c5  [shntool]  gd69-11-01d2t08.flac
+
+
+

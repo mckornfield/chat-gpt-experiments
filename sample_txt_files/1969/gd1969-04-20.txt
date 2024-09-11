@@ -1,0 +1,36 @@
+Grateful Dead
+04/20/69
+Clark University
+Worcester. MA
+
+
+	-Disc 1 (73:38)-
+1. Tuning				02:13
+2. Morning Dew 				09:38
+3. Good Morning Little Schoolgirl  	10:43
+4. Doin' That Rag  			06:25
+5. Dark Star > 				21:16
+6. St Stephen > 			06:17
+7. The Eleven > 			06:44
+8. Death Don't Have Mercy  		10:00
+
+	-Disc 2 (31:36)-
+1. Lovelight				22:38
+2. E1:Dupree's Diamond Blues > 		03:46
+3. E2:Mountains Of The Moon 		05:12
+
+Rahsaan Roland Kirk opened.  
+
+Source:
+SBD>Cassette Master (Ampex C-90, no Dolby)> DAT(M)@ 44.1K via Panasonic SV3700>DAT(1)>DAT(2)>WAV via Sony SDT9000 DDS drive using VDAT0.6f>Soundforge 4.0 (see edits below)
+
+edits:
+crossfades of two short dropouts in Morning Dew at 3:29 and 7:19
+crossfade of reel flip in the beginning of The Eleven
+fades to begin and end the set
+all other crossfades were edits of flips between songs where no music was disturbed  
+
+no DAE, resampling, or bulk processing of waveform was performed
+
+Source DAT from Rob Eaton
+DAT>SHN by Jamie Lutch 6/2001

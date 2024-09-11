@@ -1,0 +1,48 @@
+Grateful Dead - February 21, 1969
+Dream Bowl - Vallejo, CA
+
+Recording Info:
+SBD -> Master Cassette -> Reel -> Dat (44.1k)
+
+Transfer Info:
+Dat (Sony R500) -> Tascam SS-R05 -> Adobe Audition v3.0 -> Samplitude Professional v11.2 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+February 1, 2011
+
+Patch Info:
+SBD -> Cassette Master -> Cassette -> Dat -> CD supplies:
+The Eleven (17:41 - end of track)
+Turn On Your Lovelight (complete track)
+Morning Dew (complete track)
+
+Notes:
+-- Disc change is seamless
+-- Thanks To David Gans and Dick Latvala for the Dat
+-- Thanks to Rob Eaton for the patch source
+-- Thanks to Joe B. Jones for his help with the pitch correction
+
+Setlist:
+d1t01 - Good Morning Little Schoolgirl
+d1t02 - Doin' That Rag
+d1t03 - Dark Star ->
+d1t04 - St. Stephen ->
+d1t05 - The Eleven ->
+d2t01 - Turn On Your Lovelight
+
+Encore:
+d2t02 - Morning Dew
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+    12:01.26     127245596     ---   --    ---    gd69-02-21d1t01.wav
+     6:34.36      69586316     ---   --    ---    gd69-02-21d1t02.wav
+    20:38.19     218427932     ---   --    ---    gd69-02-21d1t03.wav
+     6:51.16      72538076     ---   --    ---    gd69-02-21d1t04.wav
+    20:40.37     218823068     ---   --    ---    gd69-02-21d1t05.wav
+    25:04.07     265322108     ---   --    ---    gd69-02-21d2t01.wav
+    11:15.33     119147660     ---   --    ---    gd69-02-21d2t02.wav
+   103:05.24    1091090756 B                      (totals for 7 files)

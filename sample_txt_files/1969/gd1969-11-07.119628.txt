@@ -1,0 +1,77 @@
+This is a tagged version of shnid: 119628
+
+Grateful Dead  
+November 7, 1969
+Fillmore Auditorium  
+San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> Dat
+
+Transfer Info:
+Dat -> Samplitude Professional v11.2 -> FLAC
+(2 Discs Audio / 1 DVD FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+March 27, 2012
+
+Notes:
+-- Disc change is seamless
+-- There are reel flips in High Time and UJB Jam
+-- There are no pauses, cuts or edits between songs
+-- iZotope Ozone was used to de-click the Master Reels
+__________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Morning Dew
+102-d1t02 - Hard To Handle
+103-d1t03 - Casey Jones
+104-d1t04 - Mama Tried
+105-d1t05 - Me & My Uncle
+106-d1t06 - Tuning Ditties
+107-d1t07 - Cold Rain & Snow
+108-d1t08 - Next Time You See Me
+109-d1t09 - High Time
+110-d1t10 - Good Lovin'
+111-d1t11 - China Cat Sunflower ->
+112-d1t12 - I Know You Rider
+113-d2t01 - Dark Star ->
+114-d2t02 - Uncle John's Band Jam ->
+115-d2t03 - Dark Star ->
+116-d2t04 - That's It For The Other One ->
+117-d2t05 - Turn On Your Lovelight
+__________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 4-01-12
+_________________________________________________________________________________
+ 
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+    12:04.30     127784204     ---   --    ---    gd69-11-07d1t01.wav
+     7:01.52      74386748     ---   --    ---    gd69-11-07d1t02.wav
+     4:57.45      52496684     ---   --    ---    gd69-11-07d1t03.wav
+     3:03.62      32427068     ---   --    ---    gd69-11-07d1t04.wav
+     5:03.04      53458652     ---   --    ---    gd69-11-07d1t05.wav
+     2:54.25      30752444     ---   --    ---    gd69-11-07d1t06.wav
+     6:12.32      65696108     ---   --    ---    gd69-11-07d1t07.wav
+     4:39.35      49297964     ---   --    ---    gd69-11-07d1t08.wav
+     8:38.66      91530476     ---   --    ---    gd69-11-07d1t09.wav
+    12:42.68     134576780     ---   --    ---    gd69-11-07d1t10.wav
+     4:47.48      50739740     ---   --    ---    gd69-11-07d1t11.wav
+     4:32.68      48140780     ---   --    ---    gd69-11-07d1t12.wav
+    18:29.16     195665276     ---   --    ---    gd69-11-07d2t01.wav
+     1:46.46      18806636     ---   --    ---    gd69-11-07d2t02.wav
+     5:45.10      60881564     ---   --    ---    gd69-11-07d2t03.wav
+    16:34.18     175383980     ---   --    ---    gd69-11-07d2t04.wav
+    26:07.50     276536444     ---   --    ---    gd69-11-07d2t05.wav
+   145:22.00    1538561548 B                      (totals for 17 files)

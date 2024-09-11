@@ -1,0 +1,63 @@
+This is a tagged version of shnid:123986
+
+Grateful Dead - June 8, 1969
+Fillmore West - San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> Dat
+
+Transfer Info:
+Dat -> Samplitude Professional v11.03 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+May 30, 2010
+
+Notes:
+-- * with Wayne Ceballos (vocals)/without Pigpen
+-- ** with Elvin Bishop (guitar and vocals)/without Garcia
+
+Set 1:
+d1t01 - Dancing In The Street ->
+d1t02 - He Was A Friend Of Mine ->
+d1t03 - China Cat Sunflower ->
+d1t04 - New Potato Caboose
+d1t05 - Me And My Uncle
+
+Set 2:
+d2t01 - Tuning
+d2t02 - Turn On Your Lovelight *
+d2t03 - The Things I Used To Do **
+d2t04 - Who's Lovin' You Tonight **
+d2t05 - That's It For The Other One ->
+d2t06 - Cosmic Charlie
+___________________________________________________________________________________________ 
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac 
+files. If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. If you must 
+transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+D.Frazer. 03-01-'13.
+___________________________________________________________________________________________
+
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+    13:03.45     138227084     ---   --    ---    gd69-06-08d1t01.wav
+    12:11.70     129113084     ---   --    ---    gd69-06-08d1t02.wav
+     4:16.47      45268988     ---   --    ---    gd69-06-08d1t03.wav
+    14:04.51     149001596     ---   --    ---    gd69-06-08d1t04.wav
+     3:19.09      35124812     ---   --    ---    gd69-06-08d1t05.wav
+     1:09.44      12275132     ---   --    ---    gd69-06-08d2t01.wav
+    35:55.30     380212604     ---   --    ---    gd69-06-08d2t02.wav
+     7:37.74      80788892     ---   --    ---    gd69-06-08d2t03.wav
+     6:11.46      65552636     ---   --    ---    gd69-06-08d2t04.wav
+    13:59.43     148100780     ---   --    ---    gd69-06-08d2t05.wav
+     7:44.27      81913148     ---   --    ---    gd69-06-08d2t06.wav
+   119:34.36    1265578756 B                      (totals for 11 files)

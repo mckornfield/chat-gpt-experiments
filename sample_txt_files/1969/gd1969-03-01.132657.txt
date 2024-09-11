@@ -1,0 +1,49 @@
+Band:The Grateful Dead
+Venue:Fillmore West
+Location:San Francisco-Ca
+Date:1969-03-01 Saturday
+
+Ampex MM-1000 16 Track Master Two Inch Wide Tape-
+Multi Track Mix-down To DAT By Dan Healy @ 44.1KHz) circa ____?
+
+DAT x ONE by Dick Latvala- DAT x TWO(Mine)
+Editing(Adobe Audition CC)-FLAC encoding(dBpoweramp)-Tagging(Tag & Re-name)
+Jim Wise:March 2015 . This is a 100% Flat transfer from the DAT no signal processing what-so-ever. Some Pitch Correction Implemented
+
+16 bit 44.1KHz file set
+
+Set:One
+t01.Intro-Cryptical Suite
+t02.New Potato Caboose
+t03.Doin That Rag
+t04.Cosmic Charlie
+
+Set:Two
+t05.Stage Banter-Intro
+t06.Duprees Diamond Blues
+t07.Mountains Of The Moon
+t08.Dark Star
+t09.Saint Stephen
+t10.The Eleven
+t11.Turn On Your Lovelight
+t12.Hey Jude
+
+This is how it was laid out on the original DAT by Dan Healy:
+recording cut & fade /"Turn On Your Love light" >/Lovelight
+
+patch material sourced from the ------------
+
+Recording: 
+Executive engineer: Bob Matthews
+Engineer: Betty Cantor
+Consulting engineers: Owsley, Ron Wickersham
+Sound: Bear
+
+Band Line Up:
+Jerry Garcia - guitar, vocals
+Bob Weir - guitar, vocals
+Tom Constanten - keyboards
+Ron "Pigpen" McKernan - keyboards, vocals, harmonica, percussion
+Phil Lesh - bass guitar, vocals
+Bill Kreutzmann - drums
+Mickey Hart - drums

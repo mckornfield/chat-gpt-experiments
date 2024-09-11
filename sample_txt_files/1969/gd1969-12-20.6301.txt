@@ -1,0 +1,67 @@
+This is a flac encoded & tagged version of shnid: 6301
+
+Grateful Dead
+12-20-69
+Fillmore West,
+San Francisco
+
+SBD>MR>?>FM>?>CD>EAC>SHN
+
+Thanks to Paul Hartman
+edits/encoding by J. Cotsman
+___________________________________________________________________________________
+
+--Setlist--
+101 - //Mason's Children
+202 - China Cat Sunflower-->
+103 - I Know You Rider-->
+104 - High Time//
+105 - //The Eleven-->
+106 - New Speedway Boogie-->
+107 - Turn on Your Lovelight//
+___________________________________________________________________________________
+
+notes:
+-This is not the complete show, and is missing Me & My Uncle, Hard To Handle, 
+ Cumberland Blues, Black Peter, and Dark Star>St. Stephen in the span between 
+ High Time and The Eleven.  The missing songs are quite possibly missing from 
+ the vault reels as well.   
+-This is the first known version of New Speedway, which has some very off-key 
+ harmonies, ----that sound as if they are almost intentional and sarcastic  ????.
+___________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-11-11
+_________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+44e6e99e32de77daac70c41c313737bd  [shntool]  gd69-12-20d1t01.shn
+173fca3951a10473da5a605c12a950b5  [shntool]  gd69-12-20d1t02.shn
+5cd39168aa6fe409d976cfac756c14d1  [shntool]  gd69-12-20d1t03.shn
+fcf53224ae3d0f9faef6f7441a9793e0  [shntool]  gd69-12-20d1t04.shn
+dde8a53aed8cd6d064d448939ae1d9be  [shntool]  gd69-12-20d1t05.shn
+77b805b8601380a78f857e0223a7ea9a  [shntool]  gd69-12-20d1t06.shn
+1c90216349c0cb1014515bb4e61991f0  [shntool]  gd69-12-20d1t07.shn
+
+; shntool md5 fingerprint file 
+44e6e99e32de77daac70c41c313737bd  [shntool]  gd69-12-20d1t01.flac
+173fca3951a10473da5a605c12a950b5  [shntool]  gd69-12-20d1t02.flac
+5cd39168aa6fe409d976cfac756c14d1  [shntool]  gd69-12-20d1t03.flac
+fcf53224ae3d0f9faef6f7441a9793e0  [shntool]  gd69-12-20d1t04.flac
+dde8a53aed8cd6d064d448939ae1d9be  [shntool]  gd69-12-20d1t05.flac
+77b805b8601380a78f857e0223a7ea9a  [shntool]  gd69-12-20d1t06.flac
+1c90216349c0cb1014515bb4e61991f0  [shntool]  gd69-12-20d1t07.flac
+

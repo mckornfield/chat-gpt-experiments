@@ -1,0 +1,92 @@
+This is a flac encoded & tagged version of shnid: 6296
+
+Grateful Dead
+5-11-69
+Aztec Bowl, San Diego State University,
+San Diego
+
+FM SBD > ? > shn
+
+Thanks to Paul Hartman
+encoding/edits by J. Cotsman
+________________________________________________________________________________
+
+--songlist--
+101-d1t01 - Morning Dew
+102-d1t02 - Cryptical Envelopment-->
+103-d1t03 - Drums-->
+104-d1t04 - The Other One-->
+105-d1t05 - Cryptical Envelopment-->
+106-d1t06 - Good Morning, Little Schoolgirl
+107-d1t07 - /Me & My Uncle
+108-d1t08 - /Alligator-->
+109-d1t09 - Drums*-->
+110-d1t10 - Jam*-->
+111-d1t11 - Drums*-->
+112-d1t12 - Turn on Your Lovelight*
+
+*with members of Santana
+________________________________________________________________________________
+
+notes:
+This has circulated as 5-29-69, though it seems much more likely to be from 
+the 11th.   Deadbase lists Canned Heat & Santana as sharing the billing with 
+the Dead for the 11th.  Deadlists.com lists a partial setlist for 5-11-69, 
+from Dew through Schoolgirl.   A radio announcer can briefly be heard 
+speaking of Canned Heat during the Cryptical Reprise.   The guests almost 
+certainly include multiple percussionists from Santana, their singer briefly 
+during Lovelight, and some guitar from Carlos Santana, though his 
+contributions seem low in the mix and infrequent. 
+
+The lineage is unknown, although the radio announcers would indicate this 
+being from a radio broadcast.   There are probably several analog 
+generations, but quality improves towards the end and is listenable.  There 
+is a brief dropout in volume level during the Cryptical Reprise. The first 
+few notes of Me & My Uncle have been clipped as radio announcers were 
+talking.   The cut at the beginning of Alligator is minor.
+________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-17-11
+________________________________________________________________________________
+
+; shntool md5 fingerprint file
+71d6311336b747a7148f469392023341  [shntool]  gd69-05-11d1t01.shn
+bc344adeedc1dc058cfba2297a17af02  [shntool]  gd69-05-11d1t02.shn
+35263d294cccd1d01d90c066aa8b266d  [shntool]  gd69-05-11d1t03.shn
+ef803390efc1c45f89502ea798fc4eb5  [shntool]  gd69-05-11d1t04.shn
+b3d6cd0c71b7fc2ede572c0bed96e4f9  [shntool]  gd69-05-11d1t05.shn
+6576ca52c17e19a240379c6ad20614b1  [shntool]  gd69-05-11d1t06.shn
+aec7fe475327f154586805215e818ed1  [shntool]  gd69-05-11d1t07.shn
+d8c81a0bac239af8210302b77c31d852  [shntool]  gd69-05-11d1t08.shn
+4d8fa528146bc6e6f888e4264705845c  [shntool]  gd69-05-11d1t09.shn
+19888cc50a54d400799d8392c9250b57  [shntool]  gd69-05-11d1t10.shn
+142dac45c46d4c30756697f73c1b2f42  [shntool]  gd69-05-11d1t11.shn
+710df2cbd047bf054a78938eda48ff03  [shntool]  gd69-05-11d1t12.shn
+
+; shntool md5 fingerprint file 
+71d6311336b747a7148f469392023341  [shntool]  gd69-05-11d1t01.flac
+bc344adeedc1dc058cfba2297a17af02  [shntool]  gd69-05-11d1t02.flac
+35263d294cccd1d01d90c066aa8b266d  [shntool]  gd69-05-11d1t03.flac
+ef803390efc1c45f89502ea798fc4eb5  [shntool]  gd69-05-11d1t04.flac
+b3d6cd0c71b7fc2ede572c0bed96e4f9  [shntool]  gd69-05-11d1t05.flac
+6576ca52c17e19a240379c6ad20614b1  [shntool]  gd69-05-11d1t06.flac
+aec7fe475327f154586805215e818ed1  [shntool]  gd69-05-11d1t07.flac
+d8c81a0bac239af8210302b77c31d852  [shntool]  gd69-05-11d1t08.flac
+4d8fa528146bc6e6f888e4264705845c  [shntool]  gd69-05-11d1t09.flac
+19888cc50a54d400799d8392c9250b57  [shntool]  gd69-05-11d1t10.flac
+142dac45c46d4c30756697f73c1b2f42  [shntool]  gd69-05-11d1t11.flac
+710df2cbd047bf054a78938eda48ff03  [shntool]  gd69-05-11d1t12.flac

@@ -1,0 +1,67 @@
+This is a flac encoded & tagged version of shnid: 9509
+
+Grateful Dead
+10-26-69 
+Winterland Arena, 
+San Francisco, CA
+
+
+SBD : MR > C1 > DAT > CD
+From: DFergu9519@aol.com "Douglas Ferguson"
+
+thanks to Alan Fink for keeping this on his 
+hard drive for 7 months.  
+____________________________________________________________________________________
+
+--Setlist--
+101-t01 - Instrumental
+102-t02 - Hard To Handle
+103-t03 - Cold Rain & Snow
+104-t04 - Me & My Uncle
+105-t05 - / Next Time Tou See Me
+106-t06 - Dire Wolf
+107-t07 - Casey Jones
+108-t08 - Easy Wind
+____________________________________________________________________________________
+
+Notes:
+t1 1:04:840 - 2:08:713 left channel completely drops out
+t2 1:21-1:24 right channel completely drops out
+____________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-22-11
+____________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+b4b1d0ec6ab5501ff350e18c67f65524  [shntool]  gd69-10-26t01.shn
+99211fefcbd55493995aa6ca64b8b1a5  [shntool]  gd69-10-26t02.shn
+013806d100487a8d5103857a5f535007  [shntool]  gd69-10-26t03.shn
+e19727ae70de49c948c86d3ed2b20e57  [shntool]  gd69-10-26t04.shn
+3c6fa36ab21783bd78a0186dbeb59fe5  [shntool]  gd69-10-26t05.shn
+c56633552de47ed7ef62361471939e2c  [shntool]  gd69-10-26t06.shn
+9445b78532d3687888f55c7187e22149  [shntool]  gd69-10-26t07.shn
+9476382849fa483b29cf947d953c45af  [shntool]  gd69-10-26t08.shn
+
+; shntool md5 fingerprint file 
+b4b1d0ec6ab5501ff350e18c67f65524  [shntool]  gd69-10-26t01.flac
+99211fefcbd55493995aa6ca64b8b1a5  [shntool]  gd69-10-26t02.flac
+013806d100487a8d5103857a5f535007  [shntool]  gd69-10-26t03.flac
+e19727ae70de49c948c86d3ed2b20e57  [shntool]  gd69-10-26t04.flac
+3c6fa36ab21783bd78a0186dbeb59fe5  [shntool]  gd69-10-26t05.flac
+c56633552de47ed7ef62361471939e2c  [shntool]  gd69-10-26t06.flac
+9445b78532d3687888f55c7187e22149  [shntool]  gd69-10-26t07.flac
+9476382849fa483b29cf947d953c45af  [shntool]  gd69-10-26t08.flac

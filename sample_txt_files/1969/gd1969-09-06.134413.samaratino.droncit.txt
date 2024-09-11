@@ -1,0 +1,44 @@
+Grateful Dead 
+9/6/69
+
+Family Dog At The Great Highway  
+
+San Francisco, CA.
+
+SHNID 134413; 
+this is a restored version of 16608 with just the Grateful Dead portion.
+
+
+--Grateful Dead Set Only
+--
+
+t001 - Good Morning Little Schoolgirl
+
+t002 - Doin' That Rag
+
+t003 - He Was A Friend Of Mine
+
+t004 - Big Boy Pete
+
+t005 - Good Lovin'
+t
+006 - It's All Over Now
+
+
+
+
+Droncit's notes:
+Lineage given in shnid 16608:
+Ampex C-90 Master Cassette Soundboard (No Dolby)->DAT->CD->EAC->SHN->CD->EAC->SHN
+Done By Joe Samaritano samaritano@adelphia.net
+Thanks To sgrmag For The Source Disks!
+4/11/2003
+
+The Grateful Dead set was bassy and not as crisp as the Jefferson Airplane set.  ShnID 1184 lists that Grateful Dead lineage as
+sdb>>reel master>>cassette>>dat>>cdr
+
+I used 16608, for this restoration, but the hiss and bassiness suggests that there is at least a reel or cassette generation, and maybe two generations in it.  Two analog generations can be heard starting at the beginning of the 16608 files,  which doesn't fit the lineage described for it.  Both versions had virtually identical speed offsets for the Grateful Dead set, and no offset evident for the Jefferson Airplane sets in 16608, suggesting the 16608 lineage is different for the Grateful Dead set.
+
+I corrected the speed, and restored the crispness of the recording with a multifilter (spectral filter, two virtual valve simulators for harmonics, channel blender set to mono below 125Hz)using Diamond Cut Forensics 8.5.  
+
+

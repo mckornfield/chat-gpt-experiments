@@ -1,0 +1,64 @@
+This is a flac encoded & tagged version of shnid: 5070
+
+Grateful Dead
+4-27-69
+Labor Temple,
+Minneapolis, Minnesota
+
+SBD>MR>D>CD>SHN
+
+Thanks to Jeff Krakowka for this excellent show.
+EAC/shn encoding/minor Sound Forge edits by J. Cotsman
+
+thecore@core.com
+_____________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Turn on Your Lovelight-->
+102-d1t02 - Me & My Uncle-->
+103-d1t03 - Sittin' On Top Of The World
+104-d2t01 - Dark Star-->
+105-d2t02 - St. Stephen-->
+106-d2t03 - The Eleven-->
+107-d2t04 - Turn on Your Lovelight
+
+--Encore--
+108-d2t05 - Morning Dew
+_____________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac 
+files. If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. If you must 
+transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-09-11
+_____________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+6c7bf389c9137395084739d4c4f361e9  [shntool]  gd69-04-27d1t01.shn
+fc63bfe0490a24cbb663f8a2cd1654f4  [shntool]  gd69-04-27d1t02.shn
+02a983ea6686c3b3c18a6db2a65af7bc  [shntool]  gd69-04-27d1t03.shn
+58a791057441f6b2312776fca8589df9  [shntool]  gd69-04-27d2t01.shn
+6350e0d1e60946ffcd3071f8c427fe54  [shntool]  gd69-04-27d2t02.shn
+35bb6eeec5785cef5c4db7ad0d92b23c  [shntool]  gd69-04-27d2t03.shn
+ec2ac0e8fea1f9ca93c4f54866232eca  [shntool]  gd69-04-27d2t04.shn
+4524b2e9caa49652ca86fbf1fe58a9e2  [shntool]  gd69-04-27d2t05.shn
+
+; shntool md5 fingerprint file 
+6c7bf389c9137395084739d4c4f361e9  [shntool]  gd69-04-27d1t01.flac
+fc63bfe0490a24cbb663f8a2cd1654f4  [shntool]  gd69-04-27d1t02.flac
+02a983ea6686c3b3c18a6db2a65af7bc  [shntool]  gd69-04-27d1t03.flac
+58a791057441f6b2312776fca8589df9  [shntool]  gd69-04-27d2t01.flac
+6350e0d1e60946ffcd3071f8c427fe54  [shntool]  gd69-04-27d2t02.flac
+35bb6eeec5785cef5c4db7ad0d92b23c  [shntool]  gd69-04-27d2t03.flac
+ec2ac0e8fea1f9ca93c4f54866232eca  [shntool]  gd69-04-27d2t04.flac
+4524b2e9caa49652ca86fbf1fe58a9e2  [shntool]  gd69-04-27d2t05.flac

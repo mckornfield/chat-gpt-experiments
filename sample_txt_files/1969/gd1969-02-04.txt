@@ -1,0 +1,45 @@
+Grateful Dead
+
+The Music Box
+Omaha, Neb.
+
+Feb 4, 1969
+
+SB>CM>C>D>CD
+
+Disc 1
+
+/Good Morning Little Schoolgirl
+Morning Dew
+Dark Star > 
+Saint Stephen > 
+The Eleven > 
+Death Don't Have No Mercy/ 
+
+Disc 2
+
+Cryptical Envelopment > 
+drums > 
+The Other One > 
+Alligator  > 
+drums  >
+Caution  > 
+Feedback/ 
+
+Notes: 
+according to Deadlists, (per Eaton)
+missing "And We Bid You Good Night"
+
+EAC>SHN transfer by Steve Barbella
+seeded Jan '02
+
+EAC Test and Copy, offsets config'd, no errors
+shns via MKW v.97, seek enabled
+sector boundaries confirmed via shntool
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    10:05.800     116313644 B   cxx   --   ---xx   flac  0.5502  gd69-03-29 t01 Morning Dew.flac
+     9:38.707     111111724 B   cxx   --   ---xx   flac  0.5563  gd69-03-29 t02 Good Morning Little Schoolgirl.flac
+     7:39.480      88220204 B   cxx   --   ---xx   flac  0.5439  gd69-03-29 t03 Doin' That Rag.flac
+    21:19.120     245591084 B   cxx   --   ---xx   flac  0.5454  gd69-03-29 t04 Dark Star.flac
+     5:35.467      64409644 B   cxx   --   ---xx   flac  0.5469  gd69-03-29 t05 St. Stephen.flac
+    11:52.053     136714284 B   cxx   --   ---xx   flac  0.5595  gd69-03-29 t06 The Eleven.flac
+    17:41.379     203784796 B   cxx   --   ---xx   flac  0.5401  gd69-03-29 t07 Turn On Your Lovelight.flac
+    83:52.006     966145380 B                            0.5481  (7 files)

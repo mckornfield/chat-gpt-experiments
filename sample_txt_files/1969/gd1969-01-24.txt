@@ -1,0 +1,88 @@
+
+Grateful Dead 
+01/24/69 
+Avalon Ballroom 
+San Francisco, CA 
+Two Discs 
+
+Source: SBD 
+Lineage: SBD>MSR>C>DAT>CD>SHN 
+
+Disc One 
+
+Set One: 
+
+1.  Intro > Cryptical Envelopment >               2:02
+2.  Drumz > The Other One >                       7:23 
+3.  Cryptical Reprise >                           7:20
+4.  New Potato Caboose                           13:37  
+5.  Dupree's Diamond Blues                        4:22 
+6.  Doin' That Rag                                6:37
+
+Total disc time:                                 41:24   
+
+
+Disc Two 
+
+Set Two (previously uncirculated): 
+
+1. End of Set One > Sons of Champlin intro*       1:37 
+2. Dark Star                                     19:45  
+3. \Turn on Your Lovelight >                     13:05 
+4. Drumz/Audience                                 8:01
+
+Total disc time:                                 42:30                     
+
+
+From Deadlists: 
+COMMENTS  Pigpen plays harp on Dupree's.  The Avalon Ballroom insisted that 
+bands, including the Dead, play short sets of an hour or less.  This may 
+well be the complete first set. 
+
+Notes: 
+The length of all these sets supports the short set restriction by the Avalon.
+
+Lovelight fades in. 
+
+* Announcement made at the start of disc two indicating the Dead leaving the stage, 
+  Sons of Champlin being introduced and that the Dead will be back for another 
+  set. 
+
+(Extraction and.shn encoding by Seth Kaplan (Sdk022769@aol.com) via EAC 
+and MKW. Accurate extraction and properly aligned sector boundaries verified
+via EAC and .shntool. Various digital and master reel flaws cleaned up via 
+Cool Edit 2000) 
+
+MD5's:
+
+c96aa96e2fab2da8e49ee4d4fb531c02 *gd69-01-24d1t01.shn
+cb3f0b7a55db43a9fea85d64fef01014 *gd69-01-24d1t02.shn
+bed5bd317654e7d75f50c62c8c9cbaae *gd69-01-24d1t03.shn
+510768f8f15adf6f0fde95c17b9a2396 *gd69-01-24d1t04.shn
+a0937d7efaa0e1c3b0a9d8157508b87a *gd69-01-24d1t05.shn
+4176054c110f1becb9fff80582857977 *gd69-01-24d1t06.shn
+
+b948f71d965b803eb3dbe292bef441ee *gd69-01-24d2t01.shn
+cbe34652323ea4ada3ee2a002593e7d8 *gd69-01-24d2t02.shn
+0c0816be355df5cba669bb3c3a0a02fd *gd69-01-24d2t03.shn
+7fcfba20a5cc1f592a6ccd15924769fe *gd69-01-24d2t04.shn
+  
+.shntool stats:
+
+     2:02             21650204      -    gd69-01-24d1t01.shn
+     7:23             78260492      -    gd69-01-24d1t02.shn
+     7:20             77693660      -    gd69-01-24d1t03.shn
+    13:37            144290540      -    gd69-01-24d1t04.shn
+     4:22             46261532      -    gd69-01-24d1t05.shn
+     6:37             70157852      -    gd69-01-24d1t06.shn
+    41:24            438314280 B         (totals for 6 files)
+
+
+     1:37             17155532      -    gd69-01-24d2t01.shn
+    19:45            209203388      -    gd69-01-24d2t02.shn
+    13:05            138499916      -    gd69-01-24d2t03.shn
+     8:01             85010732      -    gd69-01-24d2t04.shn
+    42:30            449869568 B         (totals for 4 files)
+
+
+

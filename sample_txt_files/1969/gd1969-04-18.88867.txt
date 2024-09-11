@@ -1,0 +1,43 @@
+Grateful Dead - April 18, 1969
+Purdue University - Lafayette, IN
+
+Recording Info:
+SBD -> Master Cassette -> Cassette -> Dat (44.1k)
+
+Transfer Info:
+Dat (Sony D8) -> Sound Devices 744T -> Samplitude Professional v9.12 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+November 28, 2007
+
+Notes:
+-- Disc change is seamless
+-- Cleaned up many background noises
+-- There is a brief cut at 7:13 of Doin' That Rag
+
+Setlist:
+d1t01 - Hard To Handle
+d1t02 - Morning Dew
+d1t03 - That's It For The Other One ->
+d1t04 - Sittin' On Top Of The World ->
+d1t05 - I'm A King Bee
+d1t06 - Doin' That Rag
+d2t01 - Turn On Your Lovelight
+d2t02 - Cosmic Charlie
+d2t03 - Beat It On Down The Line
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE problems filename
+     6:42.17       70952828    ---   --   -----   gd69-04-18d1t01.wav
+    12:06.55      128195804    ---   --   -----   gd69-04-18d1t02.wav
+    18:50.74      199506092    ---   --   -----   gd69-04-18d1t03.wav
+     2:56.16       31084076    ---   --   -----   gd69-04-18d1t04.wav
+     9:13.70       97713884    ---   --   -----   gd69-04-18d1t05.wav
+     7:52.59       83399612    ---   --   -----   gd69-04-18d1t06.wav
+    27:27.59      290669612    ---   --   -----   gd69-04-18d2t01.wav
+     8:11.49       86727692    ---   --   -----   gd69-04-18d2t02.wav
+     2:45.50       29223644    ---   --   -----   gd69-04-18d2t03.wav
+    96:07.74     1017473244 B                     (totals for 9 files)

@@ -1,0 +1,76 @@
+Grateful Dead
+San Jose State University
+San Jose, CA
+Friday October 31, 1969
+
+Source Info:
+Unknown Analog Soundboard Master > ? > PCM (Sony Beta HiFi-L750)
+
+Transfer Info:
+PCM (Sony SL-10)> Sony PCM-601ESD > Behringer Ultramatch Pro > Tascam DA-3000 (wav 16-bit/44.1k)> Adobe Audition 3.0 > TLH flac16
+
+Notes:
+- Thanks to Tim Dalton for the source PCM
+- Thanks to Charlie Miller for the transfer
+- Numerous clicks/ticks and niggles cleaned up
+- No digital noise reduction/filtering of any kind
+- Pitch corrected
+- First notes of "Casey Jones" clipped
+- No cut in the "China Cat Sunflower > I Know You Rider" transition
+- "Turn On Your Lovelight" is complete
+
+Mastered by Scott Clugston
+March 2, 2018
+
+Setlist:
+t01 - //Casey Jones
+t02 - Yellow Dog Story
+t03 - Dire Wolf
+t04 - It Hurts Me Too
+t05 - Cryptical Envelopment >
+      Drums >
+      The Other One >
+      Cryptical Envelopment >
+t06 - China Cat Sunflower > 
+t07 - I Know You Rider
+t08 - High Time
+t09 - Sittin' On Top Of The World
+t10 - Next Time You See Me >
+t11 - Easy Wind
+t12 - Turn On Your Lovelight
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:20.18       45906380 B   ---   --   ---xx   flac  0.5126  gd69-10-31 t01 Casey Jones.flac
+     3:06.22       32862188 B   ---   --   ---xx   flac  0.5159  gd69-10-31 t02 Yellow Dog Story.flac
+     5:09.23       54561740 B   ---   --   ---xx   flac  0.5390  gd69-10-31 t03 Dire Wolf.flac
+     7:35.42       80360828 B   ---   --   ---xx   flac  0.5445  gd69-10-31 t04 It Hurts Me Too.flac
+    24:59.61      264567116 B   ---   --   ---xx   flac  0.5411  gd69-10-31 t05 The Other One Suite.flac
+     7:17.27       77150348 B   ---   --   ---xx   flac  0.5732  gd69-10-31 t06 China Cat Sunflower.flac
+     4:26.53       47047100 B   ---   --   ---xx   flac  0.5475  gd69-10-31 t07 I Know You Rider.flac
+     8:02.48       85137740 B   ---   --   ---xx   flac  0.5195  gd69-10-31 t08 High Time.flac
+     3:42.24       39217292 B   ---   --   ---xx   flac  0.5636  gd69-10-31 t09 Sittin' On Top Of The World.flac
+     3:26.70       36503084 B   ---   --   ---xx   flac  0.5673  gd69-10-31 t10 Next Time You See Me.flac
+     6:45.40       71536124 B   ---   --   ---xx   flac  0.5520  gd69-10-31 t11 Easy Wind.flac
+    31:51.43      337201580 B   ---   --   ---xx   flac  0.5367  gd69-10-31 t12 Turn On Your Lovelight.flac
+   110:44.21     1172051520 B                            0.5412  (12 files)
+
+No errors occured.
+
+
+
+3f650dabffe5a99f56ac907de9ab614e *gd69-10-31 t01 Casey Jones.flac
+8a38c895f2f554fb23a656159d64ed55 *gd69-10-31 t02 Yellow Dog Story.flac
+13ffbd009a816384128b45d990aa0dca *gd69-10-31 t03 Dire Wolf.flac
+2a26f025c8f3ad24c120e6b10b2795d6 *gd69-10-31 t04 It Hurts Me Too.flac
+dffceb78540a88125f349b2a8245807b *gd69-10-31 t05 The Other One Suite.flac
+d75e44922079ef27dc24698879155fec *gd69-10-31 t06 China Cat Sunflower.flac
+b2c1214bda9421a7f38091501eb608c1 *gd69-10-31 t07 I Know You Rider.flac
+741bc5d5c9c0bf8700f2756a9110c39d *gd69-10-31 t08 High Time.flac
+045cff0e1780f84582551ddfe5808d25 *gd69-10-31 t09 Sittin' On Top Of The World.flac
+144b01036af85a880add4948ed4ca4b6 *gd69-10-31 t10 Next Time You See Me.flac
+c67778314a6d78f8f5aec8c41cdfd35a *gd69-10-31 t11 Easy Wind.flac
+c919a8d99891062bd6a4a2a26f4dbce3 *gd69-10-31 t12 Turn On Your Lovelight.flac
+
+No errors occured.

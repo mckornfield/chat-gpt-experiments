@@ -1,0 +1,73 @@
+Grateful Dead
+Woodstock Music And Arts Fair
+Max Yasgur's Farm
+Bethel, NY
+08/16/1969
+
+Source: sbd > 8 Track Master Reels @ 15ips (mixed by Mark Linette) > Dat (44k) - Provided by Rich Gastwirt
+Transfer: Dat > Sony PCM-R500 > Sound Devices 744T > wav 16/44.1 - Transfered by Charlie Miller
+Lineage: wav > Adobe Audition 3 > iZotope RX6 Advanced > CD Wave > TLH > Flac16
+
+
+
+01   Stage announcements by Chip Monck/tuning/Intro
+02   St. //Stephen >
+03   Mama Tried >
+04   High Time false start
+05   tech problems/Chip Monck banter/Country Joe warning the audience about bad LSD.
+06   Dark Star >
+07   High Time
+08   Turn On Your//Love Light *
+
+
+
+
+Comments:
+
+- with Ken Babbs rapping at the start*
+
+
+Notes:
+
+- This is an upgrade, there is one less analogue generation in the transfer
+- There were repeated sections which have been removed.
+- A couple of small patches of hum have been attenuated.
+- I also removed several loud high pitched feedback squeals to save your ears.
+- "Love Light" has a cut around 24:11
+
+
+
+Thanks to Rich and Charlie
+
+
+edited and mastered
+SIRMick
+November 2017
+
+
+shntool output:
+
+  length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:11.51        2060396 B   ---   --   ---xx   flac  0.1080  gd1969-08-16t01.flac
+     3:09.22       33391388 B   ---   --   ---xx   flac  0.4246  gd1969-08-16t02.flac
+     2:04.48       21986540 B   ---   --   ---xx   flac  0.5236  gd1969-08-16t03.flac
+     2:41.59       28539212 B   ---   --   ---xx   flac  0.5313  gd1969-08-16t04.flac
+     0:36.62        6496268 B   ---   --   ---xx   flac  0.4431  gd1969-08-16t05.flac
+    10:32.56      111616556 B   ---   --   ---xx   flac  0.4477  gd1969-08-16t06.flac
+    19:11.06      203050556 B   ---   --   ---xx   flac  0.5132  gd1969-08-16t07.flac
+     6:18.57       66813308 B   ---   --   ---xx   flac  0.4490  gd1969-08-16t08.flac
+    38:57.35      412329164 B   ---   --   ---xx   flac  0.5231  gd1969-08-16t09.flac
+    83:44.21      886283388 B                            0.5007  (9 files)
+
+
+flac fingerprints:
+
+gd1969-08-16t01.flac:9f89da42d7a5c5fe9c7c667a5ba68cfe
+gd1969-08-16t02.flac:cdf4615066b85871bc8a02d90a43181d
+gd1969-08-16t03.flac:5b1fada64db75184d6836ea129824531
+gd1969-08-16t04.flac:bf56419916df2214e8373d4ed1f67dbb
+gd1969-08-16t05.flac:ab36c86bdc1f96ca9e5b41f4a1ca1831
+gd1969-08-16t06.flac:f921ae8f752d5b85b9ebb677942b7974
+gd1969-08-16t07.flac:be17ecf95b0f6420cbf6b32c73803bc9
+gd1969-08-16t08.flac:caf7ca1f9d240bd0849b80f9bee07f80
+gd1969-08-16t09.flac:5d9e95b249274bd0410ff1fd4cad436e

@@ -1,0 +1,108 @@
+
+Grateful Dead (Charlie Miller > TomP Remaster)
+==============================================
+1969-04-21
+The Ark Boston, MA
+
+Source: Dime post by corbett - thanks !!
+http://www.dimeadozen.org/torrents-details.php?id=172920
+
+Miller Recording Info:
+SBD -> Master Reel -> Dat -> CD
+
+Transfer Info:
+CD -> Samplitude Professional v9.12 -> FLAC
+(3 Discs Audio / 2 Discs FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net November 13, 2007
+
+Patch Info:
+Alternate SBD source provides:
+Introduction (complete track)
+2nd Cryptical Envelopment (1:21 - 6:19)
+Dark Star (14:52 - 16:36)
+Turn On Your Lovelight (23:56 - end of track)
+
+Notes:
+-- Cleaned up numerous flaws and fixed the levels
+-- Alligator has a false start
+-- Tape runs out during Feedback
+
+
+Fine new artworks from fastone are included - thanks - Tag&Rename was used to create flac tags from these
+Photo also included taken from comment by corbett
+
+Quality: Must be an A++ now
+----------------------------
+
+The original is one of the best GD SBDs Ive heard from this era, one of the last of the setlists mainly
+from (IMHO) their great 1968-9 era. It has all the dynamic range preserved, low noise and no processing.
+Of the 3 recent Ark shows, the lack of an extra cassette stage in the lineage really shows compared to
+the other two (22nd & 23rd). IMHO this one is way the best !!
+
+Huge thanks must go to the original recorder and of course, the great Charlie Miller for his enormous 
+body of dedicated work and with whom I had an Email exchange, where he gave me a go-ahead.
+
+The work I did was fairly subtle, but the sound of Phil Lesh's bass is restored to closer to it's wonderful
+powerful best, whilst the general sound and dynamics are significantly better. Despite the improvement in
+the frequency extremes, there has been absolutely no EQ, compression or NR used here, just correcting
+recording and venue artifacts, so to my ears it sounds clearer and more dynamic than the Bertha version.
+
+I'm also particularly please with the improvement in the previously poor sounding Lovelight patch.
+
+TomP post on Dime, April 2013...Enjoy !!
+
+Set 1 (61:52)
+
+01 - Introduction (1.29)
+02 - Hard To Handle (5.26)
+03 - Morning Dew (9.25)
+04 - Cryptical Envelopment (1.57) >
+05 - Drums (0.39) >
+06 - The Other One (9.10) >
+07 - Cryptical Envelopment (7.54) >
+08 - Sittin' On Top Of The World (3.27)
+09 - Alligator (4.06) >
+10 - Drums (3.26) >
+11 - Jam (7.46) >
+12 - Doin' That Rag (7.02)
+
+Set 2 (89:57)
+
+13 - Foxy Lady Jam (3.25)
+14 - Dark Star (22.41) >
+15 - St. Stephen (6.52) >
+16 - The Eleven (10.59) >
+17 - Turn On Your Lovelight (25.25)
+
+Encore:
+18 - Tuning (1.08)
+19 - Viola Lee Blues (13.48) >
+20 - Feedback (5.39)
+
+TomP Changes Made (Nero 8):
+---------------------------
+Phase correction 0.05msec
+- louder bass
+- generally clearer sound
+Further substantial phase inversion and offset correction of Lovelight patch
+Cross-mixed all channels (95:5)
+- voice and instruments clearer and more to the foreground in the stereo field
+- moves the drums from extreme left and right (behind the ear) towards the middle
+- a little incidental noise cancellation
+Fixed glitches at 0.02 d1tr02, 0.04 ditr02
+Corrected balance change 0.42-1.22 d1tr02
+Corrected lots of small balance and volume fluctuations
+Reduced left channel of most tracks by 3-6% to centre stereo image
+Cut 1min+ of no-tuning during Tuning (d3tr01)
+Fixed phase inversion in patch at end of Lovelight
+Added flac tags
+
+Contrast clause:
+The heavily boosted Bertha remaster of the Miller files can be found here:
+http://www.dimeadozen.org/torrents-details.php?id=439364
+
+..and samples of that can be compared here: 
+http://archive.org/details/gd69-04-21.sbd.bertha-ashley.19841.sbeok.shnf
+

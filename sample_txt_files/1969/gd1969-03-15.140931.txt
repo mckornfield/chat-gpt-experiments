@@ -1,0 +1,71 @@
+Grateful Dead
+Hilton Hotel
+San Francisco, CA
+03/15/1969 
+
+
+Source: SBD > Bear's cassette > ??? > Sony ESXHiFi/L-750 beta tape
+Transfer: PCM (Sony SL-10) > Sony PCM-601ESD > Behringer Ultramatch Pro > Tascam DA-3000 (wav 16-bit/44.1k)
+Lineage: wav > iZotope RX6 Advanced > iZotope Ozone 5 Advanced > CD Wave > TLH > Flac 16
+
+
+
+01   banter and tuning
+02   Hard To Handle
+03   Good Morning Little Schoolgirl
+04   Dark Star >
+05   St. Stephen >
+06   William Tell Bridge >
+07   //The Eleven >
+08   Turn On Your Love Light
+
+
+
+Comments:
+
+- The Black and White Ball (SF Symphony Benefit)
+- First "Hard To Handle"
+
+
+
+Notes:
+
+- I repaired a few minor dropouts and one larger one was patched with shnid 28798 - Thank you Morgan and Seth Kaplan
+
+
+
+Thanks to Charlie Miller for providing this source and doing the transfer.
+
+
+I could listen to this over and over!
+
+
+
+edited and mastered
+SIRMick
+February 2018
+
+
+shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:20.31       35352956 B   ---   --   ---xx   flac  0.4685  gd1969-03-15t01.flac
+     6:06.10       64585964 B   ---   --   ---xx   flac  0.5034  gd1969-03-15t02.flac
+     9:02.59       95747612 B   ---   --   ---xx   flac  0.5050  gd1969-03-15t03.flac
+    20:29.67      216953228 B   ---   --   ---xx   flac  0.5042  gd1969-03-15t04.flac
+     5:49.44       61667132 B   ---   --   ---xx   flac  0.5100  gd1969-03-15t05.flac
+     2:45.34       29186012 B   ---   --   ---xx   flac  0.5163  gd1969-03-15t06.flac
+    11:10.73      118359740 B   ---   --   ---xx   flac  0.5313  gd1969-03-15t07.flac
+    18:22.40      194486924 B   ---   --   ---xx   flac  0.5129  gd1969-03-15t08.flac
+    77:07.58      816339568 B                            0.5096  (8 files)
+
+flac fingerprints:
+
+gd1969-03-15t01.flac:5c83b830d87054d09624ca7fbee6bb5a
+gd1969-03-15t02.flac:64090bc23424e5bbeab0a12f28bd3db7
+gd1969-03-15t03.flac:d61f9260dd0fa26220cd5635282fe0b1
+gd1969-03-15t04.flac:d8c5972bed2a898e1c0486ff5184e5b6
+gd1969-03-15t05.flac:d63a8e47044fb7468fd29c88d7be14ab
+gd1969-03-15t06.flac:6aa8e922f6d816f80ae2804ed2eba610
+gd1969-03-15t07.flac:7eacc3805a5547e29e88597eb393dd46
+gd1969-03-15t08.flac:cc3c1e645a87f919f78d2c344e7b72d6

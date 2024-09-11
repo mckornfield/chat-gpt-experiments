@@ -1,0 +1,64 @@
+Grateful Dead - April 22, 1969
+The Ark - Boston, MA
+
+Recording Info:
+SBD -> Master Cassette -> Reel -> Dat -> CD
+
+Transfer Info:
+CD -> Samplitude Professional v9.12 -> FLAC
+(2 Discs Audio / 2 Discs FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+November 13, 2007
+
+Notes:
+-- Disc change is seamless
+-- First few notes of Sittin' On Top Of The World missing
+-- Tape flips during The Other One and Dark Star
+-- Lovelight contains a Caution Jam
+
+Set 1:
+d1t01 - Sittin' On Top Of The World
+d1t02 - Morning Dew
+d1t03 - Beat It On Down The Line ->
+d1t04 - Good Morning Little Schoolgirl
+d1t05 - Doin' That Rag
+d1t06 - Cryptical Envelopment ->
+d1t07 - Drums ->
+d1t08 - The Other One ->
+d1t09 - Cryptical Envelopment ->
+d1t10 - Death Don't Have No Mercy
+
+Set 2:
+d1t11 - Monitor Levels
+d1t12 - Dupree's Diamond Blues ->
+d1t13 - Mountains Of The Moon ->
+d2t01 - Jam ->
+d2t02 - Dark Star ->
+d2t03 - St. Stephen ->
+d2t04 - The Eleven ->
+d2t05 - Turn On Your Lovelight
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE problems filename
+     3:56.12       41658668    ---   --   -----   gd69-04-22d1t01.wav
+    10:33.05      111673004    ---   --   -----   gd69-04-22d1t02.wav
+     2:43.63       28901420    ---   --   -----   gd69-04-22d1t03.wav
+     9:56.33      105212060    ---   --   -----   gd69-04-22d1t04.wav
+     8:31.01       90142796    ---   --   -----   gd69-04-22d1t05.wav
+     1:55.36       20370716    ---   --   -----   gd69-04-22d1t06.wav
+     0:42.73        7580540    ---   --   -----   gd69-04-22d1t07.wav
+     1:59.00       20991644    ---   --   -----   gd69-04-22d1t08.wav
+     9:01.28       95498300    ---   --   -----   gd69-04-22d1t09.wav
+    10:20.45      109473884    ---   --   -----   gd69-04-22d1t10.wav
+     3:02.26       32165996    ---   --   -----   gd69-04-22d1t11.wav
+     4:13.13       44659820    ---   --   -----   gd69-04-22d1t12.wav
+     4:20.18       45906380    ---   --   -----   gd69-04-22d1t13.wav
+     2:48.11       29661116    ---   --   -----   gd69-04-22d2t01.wav
+    27:21.36      289557116    ---   --   -----   gd69-04-22d2t02.wav
+     6:35.09       69699212    ---   --   -----   gd69-04-22d2t03.wav
+    11:19.31      119848556    ---   --   -----   gd69-04-22d2t04.wav
+    28:49.01      304997996    ---   --   -----   gd69-04-22d2t05.wav
+   148:08.66     1567999224 B                     (totals for 18 files)

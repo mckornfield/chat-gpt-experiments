@@ -1,0 +1,71 @@
+This is a flac encoded & tagged version of shnid: 14856
+
+Grateful Dead 
+9/26/69 
+Fillmore East, 
+New York City, NY
+
+audience recording (early show?)
+________________________________________________________________________________________
+
+--Songlist--
+101 - //Dark Star ->
+102 - St. Stephen ->
+103 - The //Eleven ->
+104 - I'm a King Bee ->
+105 - Death Don't Have No Mercy//
+
+--total time--44:29--
+________________________________________________________________________________________
+
+notes:
+- The beginning of Dark Star is cut, probably a couple minutes are gone.
+- splice in Eleven at 0:55: perhaps a minute is missing
+- cut in The Eleven at 2:46
+- Death Don't cuts out near the end
+
+This is a minor upgrade to the previously circulating version
+( http://db.etree.org/shn/9376 ),
+hiss and distortion are less present.
+
+At least the first 20 minutes clearly sound better,the quality worsens at about 
+23 minutes and I am unsure which tape actually sounds "better". To repeat the 
+comment of the JJoops/Jack Warner seed, "This recording is not stellar in sound 
+quality, and therefore might be better suited to the completists and fans of early Dead."
+
+Seeded by Uli Teute and Hanno Bunjes
+January 2003
+________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 1-08-12
+________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+99fe01fbc1293fa3dadda29fbc1f6696  [shntool]  gd69-09-26new01.shn
+09b54fe457b8b36f530b2297c93ee94c  [shntool]  gd69-09-26new02.shn
+fd70b44a717cc5ec49de84744844afa6  [shntool]  gd69-09-26new03.shn
+77bff2162a6842ba4e7d53233679c496  [shntool]  gd69-09-26new04.shn
+40ec2ede80e3ee47d2b8bf778e553fe6  [shntool]  gd69-09-26new05.shn
+
+; shntool md5 fingerprint file 
+99fe01fbc1293fa3dadda29fbc1f6696  [shntool]  gd69-09-26new01.flac
+09b54fe457b8b36f530b2297c93ee94c  [shntool]  gd69-09-26new02.flac
+fd70b44a717cc5ec49de84744844afa6  [shntool]  gd69-09-26new03.flac
+77bff2162a6842ba4e7d53233679c496  [shntool]  gd69-09-26new04.flac
+40ec2ede80e3ee47d2b8bf778e553fe6  [shntool]  gd69-09-26new05.flac
+
+

@@ -1,0 +1,97 @@
+Grateful Dead
+2/27/69
+Fillmore West, San Francisco, CA
+
+Source: SBD multitrack
+Lineage: 16-Track Master Reel > Rough Mix DAT > DATx3 >
+Digital Sound Card > WAV > SHN > WAV > Cool Edit >
+CDWAV > SHN  
+
+Seeded by Aoxoa =====> THANKS!
+DAT conversion to CD and initial archiving by R. Keshavan
+Subsequent editing and archiving by Seth Kaplan
+Properly aligned sector boundaries verified via .shntool
+
+Disc two requires an 80 minute disc
+
+Disc 1
+Set 1
+1.  Bill Graham Intro >           		0:10
+2.  Good Morning Little School Girl		9:40
+3.  Tuning >                      		2:13
+4.  Doin' That Rag                		6:27
+5.  "Beyond the Pale..." >          		2:28
+6.  Cryptical Envelopment >		        1:55
+7.  Drums >		                        0:11
+8.  That's it for the Other One > 		8:32
+9.  Cryptical Envelopment         		9:05
+10. Stage Banter                 		0:54
+Total time:                                    41:40
+
+Disc 2
+Set 2
+1.  Dupree's Diamond Blues        		4:02
+2.  Mountains of the Moon >       		4:35
+3.  Prelude >                     		1:22
+4.  Dark Star >                  	       21:44
+5.  Saint Stephen >              		5:22
+6.  William Tell >               		1:08
+7.  The Eleven >                 	       14:21
+8.  Turn On Your Love Light                    17:53
+Encore:
+9.  Cosmic Charlie        		        6:27
+Total time:                                    76:56
+
+
+
+Notes:
+
+D2t07 (The Eleven): splice @ 9:50
+
+The following edits were performed:          
+
+24:865 seconds (the 00:10 second Bill Graham Intro 
+and 14:865 seconds of GMLSG) were patched from a
+previously circulating alternate SBD source with 
+lineage of SBD > ? > C > CD. The multi-track volume
+was sampled where the track fades in and the patch 
+was normalised and pitch corrected to match the multi-
+track's levels.
+
+The Eleven has a brief splice in which 1) a 9.5 
+second silent gap was removed and 2) the volume on the 
+section following the splice was normalised to 
+match the levels of the sampled section preceding the 
+splice. 
+
+The show was then re-tracked as indicated by the 
+track timings per the setlist.
+
+**
+shntool report:
+C:\burning>shntool -len *.shn
+     0:10              1914572      -    gd69-02-27d1t01.shn
+     9:40            102392012      -    gd69-02-27d1t02.shn
+     2:13             23520044      -    gd69-02-27d1t03.shn
+     6:27             68412668      -    gd69-02-27d1t04.shn
+     2:28             26154284      -    gd69-02-27d1t05.shn
+     1:55             20368364      -    gd69-02-27d1t06.shn
+     0:11              2001596      -    gd69-02-27d1t07.shn
+     8:32             90441500      -    gd69-02-27d1t08.shn
+     9:05             96295628      -    gd69-02-27d1t09.shn
+     0:54              9537404      -    gd69-02-27d1t10.shn
+    41:40            441038072 B         (totals for 10 files)
+
+C:\burning>shntool -len *.shn
+     4:02             42712364      -    gd69-02-27d2t01.shn
+     4:35             48552380      -    gd69-02-27d2t02.shn
+     1:22             14488364      -    gd69-02-27d2t03.shn
+    21:44            230065628      -    gd69-02-27d2t04.shn
+     5:22             56890220      -    gd69-02-27d2t05.shn
+     1:08             11995244      -    gd69-02-27d2t06.shn
+    14:21            151953356      -    gd69-02-27d2t07.shn
+    17:53            189331340      -    gd69-02-27d2t08.shn
+     6:27             68405612      -    gd69-02-27d2t09.shn
+    76:56            814394508 B         (totals for 9 files)
+
+

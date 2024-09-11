@@ -1,0 +1,78 @@
+This is a flac encoded & tagged version of shnid: 12927
+
+Grateful Dead
+12/21/69
+Fillmore West
+San Francisco, CA
+
+Source: MR > C > D > CDR(s)
+Conversion: EAC(secure) > CE2K(minor cleanup) > CDWAV > mkwact > SHN(seekable) 
+mvernon54@attbi.com
+
+shntool supplies timing and confirms tracks on sector boundaries
+
+Thanks to Raoul Duke for the disks!
+Part of The Music Never Stopped Project
+uploaded ~11/4/2002
+_________________________________________________________________________________________________
+
+--Setlist--
+101 -(fades in) I Know You Rider -> 
+102 - Black Peter ;
+103 - Not Fade Away %
+104 - Good Lovin -> 
+106 - drums  -> 
+107 - The Other One  -> 
+108 - Cumberland Blues 
+
+--total time--48:59--
+__________________________________________________________________________________________________  
+
+notes
+- drums has a splice(?) and one minor warble/glitch
+- there might be a splice at the very start of TOO as noted on deadlists
+- this is apparently all the circulates per Eatons list
+__________________________________________________________________________________________________
+
+per Deadlists:
+The circulating segment listed is the conclusion of the show. 
+DeadBase IX gives this list: 
+Smokestack Lightnin ; New Speedway Boogie ; Mama Tired ; Dire Wolf ; Mason's Children ; 
+China Cat Sunflower> I Know You Rider ; Black Peter ; Not Fade Away ; Uncle John's Band ; 
+High Time ; Good Lovin' ; That's It For The Other One > Cumberland Blues. 
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-11-11
+_________________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+beefa4e4fe136341726b9192a91dcaf9  [shntool]  gd69-12-21d1t01.shn
+fd0c852b3523a68a3fbfd56b4af840f9  [shntool]  gd69-12-21d1t02.shn
+d1a539166c70940b95851273c72827fd  [shntool]  gd69-12-21d1t03.shn
+740d939b55877d2aa788d166d98a028e  [shntool]  gd69-12-21d1t04.shn
+487e17de8dd03dd5a569e317e763fa49  [shntool]  gd69-12-21d1t05.shn
+8d1e617ddda433ff4c44092904ff5ba8  [shntool]  gd69-12-21d1t06.shn
+5ef822fc1897c52a9263c58510290ae7  [shntool]  gd69-12-21d1t07.shn
+
+; shntool md5 fingerprint file 
+beefa4e4fe136341726b9192a91dcaf9  [shntool]  gd69-12-21d1t01.flac
+fd0c852b3523a68a3fbfd56b4af840f9  [shntool]  gd69-12-21d1t02.flac
+d1a539166c70940b95851273c72827fd  [shntool]  gd69-12-21d1t03.flac
+740d939b55877d2aa788d166d98a028e  [shntool]  gd69-12-21d1t04.flac
+487e17de8dd03dd5a569e317e763fa49  [shntool]  gd69-12-21d1t05.flac
+8d1e617ddda433ff4c44092904ff5ba8  [shntool]  gd69-12-21d1t06.flac
+5ef822fc1897c52a9263c58510290ae7  [shntool]  gd69-12-21d1t07.flac
+

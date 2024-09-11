@@ -1,0 +1,49 @@
+This is a tagged version of shnid: 123091
+
+Mickey And The Hartbeats  
+August 28, 1969
+The Family Dog At The Great Highway  
+San Francisco, CA
+
+Recording Info:
+SBD -> Cassette Master -> Dat -> CD
+
+Transfer Info:
+CD -> Adobe Audition v3.0 -> Samplitude Professional v11.2.1 -> FLAC
+(1 Disc Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+December 10, 2012
+
+Notes:
+-- Show will fit on one disc with an overburn
+-- My research shows that this is from the master
+-- Thanks to Joe B. Jones for his help with the pitch correction
+______________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - It's A Sin ->
+102-d1t02 - Hi-Heel Sneakers
+103-d1t03 - Dark Star ->
+104-d1t04 - The Eleven
+______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 12-27-12
+_______________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     8:11.39       86704172 B   ---   --   ---xx   flac  0.6218  gd69-08-28d1t01.flac
+     8:43.17       92297228 B   ---   --   ---xx   flac  0.6230  gd69-08-28d1t02.flac
+    47:32.38      503182220 B   ---   --   ---xx   flac  0.6263  gd69-08-28d1t03.flac
+    16:57.58      179535260 B   ---   --   ---xx   flac  0.6322  gd69-08-28d1t04.flac
+    81:25.02      861718880 B                            0.6267  (4 files)

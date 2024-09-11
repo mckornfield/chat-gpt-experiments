@@ -1,0 +1,129 @@
+This is a flac encoded & tagged version of shnid: 16334
+
+Grateful Dead
+6-21-69 
+Fillmore East,
+New York, NY
+
+Early Show: AUD>MR>C>R>R>R>D>CD>EAC>SHN 
+Late Show: SBD>MC>C>D>CD>EAC>SHN
+
+part of The Music Never Stopped Project 2003
+
+Thanks to Jeff Cook
+encoding/edits J Cotsman
+ ___________________________________________________________________________________________
+
+--Early Show--
+101-d1t01 - Green, Green Grass Of Home* 
+102-d1t02 - Me & My Uncle 
+103-d1t03 - High Time// 
+104-d1t04 - China Cat Sunflower--> 
+105-d1t05 - Morning Dew 
+106-d1t06 - Alligator--> 
+107-d1t07 - Drums%--> 
+108-d1t08 - Jam--> 
+109-d1t09 - The Other One--> 
+110-d1t10 - Cryptical //Envelopment%--> 
+111-d1t11 - Ol' Slewfoot* 
+112-d1t12 - Cosmic Charlie 
+	
+--Late Show--
+201-d1t13 - Old, Old House* 
+202-d1t14 - Sittin' On Top of the World 
+203-d1t15 - King Bee 
+204-d2t01 - Dire Wolf 
+205-d2t02 - Mama Tried 
+206-d2t03 - High Time 
+207-d2t04 - Dupree's Diamond Blues 
+208-d2t05 - Yellow Dog Story 
+209-d2t06 - Dark// Star%--> 
+210-d2t07 - St. Stephen--> 
+211-d2t08 - The Eleven--> 
+212-d2t09 - Turn on Your Lovelight 
+
+--disc 1 total time--74:39--
+--disc 2 total time--68:41--
+___________________________________________________________________________________________
+
+Notes:
+--Garcia plays pedal steel guitar on Green, Green Grass, Ol' Slewfoot, Old, Old House, 
+  and Dire Wolf
+--first known version (as of Jan 2003) of High Time in the early show 
+--only known version of Old, Old House
+--High Time in the early show cuts out with perhaps a minute missing
+--reel flip at 0:15 in Drums
+--reel flip at 0:50 in Cryptical Envelopment
+--significant cassette flip at 4:52 in Dark Star
+--Sound Forge was used for pitch correction and normalization for both early and late shows
+____________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 8-06-11 
+______________________________________________________________________________________________
+
+; shntool md5 fingerprint file
+679d43cc45b143289fb005b0ccd0a823  [shntool]  gd69-06-21d1t01.shn
+2d36c423932f5f006e6345b425afea2a  [shntool]  gd69-06-21d1t02.shn
+7b903a200ba8fc1c35084027262f2989  [shntool]  gd69-06-21d1t03.shn
+0cdce5c92e02aa5932d6f2309d25d8c4  [shntool]  gd69-06-21d1t04.shn
+7f2bb0dc4d97bf438876471eb5311f8d  [shntool]  gd69-06-21d1t05.shn
+e099afc6e4e7583ea7e8cdc4b7c630cf  [shntool]  gd69-06-21d1t06.shn
+ac5581af196f8e209037c9a68c950a83  [shntool]  gd69-06-21d1t07.shn
+4499b9da0851708069b89a076ee8bf51  [shntool]  gd69-06-21d1t08.shn
+d33428e9b0503c90f55433cac205fe6b  [shntool]  gd69-06-21d1t09.shn
+da8137ddddb34fcdcf4b3c49ea41e034  [shntool]  gd69-06-21d1t10.shn
+42348977ff733d9b737b69bf7ec3d0da  [shntool]  gd69-06-21d1t11.shn
+9bba561a8ff7210aa5ea8781fa11e536  [shntool]  gd69-06-21d1t12.shn
+99adf57d7d5cb56668e7d729d559641e  [shntool]  gd69-06-21d1t13.shn
+916415b8805f8781b92695a45962c8ac  [shntool]  gd69-06-21d1t14.shn
+86c6af8a91badca46a089e9f2ea9739f  [shntool]  gd69-06-21d1t15.shn
+a87b446088aa1947dab594aa30fdc9c5  [shntool]  gd69-06-21d2t01.shn
+554a81b3ba33aae08ed0e34c51160282  [shntool]  gd69-06-21d2t02.shn
+ba456bd36dc56037966f3fb6bde0c4b4  [shntool]  gd69-06-21d2t03.shn
+75f6bf55876c01b9a1b1c532f3aa92cd  [shntool]  gd69-06-21d2t04.shn
+db213fec411be9db212442af5ed72989  [shntool]  gd69-06-21d2t05.shn
+ded1125449cfb29a07bf2b4bce08cef5  [shntool]  gd69-06-21d2t06.shn
+ef3b8fe02a43cff8afbfc6dd91a3275d  [shntool]  gd69-06-21d2t07.shn
+276defda0706f259fcab4a8b68055ebe  [shntool]  gd69-06-21d2t08.shn
+b460489fffffc3fe92178f9aa16415e1  [shntool]  gd69-06-21d2t09.shn
+
+; shntool md5 fingerprint file 
+679d43cc45b143289fb005b0ccd0a823  [shntool]  gd69-06-21d1t01.flac
+2d36c423932f5f006e6345b425afea2a  [shntool]  gd69-06-21d1t02.flac
+7b903a200ba8fc1c35084027262f2989  [shntool]  gd69-06-21d1t03.flac
+0cdce5c92e02aa5932d6f2309d25d8c4  [shntool]  gd69-06-21d1t04.flac
+7f2bb0dc4d97bf438876471eb5311f8d  [shntool]  gd69-06-21d1t05.flac
+e099afc6e4e7583ea7e8cdc4b7c630cf  [shntool]  gd69-06-21d1t06.flac
+ac5581af196f8e209037c9a68c950a83  [shntool]  gd69-06-21d1t07.flac
+4499b9da0851708069b89a076ee8bf51  [shntool]  gd69-06-21d1t08.flac
+d33428e9b0503c90f55433cac205fe6b  [shntool]  gd69-06-21d1t09.flac
+da8137ddddb34fcdcf4b3c49ea41e034  [shntool]  gd69-06-21d1t10.flac
+42348977ff733d9b737b69bf7ec3d0da  [shntool]  gd69-06-21d1t11.flac
+9bba561a8ff7210aa5ea8781fa11e536  [shntool]  gd69-06-21d1t12.flac
+99adf57d7d5cb56668e7d729d559641e  [shntool]  gd69-06-21d1t13.flac
+916415b8805f8781b92695a45962c8ac  [shntool]  gd69-06-21d1t14.flac
+86c6af8a91badca46a089e9f2ea9739f  [shntool]  gd69-06-21d1t15.flac
+a87b446088aa1947dab594aa30fdc9c5  [shntool]  gd69-06-21d2t01.flac
+554a81b3ba33aae08ed0e34c51160282  [shntool]  gd69-06-21d2t02.flac
+ba456bd36dc56037966f3fb6bde0c4b4  [shntool]  gd69-06-21d2t03.flac
+75f6bf55876c01b9a1b1c532f3aa92cd  [shntool]  gd69-06-21d2t04.flac
+db213fec411be9db212442af5ed72989  [shntool]  gd69-06-21d2t05.flac
+ded1125449cfb29a07bf2b4bce08cef5  [shntool]  gd69-06-21d2t06.flac
+ef3b8fe02a43cff8afbfc6dd91a3275d  [shntool]  gd69-06-21d2t07.flac
+276defda0706f259fcab4a8b68055ebe  [shntool]  gd69-06-21d2t08.flac
+b460489fffffc3fe92178f9aa16415e1  [shntool]  gd69-06-21d2t09.flac
+

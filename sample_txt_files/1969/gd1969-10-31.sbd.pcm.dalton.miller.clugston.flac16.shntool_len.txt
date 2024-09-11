@@ -1,0 +1,14 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:20.18       45906380 B   ---   --   ---xx   flac  0.5126  gd69-10-31 t01 Casey Jones.flac
+     3:06.22       32862188 B   ---   --   ---xx   flac  0.5159  gd69-10-31 t02 Yellow Dog Story.flac
+     5:09.23       54561740 B   ---   --   ---xx   flac  0.5390  gd69-10-31 t03 Dire Wolf.flac
+     7:35.42       80360828 B   ---   --   ---xx   flac  0.5445  gd69-10-31 t04 It Hurts Me Too.flac
+    24:59.61      264567116 B   ---   --   ---xx   flac  0.5411  gd69-10-31 t05 The Other One Suite.flac
+     7:17.27       77150348 B   ---   --   ---xx   flac  0.5732  gd69-10-31 t06 China Cat Sunflower.flac
+     4:26.53       47047100 B   ---   --   ---xx   flac  0.5475  gd69-10-31 t07 I Know You Rider.flac
+     8:02.48       85137740 B   ---   --   ---xx   flac  0.5195  gd69-10-31 t08 High Time.flac
+     3:42.24       39217292 B   ---   --   ---xx   flac  0.5636  gd69-10-31 t09 Sittin' On Top Of The World.flac
+     3:26.70       36503084 B   ---   --   ---xx   flac  0.5673  gd69-10-31 t10 Next Time You See Me.flac
+     6:45.40       71536124 B   ---   --   ---xx   flac  0.5520  gd69-10-31 t11 Easy Wind.flac
+    31:51.43      337201580 B   ---   --   ---xx   flac  0.5367  gd69-10-31 t12 Turn On Your Lovelight.flac
+   110:44.21     1172051520 B                            0.5412  (12 files)

@@ -1,0 +1,95 @@
+Grateful Dead
+Avalon Ballroom
+San Francisco, CA
+04/05/1969
+
+Source:  Soundboard > Reel Master > Dat (48k)
+
+Set I
+
+01   Dupree's Diamond Blues
+02   Mountains Of The Moon >
+03   Dark Star >
+04   St. Stephen > *
+05   Turn On Your Love Light
+
+
+Set II
+
+01   Hard To Handle >
+02   Cosmic Charlie
+03   tuning
+04   China Cat Sunflower >
+05   Doin' That Rag
+06   Cryptical Envelopment  >
+07   The Other One >
+08   Cryptical Envelopment >
+09   The Eleven >
+10   It's A Sin
+11   Alligator >
+12   Drums >
+13   Feedback >
+14   And We Bid You Good Night
+
+
+
+Notes:
+
+- This version has been provided by an anonymous source.
+- There was a cut in 'Love Light' 14:25 - 15:49 has been been patched with shnid 65, after adjusting it so that it is a closer match to this source.
+- A number of level adjustments have been made and a few clicks removed. 
+- All files are tagged.
+* According to Robert Hunter's book 'Box Of Rain' the 'William Tell Bridge' is part of 'St. Stephen' 
+
+
+
+edited and mastered
+SIRMIck
+April 2013
+
+
+shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:03.18       42907580 B   ---   --   ---xx   flac  0.4652  gd1969-04-05s1t01.flac
+     6:09.12       65119868 B   ---   --   ---xx   flac  0.4168  gd1969-04-05s1t02.flac
+    17:27.16      184728476 B   ---   --   ---xx   flac  0.4752  gd1969-04-05s1t03.flac
+     6:46.60       71759564 B   ---   --   ---xx   flac  0.4977  gd1969-04-05s1t04.flac
+    17:23.45      184091084 B   ---   --   ---xx   flac  0.4931  gd1969-04-05s1t05.flac
+     5:55.25       62680844 B   ---   --   ---xx   flac  0.5408  gd1969-04-05s2t01.flac
+     6:49.07       72164108 B   ---   --   ---xx   flac  0.4713  gd1969-04-05s2t02.flac
+     1:50.29       19472252 B   ---   --   ---xx   flac  0.3971  gd1969-04-05s2t03.flac
+     5:36.02       59275148 B   ---   --   ---xx   flac  0.5407  gd1969-04-05s2t04.flac
+     9:32.63      101049020 B   ---   --   ---xx   flac  0.4926  gd1969-04-05s2t05.flac
+     2:23.31       25298156 B   ---   --   ---xx   flac  0.4819  gd1969-04-05s2t06.flac
+     9:15.51       98021996 B   ---   --   ---xx   flac  0.5495  gd1969-04-05s2t07.flac
+     6:05.55       64515404 B   ---   --   ---xx   flac  0.5236  gd1969-04-05s2t08.flac
+     8:28.51       89731196 B   ---   --   ---xx   flac  0.5375  gd1969-04-05s2t09.flac
+     6:06.27       64625948 B   ---   --   ---xx   flac  0.4683  gd1969-04-05s2t10.flac
+     3:52.06       40938956 B   ---   --   ---xx   flac  0.5389  gd1969-04-05s2t11.flac
+     4:30.41       47724476 B   ---   --   ---xx   flac  0.4856  gd1969-04-05s2t12.flac
+     7:56.59       84105212 B   ---   --   ---xx   flac  0.4847  gd1969-04-05s2t13.flac
+     3:29.44       36971132 B   ---   --   ---xx   flac  0.4515  gd1969-04-05s2t14.flac
+   133:42.42     1415180420 B                            0.4945  (19 files)
+
+flac fingerprints:
+
+gd1969-04-05s1t01.flac:65b470106abcd9a8f608d30223e19f8c
+gd1969-04-05s1t02.flac:efa46de7e4b0e6f94d4220a27c7d6eb4
+gd1969-04-05s1t03.flac:f3b427dd48ba21c8b89bd21d01e0a3db
+gd1969-04-05s1t04.flac:65c59153b2510adb15b177b1ed7cf617
+gd1969-04-05s1t05.flac:8cf079c4d1e9ea26bde258f34beb02fb
+gd1969-04-05s2t01.flac:7c9c6b478bc986300e4adbe855953b7c
+gd1969-04-05s2t02.flac:00a78b37edbba06b136aa7e0ab381ad1
+gd1969-04-05s2t03.flac:da955f9ca3a1577fed8fb3e13301fe02
+gd1969-04-05s2t04.flac:14d60fc9dd1cb13ed2a24f932f1aec0c
+gd1969-04-05s2t05.flac:db4c13af8f49b4c22f150d08492cfb3b
+gd1969-04-05s2t06.flac:592674c76bcad736f258dff87788119f
+gd1969-04-05s2t07.flac:c40cf33d6bfbae1500bee9f0bf4ee9c4
+gd1969-04-05s2t08.flac:b0ef178103446c0cddcff83c32da6bbd
+gd1969-04-05s2t09.flac:800a4e72579400d259928ed4743d3532
+gd1969-04-05s2t10.flac:3b52a81d522abc50fe4722bb11989394
+gd1969-04-05s2t11.flac:bad9cc4c3b87cf8b5a3524a3c1c7d472
+gd1969-04-05s2t12.flac:f77768310fa1bbdee94955d6e8465f5f
+gd1969-04-05s2t13.flac:6e92a9c3cf3f22467a4a2ab5d74b81f7
+gd1969-04-05s2t14.flac:9e1d153b77875872c6a0bb678c98efcd

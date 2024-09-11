@@ -1,0 +1,151 @@
+This is a flac encoded & tagged version of shnid: 10988
+
+Grateful Dead
+December 12, 1969 (Friday)
+Thelma Theater
+Los Angeles, CA
+
+MSR > R > D > CD except
+Cold Rain and Snow thru Black Peter:  MSR > R > C > D
+_______________________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Cold Rain & Snow
+102-d1t02 - Me & My Uncle
+103-d1t03 - stage banter
+104-d1t04 - Easy Wind
+105-d1t05 - Cumberland Blues
+106-d1t06 - Black Peter
+107-d1t07 - Next Time You See Me
+108-d1t08 - China Cat Sunflower ->
+109-d1t09 - I Know You Rider
+110-d1t10 - applause/satge banter
+111-d2t01 - stage banter
+112-d2t02 - Turn on Your Lovelight
+
+--Set 2--
+201-d2t03 - Hard To Handle
+202-d2t04 - Casey Jones
+203-d2t05 - Mama Tried ->
+204-d2t06 - High Time 
+205-d2t07 - Dire Wolf
+206-d2t08 - Good Lovin 
+207-d2t09 - I'm a King Bee
+208-d3t01 - Uncle John's Band ->
+209-d3t02 - He Was a Friend of Mine ->
+210-d3t03 - Alligator->
+211-d3t04 - Drums ->
+212-d3t05 - Alligator ->
+213-d3t06 - And We bid You Goodnight theme ->
+214-d3t07 - Jam ->
+215-d3t08 - Caution (Do Not Stop On Tracks) ->
+216-d3t09 - Feedback ->
+217-d3t10 - And We Bid You Good Night
+218-d3t11 - applause
+
+--disc 1 total time--56:59--
+--disc 2 total time--68:30--
+--disc 3 total time-66:11--
+_______________________________________________________________________________________
+
+Thelma Theater, Los Angeles, December 10, 11 & 12, 1969
+
+Copies from the soundboard reels of these shows have circulated since the '70s, 
+sometimes mislabled "Kaleidoscope Theater, LA," often with dates and sequences mixed 
+up, usually in badly degraded sound quality.  This set assembles complete copies of 
+the 11th and the 12th in the best quality circulating.  Except for the middle portion 
+of the 11th, sound is excellent throughout; this inferior segment is listenable while 
+leaving definite room for improvement if an upgrade shows up; we haven't been able to 
+find one & don't want to delay further.
+
+Many people gave help on the way to creating this set of CDs.  Dave Greenberg did the 
+final masters.  Jack Warner was instrumental in providing the difficult composite for
+the 2nd disc of 12/11/69, which was first mastered by Scott Clugston.  RB, KW, JN 
+and HB also provided important assistance.  Jim Powell instigated the project and 
+writes these notes. SHN conversion by Jay Gerland.
+_______________________________________________________________________________________
+
+Tracking notes:
+The tracking listed in the original text was way out of sync with the actual tracks.
+This was corrected. The above tracking is now accurate.
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-06-11
+_______________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+8a092d92e11116de3fcd66cfff22bb20  [shntool]  gd69-12-12d1t01.shn
+d68e7e90f84210ffc54be12a62a55679  [shntool]  gd69-12-12d1t02.shn
+ca99420e78b537f82309c161157fdc55  [shntool]  gd69-12-12d1t03.shn
+e0616b350e4a75ded688f1cf4f663ef6  [shntool]  gd69-12-12d1t04.shn
+dce532106a5b5c6ada3840f750ba20b8  [shntool]  gd69-12-12d1t05.shn
+c04f6dffd62c7a1ece3713ed9953761b  [shntool]  gd69-12-12d1t06.shn
+1ff668f9c60256b247b93ceebc06e7ea  [shntool]  gd69-12-12d1t07.shn
+2ce6a08278c6303d0efdc98a7663ed91  [shntool]  gd69-12-12d1t08.shn
+c41c70b3d0cbe7c894cf2c4a4fdb7828  [shntool]  gd69-12-12d1t09.shn
+db51c88966c8fb746c6d4dff5e63a921  [shntool]  gd69-12-12d1t10.shn
+53e89e905006aa5cde6bd235bb666a40  [shntool]  gd69-12-12d2t01.shn
+8463956aac4f380df497e8cda146e713  [shntool]  gd69-12-12d2t02.shn
+6b05ebff9a5ebac57fc15496269745f0  [shntool]  gd69-12-12d2t03.shn
+01168023aa51f61786ee21d48fd9da9a  [shntool]  gd69-12-12d2t04.shn
+9cfa54f5789e41fe0f0fa236894b17ae  [shntool]  gd69-12-12d2t05.shn
+234e5be3079625bd542ef13090b9f44e  [shntool]  gd69-12-12d2t06.shn
+6e5fd000f0d6a44ba627bc186c91e7ab  [shntool]  gd69-12-12d2t07.shn
+07d9cbaedd21842043fe913b9eb22176  [shntool]  gd69-12-12d2t08.shn
+2b977de4c44e936c98c9d34e66a011e7  [shntool]  gd69-12-12d2t09.shn
+c550e5081c848f84d3b9e83257dcfa84  [shntool]  gd69-12-12d3t01.shn
+8287191cfb4fe27c0467cd9de9cdbf6f  [shntool]  gd69-12-12d3t02.shn
+76598bb1b592f4622d948f388d9a2985  [shntool]  gd69-12-12d3t03.shn
+cf543dbaeb5798651d4f57a5b59d1b15  [shntool]  gd69-12-12d3t04.shn
+8f1ca8794507e1696dc88c5eba2df748  [shntool]  gd69-12-12d3t05.shn
+2a0f99cf2e120346d335cacd80a59d58  [shntool]  gd69-12-12d3t06.shn
+f6ca800310b81d7e2426583e82e77015  [shntool]  gd69-12-12d3t07.shn
+4c3669cec45ee2935d426bdbb025e538  [shntool]  gd69-12-12d3t08.shn
+25e4d8e91e73ca0f813cec203118f469  [shntool]  gd69-12-12d3t09.shn
+dfb3768fd876c310fc570722f0ae6c94  [shntool]  gd69-12-12d3t10.shn
+02649852bc617b44be2754afbe52056b  [shntool]  gd69-12-12d3t11.shn
+
+; shntool md5 fingerprint file 
+8a092d92e11116de3fcd66cfff22bb20  [shntool]  gd69-12-12d1t01.flac
+d68e7e90f84210ffc54be12a62a55679  [shntool]  gd69-12-12d1t02.flac
+ca99420e78b537f82309c161157fdc55  [shntool]  gd69-12-12d1t03.flac
+e0616b350e4a75ded688f1cf4f663ef6  [shntool]  gd69-12-12d1t04.flac
+dce532106a5b5c6ada3840f750ba20b8  [shntool]  gd69-12-12d1t05.flac
+c04f6dffd62c7a1ece3713ed9953761b  [shntool]  gd69-12-12d1t06.flac
+1ff668f9c60256b247b93ceebc06e7ea  [shntool]  gd69-12-12d1t07.flac
+2ce6a08278c6303d0efdc98a7663ed91  [shntool]  gd69-12-12d1t08.flac
+c41c70b3d0cbe7c894cf2c4a4fdb7828  [shntool]  gd69-12-12d1t09.flac
+db51c88966c8fb746c6d4dff5e63a921  [shntool]  gd69-12-12d1t10.flac
+53e89e905006aa5cde6bd235bb666a40  [shntool]  gd69-12-12d2t01.flac
+8463956aac4f380df497e8cda146e713  [shntool]  gd69-12-12d2t02.flac
+6b05ebff9a5ebac57fc15496269745f0  [shntool]  gd69-12-12d2t03.flac
+01168023aa51f61786ee21d48fd9da9a  [shntool]  gd69-12-12d2t04.flac
+9cfa54f5789e41fe0f0fa236894b17ae  [shntool]  gd69-12-12d2t05.flac
+234e5be3079625bd542ef13090b9f44e  [shntool]  gd69-12-12d2t06.flac
+6e5fd000f0d6a44ba627bc186c91e7ab  [shntool]  gd69-12-12d2t07.flac
+07d9cbaedd21842043fe913b9eb22176  [shntool]  gd69-12-12d2t08.flac
+2b977de4c44e936c98c9d34e66a011e7  [shntool]  gd69-12-12d2t09.flac
+c550e5081c848f84d3b9e83257dcfa84  [shntool]  gd69-12-12d3t01.flac
+8287191cfb4fe27c0467cd9de9cdbf6f  [shntool]  gd69-12-12d3t02.flac
+76598bb1b592f4622d948f388d9a2985  [shntool]  gd69-12-12d3t03.flac
+cf543dbaeb5798651d4f57a5b59d1b15  [shntool]  gd69-12-12d3t04.flac
+8f1ca8794507e1696dc88c5eba2df748  [shntool]  gd69-12-12d3t05.flac
+2a0f99cf2e120346d335cacd80a59d58  [shntool]  gd69-12-12d3t06.flac
+f6ca800310b81d7e2426583e82e77015  [shntool]  gd69-12-12d3t07.flac
+4c3669cec45ee2935d426bdbb025e538  [shntool]  gd69-12-12d3t08.flac
+25e4d8e91e73ca0f813cec203118f469  [shntool]  gd69-12-12d3t09.flac
+dfb3768fd876c310fc570722f0ae6c94  [shntool]  gd69-12-12d3t10.flac
+02649852bc617b44be2754afbe52056b  [shntool]  gd69-12-12d3t11.flac

@@ -1,0 +1,90 @@
+This is a flac encoded & tagged version ofshnid: 17892
+
+Grateful Dead 
+
+
+6/22/69 
+
+
+Central Park
+
+
+New York City, NY
+
+
+
+
+
+SBD>MC>C>D>CD>EAC>Cool Edit 2000>CD 
+
+EAC>shn by Seth Kaplan
+
+
+
+Pitch corrected and filtered in Cool Edit 2000:
+Raised pitch up one 1/2 step by 5 cents 
+
+
+Applied bass cut via FFT Filter
+
+
+
+
+Proper extraction and sector boundaries verified via EAC and .shntool
+
+ 
+
+
+
+
+
+
+_________________________________________________________________________________
+
+--songlist--
+
+101-pto1 - 
+
+
+
+Dancin' in the Streets
+
+102-pt02 - 
+Casey Jones
+
+
+
+
+_________________________________________________________________________________
+Notes: 
+Only 22 1/2 minutes of the SBD circulate
+
+
+
+
+_________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 8-06-11
+__________________________________________________________________________________ 
+
+; shntool md5 fingerprint file 
+32166cb686a7043066134c250ced4cf7  [shntool]  gd69-06-22pt01.shn
+70e1b2aaa66dfdaaebafc1a2899b4c44  [shntool]  gd69-06-22pt02.shn
+
+; shntool md5 fingerprint file 
+32166cb686a7043066134c250ced4cf7  [shntool]  gd69-06-22pt01.flac
+70e1b2aaa66dfdaaebafc1a2899b4c44  [shntool]  gd69-06-22pt02.flac

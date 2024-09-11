@@ -1,0 +1,71 @@
+This is a flac encoded & tagged version of shnid: 5583
+
+Grateful Dead
+12/13/69
+Swing Auditorium
+San Bernardino, CA
+
+Source: 7" Master Soundboard Reels > Cassette > DAT > CDR
+
+CD Mastering by Scott Clugston
+EAC'ed / SHN'ed by Scott Clugston
+8/28/01
+____________________________________________________________________________________________
+  
+--Setlist--
+101-d1t01 - Casey Jones
+102-d1t02 - Hard To Handle
+103-d1t03 - Black //Peter
+104-d1t04 - Mama Tried ->
+105-d1t05 - China Cat Sunflower ->
+106-d1t06 - I Know You Rider ->
+107-d1t07 - High Time
+108-d2t01 - Good Lovin' -> Drums -> Jam -> Good Lovin'
+109-d2t02 - Cumberland Blues
+110-d2t03 - St. Stephen ->
+111-d2t04 - Turn On Your Lovelight (plug gets pulled)
+____________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-07-11
+_____________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+082f5c5454663ef92f28a824540e3a55  [shntool]  gd69-12-13d1t01.shn
+b32f4c0bcb9613c54147e09019c8efb8  [shntool]  gd69-12-13d1t02.shn
+f7b66fc82cb8de34f1a28fe81db3d490  [shntool]  gd69-12-13d1t03.shn
+df3bcaf4dd51196339ea632f8256facb  [shntool]  gd69-12-13d1t04.shn
+97488d273191fb8cdbc476c779635a23  [shntool]  gd69-12-13d1t05.shn
+8652d6825fdb92b27e9bcc173c93ffe6  [shntool]  gd69-12-13d1t06.shn
+b0f82ab870d0c33d96162625845ad6d2  [shntool]  gd69-12-13d1t07.shn
+3133dddf91d14d1132a7a16040fc48e0  [shntool]  gd69-12-13d2t01.shn
+4f59d519b53d4aa39cd69ace1d55e734  [shntool]  gd69-12-13d2t02.shn
+e20157d7532fb76d58916d641dc3a77f  [shntool]  gd69-12-13d2t03.shn
+cc83a195f9de58fecd304be906e964c2  [shntool]  gd69-12-13d2t04.shn
+
+; shntool md5 fingerprint file 
+082f5c5454663ef92f28a824540e3a55  [shntool]  gd69-12-13d1t01.flac
+b32f4c0bcb9613c54147e09019c8efb8  [shntool]  gd69-12-13d1t02.flac
+f7b66fc82cb8de34f1a28fe81db3d490  [shntool]  gd69-12-13d1t03.flac
+df3bcaf4dd51196339ea632f8256facb  [shntool]  gd69-12-13d1t04.flac
+97488d273191fb8cdbc476c779635a23  [shntool]  gd69-12-13d1t05.flac
+8652d6825fdb92b27e9bcc173c93ffe6  [shntool]  gd69-12-13d1t06.flac
+b0f82ab870d0c33d96162625845ad6d2  [shntool]  gd69-12-13d1t07.flac
+3133dddf91d14d1132a7a16040fc48e0  [shntool]  gd69-12-13d2t01.flac
+4f59d519b53d4aa39cd69ace1d55e734  [shntool]  gd69-12-13d2t02.flac
+e20157d7532fb76d58916d641dc3a77f  [shntool]  gd69-12-13d2t03.flac
+cc83a195f9de58fecd304be906e964c2  [shntool]  gd69-12-13d2t04.flac
+

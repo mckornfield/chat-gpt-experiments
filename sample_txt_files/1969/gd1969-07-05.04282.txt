@@ -1,0 +1,82 @@
+This is a flac encoded & tagged version of shnid: 4282
+
+Grateful Dead
+7/5/69
+Electric Theater
+Chicago, IL
+
+SBD>MC>D>CD
+
+thecore@core.com
+__________________________________________________________________________________
+
+--Songlist--
+101-d1t01 - //Morning Dew
+102-d1t02 - Dark Star-->
+103-d1t03 - St. Stephen-->
+104-d1t04 - The Eleven-->
+105-d1t05 - It's All Over Now, Baby Blue%
+106-d2t01 - China Cat Sunflower-->
+107-d2t02 - High Time-->
+108-d2t03 - Mama Tried
+109-d2t04 - Hard to Handle
+110-d2t05 - Casey Jones//
+111-d2t06 - //turn on Your Lovelight
+__________________________________________________________________________________
+
+notes:
+-The beginning of Morning Dew is clipped, with the sound quality improving on 
+ into the song.  
+-The beginning of St. Stephen has some slightly ragged degradation for a few 
+ seconds.  
+-There is a minor splice during the first few notes of Baby Blue. 
+-Casey Jones is cut.
+-The beginning of Lovelight is clipped.  
+-Some of the minor volume level fluctuations were adjusted using Sound Forge.  
+-Major volume fluctuations render much of Baby Blue as virtually unlistenable, 
+ and this is noted on the master at deadlists.com. 
+-There is some oversaturation during louder moments of the second set.
+__________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 8-09-11 
+__________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+5759e9a1980243230b6fcbebb02e4f3a  [shntool]  gd69-07-05d1t01.shn
+a85a00f4f5e4bd686d744fcb60ab160a  [shntool]  gd69-07-05d1t02.shn
+7169bad78fdb4a858147d752e8808326  [shntool]  gd69-07-05d1t03.shn
+59786e7314524a0bdefe3b1d1140fc8a  [shntool]  gd69-07-05d1t04.shn
+1e688882ec998a62b9c023aa81078b22  [shntool]  gd69-07-05d1t05.shn
+6080f54efbce0004e0eb089cdcf9bc5f  [shntool]  gd69-07-05d2t01.shn
+8d0a077e7b13970235da6ffb838ef143  [shntool]  gd69-07-05d2t02.shn
+9c24a7e6abccded3027a09ca6510eecf  [shntool]  gd69-07-05d2t03.shn
+a83acda5c00f172d7130ef01f353522a  [shntool]  gd69-07-05d2t04.shn
+87cddaeba44e9d21fec73761bd51c9d4  [shntool]  gd69-07-05d2t05.shn
+f836d015f3e3315bae2bbfae5324679f  [shntool]  gd69-07-05d2t06.shn
+
+5759e9a1980243230b6fcbebb02e4f3a  [shntool]  gd69-07-05d1t01.flac
+a85a00f4f5e4bd686d744fcb60ab160a  [shntool]  gd69-07-05d1t02.flac
+7169bad78fdb4a858147d752e8808326  [shntool]  gd69-07-05d1t03.flac
+59786e7314524a0bdefe3b1d1140fc8a  [shntool]  gd69-07-05d1t04.flac
+1e688882ec998a62b9c023aa81078b22  [shntool]  gd69-07-05d1t05.flac
+6080f54efbce0004e0eb089cdcf9bc5f  [shntool]  gd69-07-05d2t01.flac
+8d0a077e7b13970235da6ffb838ef143  [shntool]  gd69-07-05d2t02.flac
+9c24a7e6abccded3027a09ca6510eecf  [shntool]  gd69-07-05d2t03.flac
+a83acda5c00f172d7130ef01f353522a  [shntool]  gd69-07-05d2t04.flac
+87cddaeba44e9d21fec73761bd51c9d4  [shntool]  gd69-07-05d2t05.flac
+f836d015f3e3315bae2bbfae5324679f  [shntool]  gd69-07-05d2t06.flac
+

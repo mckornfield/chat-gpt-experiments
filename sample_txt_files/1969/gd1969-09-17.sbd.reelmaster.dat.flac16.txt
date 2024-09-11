@@ -1,0 +1,66 @@
+Grateful Dead
+Practice Sessions
+Alembic Studios
+San Franciso, CA
+09/17/1969
+
+
+Source : Soundboard Master Reels @ 3 3/4 IPS > DAT (44.1)
+
+
+01   Garcia and Pigpen noodling > Unknown Instrumental x 2
+02   Seasons Of My Heart x 3 
+03   Sawmill x 3
+04   Merry-Go-Round Broke Down x 3 >  Merrily We Roll Along x 2 > Merry-Go-Round Broke Down
+05   Cartoon music > Teddy Bear's Picnic > Merry-Go-Round Broke Down
+06   Cold Rain And Snow x 4
+07   Dire Wolf
+08   The Eleven x 5
+09   Barbed Wire Whipping Party *
+
+
+Notes:
+
+- This has been provided by an anonymous source and has NEVER circulated before. 
+- The guys are having fun as well as being serious.  This sounds as crisp as the day it was recorded.
+- A little NR has been used on track 1.  The levels were very low in parts and when raised introduced some hiss.
+- There was a lot of distortion in sections of track 6, most of which has been eliminated. 
+- Rather than track out each individual "song" they have been kept together so as to keep the flow going.
+- Of particular interest are "Seasons Of My Heart" and "Sawmill" which both feature some tasty pedal steel from Garcia. 
+- All files have been tagged.
+* This is from the Aoxomoxoa sessions.  This is in full stereo and sounds like a  finished version.
+
+
+
+edited and mastered
+SIRMick
+March 2013
+
+
+
+shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:08.01       96669596 B   ---   --   ---xx   flac  0.3206  gd1969-09-17t01.flac
+    12:33.14      132862172 B   ---   --   ---xx   flac  0.3947  gd1969-09-17t02.flac
+     9:04.40       96055724 B   ---   --   ---xx   flac  0.4081  gd1969-09-17t03.flac
+    17:04.72      180802988 B   ---   --   ---xx   flac  0.3941  gd1969-09-17t04.flac
+    10:57.37      115981868 B   ---   --   ---xx   flac  0.3813  gd1969-09-17t05.flac
+    21:57.13      232349420 B   ---   --   ---xx   flac  0.3928  gd1969-09-17t06.flac
+     6:42.71       71079836 B   ---   --   ---xx   flac  0.3690  gd1969-09-17t07.flac
+    22:19.14      236232572 B   ---   --   ---xx   flac  0.4069  gd1969-09-17t08.flac
+     1:21.14       14321372 B   ---   --   ---xx   flac  0.5728  gd1969-09-17t09.flac
+   111:08.51     1176355548 B                            0.3910  (9 files)
+
+flac fingerprints:
+
+gd1969-09-17t01.flac:65d6b7f3ab3e4d4c2a91728310d68235
+gd1969-09-17t02.flac:fe0c41e1cbce184abae6c9d26cb6e99f
+gd1969-09-17t03.flac:964fa591c0c9755663bfa8ebe9e4348a
+gd1969-09-17t04.flac:2adbf10127a878cf3a79598baab1cdb8
+gd1969-09-17t05.flac:5276c9eda639333601bcc70aec7092a7
+gd1969-09-17t06.flac:0151b493f28c0cc21ea79d67180f8f0f
+gd1969-09-17t07.flac:d150fab77abc743a4f5b31c89cc6a536
+gd1969-09-17t08.flac:474f1ac9a5c4548a0a779c89a51778e1
+gd1969-09-17t09.flac:26997c3ee1175f62d9700057e8f99101
+ 

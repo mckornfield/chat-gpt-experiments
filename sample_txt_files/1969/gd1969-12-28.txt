@@ -1,0 +1,39 @@
+This is a tagged version of shnid: 96578
+
+Grateful Dead
+December 28, 1969
+International Speedway
+Hollywood, Florida
+
+Source: Soundboard master Reels > Cassette > DAT
+Cloned from Dr. Bruce Fried 4.30.1996
+
+Transfer: Panasonic SV-3700 > Cardas cable S/PDIF > 
+Edirol UA-5 > USB > WaveLab > CD Wave > TLH > Flac 
+Transfer and mastering by Bill Koucky December 28, 2008, Green Mountain Bros.
+_______________________________________________________________________________________
+
+--setlist--
+108-t01 - // Good Lovin’
+109-t02 - Cold Rain & Snow
+110-t03 - Tuning and Banter
+111-t04 - Hard to Handle
+112-t05 - Mason’s Children
+113-t06 - Turn On Your Lovelight //
+
+Time: 47:58
+_______________________________________________________________________________________
+
+There is so much depth in the recording I suspect it may be an audience taped on stage.
+_______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-13-11
+ 

@@ -1,0 +1,31 @@
+Grateful Dead - May 3, 1969
+Winterland Arena - San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> ? -> Cassette -> Apogee Ensemble -> AIFF
+
+Transfer Info:
+AIFF -> Adobe Audition v1.5 -> Samplitude Professional v10.1 -> FLAC
+(1 Disc Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+October 3, 2008
+
+Notes:
+-- Thanks to Joe B. Jones for his help with the pitch correction
+
+Set 1:
+d1t01 - //He Was A Friend Of Mine
+d1t02 - That's It For The Other One ->
+d1t03 - Doin' That Rag
+d1t04 - Me And My Uncle
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+     8:55.46      94482236     ---   --    ---    gd69-05-03d1t01.wav
+    21:15.19     224954732     ---   --    ---    gd69-05-03d1t02.wav
+     7:24.08      78340460     ---   --    ---    gd69-05-03d1t03.wav
+     3:18.68      35087180     ---   --    ---    gd69-05-03d1t04.wav
+    40:53.66     432864608 B                      (totals for 4 files)

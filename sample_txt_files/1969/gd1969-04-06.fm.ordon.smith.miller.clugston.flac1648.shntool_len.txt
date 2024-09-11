@@ -1,0 +1,12 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:53.827      90974764 B   cxx   --   ---xx   flac  0.5687  gd69-04-06 t01 Good Morning Little Schoolgirl.flac
+     3:30.280      40373804 B   cxx   --   ---xx   flac  0.5855  gd69-04-06 t02 Beat It On Down The Line.flac
+     7:55.693      91333164 B   cxx   --   ---xx   flac  0.5451  gd69-04-06 t03 It's All Over, Baby Blue.flac
+     7:46.360      89541164 B   cxx   --   ---xx   flac  0.5682  gd69-04-06 t04 I'm A King Bee.flac
+     2:11.520      25251884 B   cxx   --   ---xx   flac  0.6430  gd69-04-06 t05 Cryptical-Drums.flac
+    10:52.720     125322284 B   cxx   --   ---xx   flac  0.6775  gd69-04-06 t06 The Other One.flac
+    10:14.133     117913644 B   cxx   --   ---xx   flac  0.6626  gd69-04-06 t07 Cryptical Envelopment.flac
+    11:52.693     136837164 B   cxx   --   ---xx   flac  0.6279  gd69-04-06 t08 Death Don't Have No Mercy.flac
+    25:06.760     289297964 B   cxx   --   ---xx   flac  0.6641  gd69-04-06 t09 Turn On Your Lovelight.flac
+    12:52.961     148408488 B   cxx   --   ---xx   flac  0.6766  gd69-04-06 t10 Viola Lee Blues.flac
+   100:16.947    1155254324 B                            0.6352  (10 files)

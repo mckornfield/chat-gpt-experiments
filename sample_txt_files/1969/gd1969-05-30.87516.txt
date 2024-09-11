@@ -1,0 +1,47 @@
+Grateful Dead - May 30, 1969
+Springer's Inn - Portland, OR
+
+Recording Info:
+SBD -> Cassette Master (Ampex C-90) -> Dat (48k)
+
+Transfer Info:
+Dat -> Behringer Ultramatch SRC2000 ->
+Samplitude Professional v9.11 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+July 12, 2007
+
+Notes:
+-- Disc change is seamless
+-- There are a few minor tape problems in Morning Dew
+-- Missing first few seconds of Me And My Uncle
+-- Short spot of diginoise in Doin' That Rag
+-- Tape flip in Cosmic Charlie (not too bad)
+-- Turn On Your Lovelight is cut
+
+Setlist:
+d1t01 - Morning Dew
+d1t02 - Me And My Uncle
+d1t03 - Doin' That Rag
+d1t04 - I'm A King Bee
+d1t05 - Dark Star ->
+d1t06 - Cosmic Charlie
+d2t01 - St. Stephen ->
+d2t02 - The Eleven ->
+d2t03 - Turn On Your Lovelight
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE problems filename
+     9:45.60      103335164    ---   --   -----   gd69-05-30d1t01.wav
+     3:00.54       31879052    ---   --   -----   gd69-05-30d1t02.wav
+     8:14.60       87282764    ---   --   -----   gd69-05-30d1t03.wav
+     9:02.10       95632364    ---   --   -----   gd69-05-30d1t04.wav
+    17:02.71      180447836    ---   --   -----   gd69-05-30d1t05.wav
+     6:16.73       66498140    ---   --   -----   gd69-05-30d1t06.wav
+     9:12.36       97457516    ---   --   -----   gd69-05-30d2t01.wav
+    12:33.25      132888044    ---   --   -----   gd69-05-30d2t02.wav
+    17:33.66      185904476    ---   --   -----   gd69-05-30d2t03.wav
+    92:43.05      981325356 B                     (totals for 9 files)

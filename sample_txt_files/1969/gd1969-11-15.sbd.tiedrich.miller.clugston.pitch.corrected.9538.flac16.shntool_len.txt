@@ -1,0 +1,19 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:17.43       34851980 B   ---   --   ---xx   flac  0.4159  gd69-11-15 pc t01 Tuning.flac
+     5:04.01       53627996 B   ---   --   ---xx   flac  0.4809  gd69-11-15 pc t02 Casey Jones.flac
+     3:26.50       36456044 B   ---   --   ---xx   flac  0.4767  gd69-11-15 pc t03 Me & My Uncle.flac
+     8:23.68       88889180 B   ---   --   ---xx   flac  0.4797  gd69-11-15 pc t04 Easy Wind.flac
+     3:13.68       34205180 B   ---   --   ---xx   flac  0.4028  gd69-11-15 pc t05 Washington's Teeth Story.flac
+     3:53.72       41270588 B   ---   --   ---xx   flac  0.4682  gd69-11-15 pc t06 Cumberland Blues.flac
+     4:12.03       44459900 B   ---   --   ---xx   flac  0.4745  gd69-11-15 pc t07 China Cat Sunflower.flac
+     4:29.29       47519852 B   ---   --   ---xx   flac  0.4719  gd69-11-15 pc t08 I Know You Rider.flac
+     5:25.31       57402956 B   ---   --   ---xx   flac  0.4300  gd69-11-15 pc t09 High Time.flac
+     4:16.55       45287804 B   ---   --   ---xx   flac  0.4696  gd69-11-15 pc t10 Next Time You See Me.flac
+     2:43.36       28837916 B   ---   --   ---xx   flac  0.4550  gd69-11-15 pc t11 Mama Tried.flac
+     3:45.48       39802940 B   ---   --   ---xx   flac  0.4530  gd69-11-15 pc t12 Big Boss Man.flac
+     6:40.01       70562396 B   ---   --   ---xx   flac  0.4555  gd69-11-15 pc t13 Cosmic Charlie.flac
+     4:16.36       45243116 B   ---   --   ---xx   flac  0.4434  gd69-11-15 pc t14 Dire Wolf.flac
+     6:08.07       64931708 B   ---   --   ---xx   flac  0.4565  gd69-11-15 pc t15 Cold Rain & Snow.flac
+     9:58.32      105562508 B   ---   --   ---xx   flac  0.4707  gd69-11-15 pc t16 Good Lovin'.flac
+    43:09.52      456821948 B   ---   --   ---xx   flac  0.4649  gd69-11-15 pc t17 Turn On Your Lovelight.flac
+   122:25.32     1295734012 B                            0.4615  (17 files)

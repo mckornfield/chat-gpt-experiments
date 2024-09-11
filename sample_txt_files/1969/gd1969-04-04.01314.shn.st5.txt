@@ -1,0 +1,12 @@
+11657e409cfd5c230e83abb965f5cfa9  [shntool]  gd69-04-04d1t01.shn
+51fc586547fdacdef43b1781a2b38fe5  [shntool]  gd69-04-04d1t02.shn
+d3db3b5eb4293a90f67343804b28148d  [shntool]  gd69-04-04d1t03.shn
+278f73d26fcb8a5e312ffc96232b737d  [shntool]  gd69-04-04d1t04.shn
+99c4dda0500d33f5b5bb06cb60840a42  [shntool]  gd69-04-04d1t05.shn
+75af08d1272d2547727557c4f6442dd9  [shntool]  gd69-04-04d1t06.shn
+818211eb3cfef416529e79a1df8489df  [shntool]  gd69-04-04d1t07.shn
+4b4f0b5a2e4cac90416c2353123f33db  [shntool]  gd69-04-04d2t01.shn
+4fe7bb05c8e7fd2d1babadcb373dc4c4  [shntool]  gd69-04-04d2t02.shn
+edf389440bd5b66f86c66d29471a3c36  [shntool]  gd69-04-04d2t03.shn
+720c9df08f47bcb27c8a6d4d9c332bbc  [shntool]  gd69-04-04d2t04.shn
+0c1a84d834b021f04c2b017e1c4c2259  [shntool]  gd69-04-04d2t05.shn

@@ -1,0 +1,12 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:18.133      61081644 B   cxx   --   ---xx   flac  0.5252  gd1969-12-26t01.flac
+     5:08.160      59166764 B   cxx   --   ---xx   flac  0.5521  gd1969-12-26t02.flac
+     4:07.840      47585324 B   cxx   --   ---xx   flac  0.5276  gd1969-12-26t03.flac
+     4:06.093      47249964 B   cxx   --   ---xx   flac  0.5608  gd1969-12-26t04.flac
+     5:38.240      64942124 B   cxx   --   ---xx   flac  0.5357  gd1969-12-26t05.flac
+     7:40.027      88325164 B   cxx   --   ---xx   flac  0.4803  gd1969-12-26t06.flac
+     3:27.920      39920684 B   cxx   --   ---xx   flac  0.5360  gd1969-12-26t07.flac
+    24:04.160     277278764 B   cxx   --   ---xx   flac  0.4998  gd1969-12-26t08.flac
+     4:22.173      50337324 B   cxx   --   ---xx   flac  0.4975  gd1969-12-26t09.flac
+    14:42.960     169528364 B   cxx   --   ---xx   flac  0.5361  gd1969-12-26t10.flac
+    78:35.707     905416120 B                            0.5185  (10 files)

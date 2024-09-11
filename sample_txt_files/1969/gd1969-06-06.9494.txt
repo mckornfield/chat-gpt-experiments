@@ -1,0 +1,163 @@
+This is a flac encoded & tagged version shnid: 9494
+
+
+Grateful Dead
+
+6-6-69
+
+
+Fillmore West,
+
+San Francisco
+
+
+
+SBD>MC>C>D>CD>EAC>SHN
+
+_______________________________________________________________________________________
+
+--songlist--
+101-d1t01 - //Smokestack Lightning*
+102-d1t02 - Green, Green Grass Of Home* 
+103-d1t03 - Me & My Uncle* 
+104-d1t04 - Checkin' Up On My Baby%**
+105-d1t05 - Beat It On Down The Line** 
+106-d1t06 - Turn on Your Lovelight 
+
+*without Jerry Garcia; with Elvin Bishop
+
+**without Jerry Garcia; with Elvin Bishop; with Wayne Ceballos
+
+
+
+--total time--76:39--  
+_______________________________________________________________________________________
+
+notes:
+The splice in Checkin' Up @ 1:14 is very minor, and hardly noticeable
+
+
+For unknown reasons, it appears that Jerry Garcia is missing for the first 5 
+songs, 
+and Elvin Bishop plays lead guitar.   The crowd, Phil & Bob 
+acknowledge the missing 
+Garcia after Smokestack, which must be the opener.  
+Wayne Ceballos adds vocals for 
+Checkin' Up and BIODTL.  A faintly heard voice 
+off microphone could be Garcia's just 
+before Checkin' Up.  Two days later 
+during the same run, Pigpen ended up a spectator,
+for some songs while Bishop & Ceballos sat in, so it seems possible that this is the 
+case with Jerry, given a laid back atmosphere.    
+
+
+
+Deadlists vaguely indicates that this represents all of 6-6-69. However, it 
+seems 
+likely that some music may be missing before Lovelight. The guests 
+are not present
+during Lovelight, and Garcia is playing on this version. 
+This is perhaps the longest 
+version of Lovelight known to have been played, 
+clocking in at just under 47 minutes.     
+
+
+
+Sound Forge was used to correct the pitch of the recording.
+
+
+Part of The Music Never Stopped Project 2002 shn em up initiative
+
+
+Thanks to Joe Jupille 
+edits/encoding by J. Cotsman
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+posted Etree on 04/18/2005:
+
+
+
+Hi guys-
+
+Seems to me "I" was playing guitar on "Beat It On Down the Line" that night. 
+I was walking by the stage when Phil (Lesh) asked me to come up and sit in on guitar. 
+I distinctly remember playing guitar on BIODTL. Things were so crazy that night- but 
+I DO remember playing on BIODTL.
+
+
+
+I can back up my statement up because Jerry (Garcia) himself states in Bill Graham's 
+autobiography that
+
+"...
+
+One night I came to the gig REAL late and there was this OTHER guy playing guitar with 
+the Grateful Dead. This guy from AUM.(my band). He was a pretty good blues guitar player. 
+I thought, 'Geez, Bill is gonna fuckin' kill me,' but he didn't say anything..."
+(P. 220- 222, I believe).
+
+
+
+I have a copy of me singing "Love Light" with the Dead- (possibly Pigpen in the mix as 
+well). I don't know if that was the gig two days later, or was at the Monterey 
+Peninsula College gig a few days before...
+Man, we were ALL pretty toasted! : ) 
+Anyway- thought my info might help clarify things.
+Cheers!
+
+
+
+Wayne "Tha Harpe" Ceballos
+
+2715 Crownspoint Dr.
+
+Austin, Texas. 78748
+
+
+~~~~~~~~~~~~~~~~~~~~
+
+
+The "Lovelight" that Wayne refers to is 06/08
+
+
+SIRMick
+January 2006
+___________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-29-11 
+_____________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+4ca93a5f0bf45c4a083562f7a8cc1ff2  [shntool]  gd69-06-06d1t01.shn
+fbce48c87c01a4082becee65189acd25  [shntool]  gd69-06-06d1t02.shn
+5ccd5f77cb27d869f69594b686d07cb9  [shntool]  gd69-06-06d1t03.shn
+b60b7b6960c24735294e7f9237b6f1d1  [shntool]  gd69-06-06d1t04.shn
+1f73ade6a32c5e747cb81f778d1dee40  [shntool]  gd69-06-06d1t05.shn
+106e9b4f562efaf4e10a57c94a9f13e7  [shntool]  gd69-06-06d1t06.shn
+
+; shntool md5 fingerprint fileWayne 
+4ca93a5f0bf45c4a083562f7a8cc1ff2  [shntool]  gd69-06-06d1t01.flac
+fbce48c87c01a4082becee65189acd25  [shntool]  gd69-06-06d1t02.flac
+5ccd5f77cb27d869f69594b686d07cb9  [shntool]  gd69-06-06d1t03.flac
+b60b7b6960c24735294e7f9237b6f1d1  [shntool]  gd69-06-06d1t04.flac
+1f73ade6a32c5e747cb81f778d1dee40  [shntool]  gd69-06-06d1t05.flac
+106e9b4f562efaf4e10a57c94a9f13e7  [shntool]  gd69-06-06d1t06.flac
+

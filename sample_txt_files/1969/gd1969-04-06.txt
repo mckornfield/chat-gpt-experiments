@@ -1,0 +1,53 @@
+Grateful Dead - April 6, 1969
+Avalon Ballroom - San Francisco, CA
+
+Recording Info:
+SBD > Master Reel > Cassette (Tascam 122mkIII) > Dat (Panasonic SV-3800/48k)
+
+Transfer Info:
+Dat (Sony PCM-R500) > Tascam DA-3000 > Samplitude Pro X3 Suite > FLAC/48k
+(2 Discs Audio / 1 Disc FLAC)
+
+Patch Info:
+FM > Master Reel > Reel > FLAC (shnid=142125) supplies:
+Viola Lee Blues (4:10 - end of track)
+
+All Transfers and Mastering by Charlie Miller
+charliemiller87@earthlink.net
+July 23, 2018
+
+Notes:
+-- This has the same cuts as all other sources
+-- The first set is muddy but gets better for the second set
+-- The patch source was remastered to better match the rest of the show
+-- There is not a lot of stereo seperation on this mix (same as the FM's)
+-- Even though there's DJ talk, it's a SBD recording (from the Grateful Dead vault)
+-- Thanks to Rob Eaton and Dick Latvala for the Dat
+-- Thanks to Matt Smith and Scott Clugston for the patch source
+
+Setlist:
+01 - Introduction
+02 - Good Morning Little Schoolgirl 
+03 - Beat It On Down The Line
+04 - It's All Over Now, Baby Blue
+05 - I'm A King Bee
+
+Set 2:
+06 - That's It For The Other One >
+07 - Death Don't Have No Mercy
+08 - Turn On Your Lovelight
+09 - Viola Lee Blues
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:13.959       2680220 B   cxx   --   ---xx   flac  0.4318  01 Introduction.flac
+     7:25.169      85472512 B   cxx   --   ---xx   flac  0.4209  02 Good Morning Little Schoolgirl.flac
+     3:32.298      40761344 B   cxx   --   ---xx   flac  0.4461  03 Beat It On Down The Line.flac
+     8:04.689      93060244 B   cxx   --   ---xx   flac  0.4002  04 It's All Over Now, Baby Blue.flac
+     7:30.534      86502576 B   cxx   --   ---xx   flac  0.4341  05 I'm A King Bee.flac
+    23:17.738     268365832 B   cxx   --   ---xx   flac  0.5394  06 That's It For The Other One.flac
+    12:16.000     141312104 B   cxx   --   ---xx   flac  0.4776  07 Death Don't Have No Mercy.flac
+    25:17.904     291437644 B   cxx   --   ---xx   flac  0.5168  08 Turn On Your Lovelight.flac
+    12:54.284     148662628 B   cxx   --   ---xx   flac  0.5654  09 Viola Lee Blues.flac
+   100:32.577    1158255104 B                            0.4982  (9 files)

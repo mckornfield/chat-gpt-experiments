@@ -1,0 +1,40 @@
+Band:The Grateful Dead
+Venue:Fillmore West
+Location:San Francisco-Ca
+Date:1969-06-07 Saturday
+
+Composite from 3 different source reels
+
+Source #1 Dire Wolf > The Eleven
+Source #2 SOTOTW > Doing That Rag
+Source #3 Me & My Uncle > Love light*
+
+*reels sheds & deteriorated sound
+
+Editing(Adobe Audition CC)-FLAC encoding(dBpoweramp)-Tagging(Tag & Re-name)-Processing (izotope oZone 6)
+
+Jim Wise: March 20  2015
+
+16 bit 44.1KHz file set
+
+Set:One
+t01.Dire Wolf
+t02.Duprees Diamond Blues
+t03.Mountains Of The Moon
+t04.Dark Star
+t05.Saint Stephen
+t06.The Eleven
+t07.Sitting On Top Of The World
+t08.Cold Rain And Snow
+t09.Doin That Rag
+t10.Me And My Uncle
+t11.Turn On Your Love light w/Janis 
+
+Band Line Up:
+Jerry Garcia - guitar, vocals
+Bob Weir - guitar, vocals
+Tom Constanten - keyboards
+Ron "Pigpen" McKernan - keyboards, vocals, harmonica, percussion
+Phil Lesh - bass guitar, vocals
+Bill Kreutzmann - drums
+Mickey Hart - drums

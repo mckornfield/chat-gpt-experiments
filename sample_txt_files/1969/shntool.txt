@@ -1,0 +1,15 @@
+    length     expanded size   cdr  WAVE problems filename
+     3:57.71       41973836    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t01.shn
+     8:39.37       91638668    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t02.shn
+     2:18.67       24500828    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t03.shn
+     5:17.27       55982348    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t04.shn
+     3:52.61       41068316    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t05.shn
+     6:36.53       69979100    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t06.shn
+     2:45.08       29124860    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t07.shn
+     2:59.05       31587404    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t08.shn
+     4:59.07       52760108    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t09.shn
+     4:23.46       46501436    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t10.shn
+     8:56.50       94668044    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t11.shn
+     1:54.65       20262524    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t12.shn
+     4:05.28       43283900    ---   --   ---xx   GD-Aoxomoxoa-outtakes-69-t13.shn
+    60:47.00      643331372 B                     (totals for 13 files, 0.6667 overall compression ratio)

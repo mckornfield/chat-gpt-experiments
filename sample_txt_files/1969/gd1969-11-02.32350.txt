@@ -1,0 +1,68 @@
+This is a tagged version of shnid: 32350
+
+Grateful Dead 
+November 2, 1969
+Family Dog at the Great Highway
+San Francisco, CA
+
+Recording Info:
+Disc 1: SBD -> Master Reel -> Cassette -> Dat (44.1k)
+Disc 2: SBD -> Master Reel -> Dat (44.1k)
+
+Transfer Info:
+Dat (Sony R500) -> SEK'D Prodif Plus -> Samplitude v8.01 Professional -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+Transferred and Edited By Charlie Miller
+charliemiller87@earthlink.net
+February 1, 2006
+
+Notes:
+-- This has the fixed Dark Star.
+-- Seamless transition between discs.
+-- Master Reel source starts at 0:36 of Dark Star.
+_______________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Cold Rain & Snow
+102-d1t02 - In the Midnight Hour
+103-d1t03 - Seasons
+104-d1t04 - Mama Tried
+105-d1t05 - Next Time You See Me
+106-d1t06 - Good Lovin'
+107-d1t07 - Big Boss Man
+108-d1t08 - Casey Jones
+109-d1t09 - Dancin' in//the Streets
+110-d2t01 - Dark Star ->
+111-d2t02 - St. Stephen ->
+112-d2t03 - The Eleven ->
+113-d2t04 - Death Don't Have No Mercy
+_______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-23-11
+_______________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+     6:02.26      63917996     ---   --    ---    gd69-11-02d1t01.wav
+     8:11.29      86680652     ---   --    ---    gd69-11-02d1t02.wav
+     4:34.33      48411260     ---   --    ---    gd69-11-02d1t03.wav
+     2:58.14      31432172     ---   --    ---    gd69-11-02d1t04.wav
+     5:21.63      56772620     ---   --    ---    gd69-11-02d1t05.wav
+     9:51.06     104266556     ---   --    ---    gd69-11-02d1t06.wav
+     6:54.47      73140188     ---   --    ---    gd69-11-02d1t07.wav
+     4:42.11      49770716     ---   --    ---    gd69-11-02d1t08.wav
+     3:43.39      39428972     ---   --    ---    gd69-11-02d1t09.wav
+    30:06.45     318684284     ---   --    ---    gd69-11-02d2t01.wav
+     7:31.04      79565852     ---   --    ---    gd69-11-02d2t02.wav
+    10:52.57     115146908     ---   --    ---    gd69-11-02d2t03.wav
+    11:31.69     122054732     ---   --    ---    gd69-11-02d2t04.wav
+   112:21.68    1189272908 B                      (totals for 13 files)

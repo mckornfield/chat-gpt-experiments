@@ -1,0 +1,80 @@
+This is a flac encoded & tagged version of shnid: 
+
+Grateful Dead 
+April 4, 1969
+Avalon Ballroom 
+San Francisco, CA
+
+MSR>C>DATs>CDRs>EAC>SHN
+
+Thanks to Rango for the source cdrs, eac/shn by dnsacks@usa.net 8/17/00
+_______________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Good Morning Little School Girl
+102-d1t02 - Doin' That Rag
+103-d1t03 - Cryptical Envelopement -> 
+104-d1t04 - Drums -> 
+105-d1t05 - The Other One -> 
+106-d1t06 - Cryptical Envelopement -> 
+107-d1t07 - Death Don't Have No Mercy
+
+--Set 2--
+201-d2t01 - Turn on Your Lovelight * 
+202-d2t02 - Dark Star-> 
+203-d2t03 - Saint Stephen-> 
+204-d2t04 - The Eleven-> 
+205-d2t05 - Feedback
+________________________________________________________________________________
+
+* Deadbase lists Lovelight as ending the second set.  However, 
+www.deadlists.com does not show Good Morning Little Schoolgirl, 
+Doin' That Rag or Lovelight as circulating (they are now :-)).  
+To me, the announcer's comments before lovelight sound like 
+pre-second set introductions, rather than "bring 'em back" 
+pre-encore talk.  Regardless, Lovelight started the second disk 
+on the copy I received and I've chosen to preserve this placement.
+________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 6-14-11
+_______________________________________________________________________________
+
+11657e409cfd5c230e83abb965f5cfa9  [shntool]  gd69-04-04d1t01.shn
+51fc586547fdacdef43b1781a2b38fe5  [shntool]  gd69-04-04d1t02.shn
+d3db3b5eb4293a90f67343804b28148d  [shntool]  gd69-04-04d1t03.shn
+278f73d26fcb8a5e312ffc96232b737d  [shntool]  gd69-04-04d1t04.shn
+99c4dda0500d33f5b5bb06cb60840a42  [shntool]  gd69-04-04d1t05.shn
+75af08d1272d2547727557c4f6442dd9  [shntool]  gd69-04-04d1t06.shn
+818211eb3cfef416529e79a1df8489df  [shntool]  gd69-04-04d1t07.shn
+4b4f0b5a2e4cac90416c2353123f33db  [shntool]  gd69-04-04d2t01.shn
+4fe7bb05c8e7fd2d1babadcb373dc4c4  [shntool]  gd69-04-04d2t02.shn
+edf389440bd5b66f86c66d29471a3c36  [shntool]  gd69-04-04d2t03.shn
+720c9df08f47bcb27c8a6d4d9c332bbc  [shntool]  gd69-04-04d2t04.shn
+0c1a84d834b021f04c2b017e1c4c2259  [shntool]  gd69-04-04d2t05.shn
+
+11657e409cfd5c230e83abb965f5cfa9  [shntool]  gd69-04-04d1t01.flac
+51fc586547fdacdef43b1781a2b38fe5  [shntool]  gd69-04-04d1t02.flac
+d3db3b5eb4293a90f67343804b28148d  [shntool]  gd69-04-04d1t03.flac
+278f73d26fcb8a5e312ffc96232b737d  [shntool]  gd69-04-04d1t04.flac
+99c4dda0500d33f5b5bb06cb60840a42  [shntool]  gd69-04-04d1t05.flac
+75af08d1272d2547727557c4f6442dd9  [shntool]  gd69-04-04d1t06.flac
+818211eb3cfef416529e79a1df8489df  [shntool]  gd69-04-04d1t07.flac
+4b4f0b5a2e4cac90416c2353123f33db  [shntool]  gd69-04-04d2t01.flac
+4fe7bb05c8e7fd2d1babadcb373dc4c4  [shntool]  gd69-04-04d2t02.flac
+edf389440bd5b66f86c66d29471a3c36  [shntool]  gd69-04-04d2t03.flac
+720c9df08f47bcb27c8a6d4d9c332bbc  [shntool]  gd69-04-04d2t04.flac
+0c1a84d834b021f04c2b017e1c4c2259  [shntool]  gd69-04-04d2t05.flac

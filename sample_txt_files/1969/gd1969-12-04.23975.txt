@@ -1,0 +1,103 @@
+This is a flac encoded & tagged version of shnid: 23975
+
+The Grateful Dead
+04DEC69 
+Fillmore West  
+San Francisco, CA
+
+THE OWEN BROTHERS VAULT
+
+Owlsley's Cassette (SBD: MC>DAT>DAT>CD>EAC>DC5>CD)
+
+This upgrade comes from an unnameable benefactor...
+Editing and mastering by The Wizard - Owenbrothersvault@hotmail.com
+
+This was a rather poor monitor mix (Heavy on vocals - little Bobby guitar)
+It had a good bit of hiss. I reduced the hiss to endurable levels with three
+different Continuous noise filters. EQ'ed a bit to bring up mids and top.
+Adjusted gains to level and balance things out a bit. Cleaned up the various
+cuts and gliches... The tuning after Black Peter and the bit of Dire Wolf were
+patched in from the older source as they were cut from this tape.
+All editing done with Diamond Cut DC5 software.
+____________________________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Introduction + Invitation to what would become Altamont
+102-d1t02 - Casey Jones
+103-d1t03 - Black Peter (Possibly first one)
+104-d1t04 - Announcements + Tune Up
+105-d1t05 - Big Boss Man
+106-d1t06 - Me & My Uncle
+107-d1t07 - Cumberland Blues
+108-d1t08 - Dire Wolf// (Most cut)
+109-d1t09 - Dark Star ->
+110-d1t10 - High Time
+
+--Set 2--
+201-d2t01 - Good Morning Little Schoolgirl % (Has a cut)
+202-d2t02 - Good Lovin' ->
+203-d2t03 - Drums ->
+204-d2t04 - Good Lovin' 
+205-d2t05 - China Cat Sunflower ->
+206-d2t06 - I Know You Rider
+207-d2t07 - Uncle John's Band (Possibly first with lyrics)
+
+--disc 1 total time--76:27--
+--disc 2 total time--42:52--
+____________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-29-11
+____________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+e6fa6989ed2df6ced354cef9cdc2fd86  [shntool]  gd69-12-04d1t01.shn
+e8035a98d75c445a2b9ed4b3b7c17a00  [shntool]  gd69-12-04d1t02.shn
+82e370a0f6d32738d10469a98ae37b53  [shntool]  gd69-12-04d1t03.shn
+9ff4f48d242ad5d303d3c3fe782cf259  [shntool]  gd69-12-04d1t04.shn
+aa3034a10c687cb12d131b0d95269ff5  [shntool]  gd69-12-04d1t05.shn
+f620a7a55b5f0f972d206474a9357963  [shntool]  gd69-12-04d1t06.shn
+cd4fa4428c85a2ffb05a0eae4ce52e55  [shntool]  gd69-12-04d1t07.shn
+b6bec8999a61e5f1b0e9f040918d60a9  [shntool]  gd69-12-04d1t08.shn
+4a0eff93b860c7eab16f03fb1abe8f61  [shntool]  gd69-12-04d1t09.shn
+76cbab8f597e73bbf407263f401ad28e  [shntool]  gd69-12-04d1t10.shn
+9384bf82acbd0112a6200b42374b5fb0  [shntool]  gd69-12-04d2t01.shn
+473bd4607a1a2a6b9618c7c5bf72af3a  [shntool]  gd69-12-04d2t02.shn
+6f46448f6c4036cb50252ebae22b5333  [shntool]  gd69-12-04d2t03.shn
+35e5f9f18563570ea9abd82ab06f65d8  [shntool]  gd69-12-04d2t04.shn
+e5af1b2fd531315ad3a5c1f9719f9de1  [shntool]  gd69-12-04d2t05.shn
+a28f5953fdaccdb140a72ba280aeb7a3  [shntool]  gd69-12-04d2t06.shn
+0b160dddb5580bafab0aabeca197ea9e  [shntool]  gd69-12-04d2t07.shn
+
+; shntool md5 fingerprint file 
+e6fa6989ed2df6ced354cef9cdc2fd86  [shntool]  gd69-12-04d1t01.flac
+e8035a98d75c445a2b9ed4b3b7c17a00  [shntool]  gd69-12-04d1t02.flac
+82e370a0f6d32738d10469a98ae37b53  [shntool]  gd69-12-04d1t03.flac
+9ff4f48d242ad5d303d3c3fe782cf259  [shntool]  gd69-12-04d1t04.flac
+aa3034a10c687cb12d131b0d95269ff5  [shntool]  gd69-12-04d1t05.flac
+f620a7a55b5f0f972d206474a9357963  [shntool]  gd69-12-04d1t06.flac
+cd4fa4428c85a2ffb05a0eae4ce52e55  [shntool]  gd69-12-04d1t07.flac
+b6bec8999a61e5f1b0e9f040918d60a9  [shntool]  gd69-12-04d1t08.flac
+4a0eff93b860c7eab16f03fb1abe8f61  [shntool]  gd69-12-04d1t09.flac
+76cbab8f597e73bbf407263f401ad28e  [shntool]  gd69-12-04d1t10.flac
+9384bf82acbd0112a6200b42374b5fb0  [shntool]  gd69-12-04d2t01.flac
+473bd4607a1a2a6b9618c7c5bf72af3a  [shntool]  gd69-12-04d2t02.flac
+6f46448f6c4036cb50252ebae22b5333  [shntool]  gd69-12-04d2t03.flac
+35e5f9f18563570ea9abd82ab06f65d8  [shntool]  gd69-12-04d2t04.flac
+e5af1b2fd531315ad3a5c1f9719f9de1  [shntool]  gd69-12-04d2t05.flac
+a28f5953fdaccdb140a72ba280aeb7a3  [shntool]  gd69-12-04d2t06.flac
+0b160dddb5580bafab0aabeca197ea9e  [shntool]  gd69-12-04d2t07.flac
+

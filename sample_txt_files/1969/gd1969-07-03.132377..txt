@@ -1,0 +1,70 @@
+This is a tagged version of shnid: 132377
+
+Grateful Dead  
+July 3, 1969
+Reed's Ranch  
+Colorado Springs, CO
+
+Recording Info:
+SBD -> Cassette Master -> Dat (48k)
+
+Transfer Info:
+Dat (Sony R500) -> Tascam SS-R05 -> Samplitude Pro X Suite -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+February 2, 2015
+
+Patch Info:
+SBD -> Cassette Master -> Dat -> MP3 supplies:
+Me And My Uncle (1:51 - end of track)
+Casey Jones (complete track)
+Hard To Handle (complete track)
+He Was A Friend Of Mine (complete track)
+Turn On Your Lovelight (complete track)
+
+Notes:
+-- Thanks to Rob Eaton for lending me his Dat
+-- The patch source comes from the dead.net taper's section stream
+-- Thanks to Joe B. Jones for his help with pitch correcting the patch source
+_____________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Green Green Grass Of Home >
+102-d1t02 - Ol' Slewfoot
+103-d1t03 - Sittin' On Top Of The World
+104-d1t04 - Morning Dew
+105-d1t05 - High Time
+106-d1t06 - Me And My Uncle
+107-d1t07 - Casey Jones
+xxxxx - Mama Tried (MISSING)
+109-d1t08 - Hard To Handle
+110-d1t09 - He Was A Friend Of Mine
+111-d2t01 - Turn On Your Lovelight
+____________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 2-03-2015
+_____________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:12.33       55114460 B   ---   --   ---xx   flac  0.5992  gd69-07-03d1t01.flac
+     3:15.61       34541516 B   ---   --   ---xx   flac  0.6198  gd69-07-03d1t02.flac
+     3:41.54       39111452 B   ---   --   ---xx   flac  0.6361  gd69-07-03d1t03.flac
+    10:20.01      109370396 B   ---   --   ---xx   flac  0.6108  gd69-07-03d1t04.flac
+     6:56.07       73398908 B   ---   --   ---xx   flac  0.5286  gd69-07-03d1t05.flac
+     3:37.45       38384684 B   ---   --   ---xx   flac  0.5361  gd69-07-03d1t06.flac
+     5:46.53       61159100 B   ---   --   ---xx   flac  0.5338  gd69-07-03d1t07.flac
+     5:16.45       55848284 B   ---   --   ---xx   flac  0.5402  gd69-07-03d1t08.flac
+    13:45.43      145631180 B   ---   --   ---xx   flac  0.4957  gd69-07-03d1t09.flac
+    27:19.42      289218428 B   ---   --   ---xx   flac  0.5174  gd69-07-03d2t01.flac
+    85:12.09      901778408 B                            0.5435  (10 files)

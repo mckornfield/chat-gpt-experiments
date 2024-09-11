@@ -1,0 +1,94 @@
+This is a flac encoded & tagged version of shnid: 20547
+
+Grateful Dead
+6/27/69
+Veterans Auditorium 
+Santa Rosa, CA.
+
+Lineage:
+Soundboard->Master Reel->Cassette->DAT->DAT
+
+Transfer:
+DAT->ZA2->Soundforge->.wav->mkw->SHN
+
+DAT seed provided by Michael P. Weitzman
+Transfer and SHN by Joe Samaritano
+11/10/2003
+_________________________________________________________________________________
+
+--Songlist--
+101-d1t01 - Slewfoot
+102-d1t02 - Mama Tried
+103-d1t03 - High Time
+104-d1t04 - Dupree's Diamond Blues
+105-d1t05 - Me & My Unlce
+106-d1t06 - Casey Jones
+107-d1t07 - Dire Wolf
+108-d1t08 - Sittin' on Top of the World
+109-d1t09 - Big Boss Man
+110-d2t01 - Dark Star ->
+111-d2t02 - St. Stephen ->
+112-d2t03 - William Tell Bridge ->
+113-d2t04 - The Eleven Jam ->
+114-d2t05 - Green, Green Grass Of Home
+
+--Encore--
+115-d2t06 - It's All Over //Now, Baby Blue//
+________________________________________________________________________________
+
+Notes:
+1. Known low generation lineage and transfer info. 
+2. Splice in Baby Blue about 4 minutes in, then clipped at the end.
+3. Garcia on Pedal Steel for Slewfoot, Dire Wolf, and Green Grass.
+Peter Grant on Banjo for Slewfoot. Weir on vocals for Dire Wolf.
+________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 8-06-11
+________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+8f2a0b282ef13e5791118c6823bd6603  [shntool]  gd690627d1t01.shn
+08427d18d6e852a5888c440e9d5fc3d9  [shntool]  gd690627d1t02.shn
+9793ddf0915e69ca8cbb82df41abe59b  [shntool]  gd690627d1t03.shn
+53214fda42a96477019dd243c1584fc8  [shntool]  gd690627d1t04.shn
+9f2f75f023c8ed56246e3f4aaee94f0c  [shntool]  gd690627d1t05.shn
+2e979e59152102bc1636362762fedfad  [shntool]  gd690627d1t06.shn
+31f42127170b5ff94e446a77d48d642c  [shntool]  gd690627d1t07.shn
+cf1a7b3d8199095497a8ebae06cc85ec  [shntool]  gd690627d1t08.shn
+5a7cadffdae00a6189b7336f78bf911a  [shntool]  gd690627d1t09.shn
+2fc8c68b4f292f07de6ae4d991576c16  [shntool]  gd690627d2t01.shn
+6274dfc40dba90341a7ed3be67e6ca77  [shntool]  gd690627d2t02.shn
+897394cd4132c8e3d2b32723004fcde1  [shntool]  gd690627d2t03.shn
+569f4a6a0e71a3bb6d116caacb73de72  [shntool]  gd690627d2t04.shn
+8eef42ca229683d51a65b8051ce9b2ba  [shntool]  gd690627d2t05.shn
+
+; shntool md5 fingerprint file
+8f2a0b282ef13e5791118c6823bd6603  [shntool]  gd690627d1t01.flac
+08427d18d6e852a5888c440e9d5fc3d9  [shntool]  gd690627d1t02.flac
+9793ddf0915e69ca8cbb82df41abe59b  [shntool]  gd690627d1t03.flac
+53214fda42a96477019dd243c1584fc8  [shntool]  gd690627d1t04.flac
+9f2f75f023c8ed56246e3f4aaee94f0c  [shntool]  gd690627d1t05.flac
+2e979e59152102bc1636362762fedfad  [shntool]  gd690627d1t06.flac
+31f42127170b5ff94e446a77d48d642c  [shntool]  gd690627d1t07.flac
+cf1a7b3d8199095497a8ebae06cc85ec  [shntool]  gd690627d1t08.flac
+5a7cadffdae00a6189b7336f78bf911a  [shntool]  gd690627d1t09.flac
+2fc8c68b4f292f07de6ae4d991576c16  [shntool]  gd690627d2t01.flac
+6274dfc40dba90341a7ed3be67e6ca77  [shntool]  gd690627d2t02.flac
+897394cd4132c8e3d2b32723004fcde1  [shntool]  gd690627d2t03.flac
+569f4a6a0e71a3bb6d116caacb73de72  [shntool]  gd690627d2t04.flac
+8eef42ca229683d51a65b8051ce9b2ba  [shntool]  gd690627d2t05.flac
+

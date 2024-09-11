@@ -1,0 +1,118 @@
+This is a flac encoded & tagged version of shind: 16760
+
+Aoxomoxoa Studio Sessions Outtakes 1969
+
+Sandy Troy's TC366 3.75ips Reel->DAT2->CDR 
+Alan Bershaw's A1040SL 7.5ips Reel->DAT->CDR supplies tracks 12 & 13
+
+Cd > eac > cool edit pro > shntool > cdwav > shnv3 by Ernie Dodd
+____________________________________________________________________________________
+
+--Songlist--
+01  Saint Stephen ->    
+02  The Eleven              #
+03  The Barbed Wire Whipping Party *
+04  Doing That Rag #1       &
+05  Duprees Diamond Blues   %
+06  -unknown instrumental-
+07  China Cat Sunflower     @
+08  Cosmic Charlie
+09  Doing That Rag #2       !
+10  Mountains Of The Moon   ^
+11  What's Become Of The Baby? $
+12. Rosemary
+13. Mountains Of The Moon
+____________________________________________________________________________________
+
+notes:
+# Skip at the beginning of The Eleven, the jam at the end fades out
+* 0:06- Barbed Wire removed small cut,0:41- removed pop in left channel 
+    (!=pop "the B!arbed wire...") 0:57- removed pop
+& 1:02- The Rag small bit of noise I could not remove, its hardly audible
+  3:13-3:19 fade out & in small subsecond silence removed,
+% Dupree's fades in
+@ 1:25-1:28 fade out & in
+! 0:30- 3 seconds of silence
+^ 0:30- removed small noise sounding like tape starting
+  immediately following a cut and prior to any music or Jerry singing starts
+$ 2:49- noise and cut present
+
+ 
+ I did not want to edit this too much because these are rought cuts and the 
+ flaws are part of the character. Instead, I tried to note them. Only minor 
+ editing was performed as described above. Additionally, I did take out a few
+ of the small segments of silence between tracks. I did not make any adjustments
+ to the levels.
+ 
+ Enjoy!!
+_____________________________________________________________________________________
+
+Discs were kindly provided by Stu Hanson who comments below:
+
+These copies kick the sh*t out of the versions circulating from those 
+Unsurpassed Masters bootleg CDs. These derive from a 3.75ips reel belonging 
+to Sandy Troy with two additional tracks supplied by a 7.5ips reel belonging 
+to Alan Bershaw. 
+
+Sandy's reel has all the material that has circulated before and its likely 
+that many of the copies out there trace back to this reel. We *think* this 
+material derives from the original 8 track studio sessions (that were 
+abandoned in favor of using the first 16 track, which had just become 
+available in 1969.) 
+
+The two cuts from Alan's reel, Rosemary & Mountains Of The Moon, sound like 
+the same versions recorded for the album, but they seem to be only Garcia's 
+acoustic guitar and vocal tracks, without all the overdubs. They are 
+definitely not to be confused with the earlier mixes that were originally 
+released on the 1969 version of the album. These two tracks have not 
+circulated widely. They are both excellent quality and very beautiful! 
+____________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-14-11
+____________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+ed8e610d72c3fd63fe6ac95391a71153  [shntool]  GD-Aoxomoxoa-outtakes-69-t01.shn
+605fc63cff706377263b9609e01cb627  [shntool]  GD-Aoxomoxoa-outtakes-69-t02.shn
+e2c11302d2ae1850e86ded109e87368a  [shntool]  GD-Aoxomoxoa-outtakes-69-t03.shn
+368a836192f791071eb178aa52162afa  [shntool]  GD-Aoxomoxoa-outtakes-69-t04.shn
+fda0d000d9533bf22727d265a31a7852  [shntool]  GD-Aoxomoxoa-outtakes-69-t05.shn
+dc90ecda591ea2bb08d3018567834940  [shntool]  GD-Aoxomoxoa-outtakes-69-t06.shn
+ff898b846a3d095e931c59cba864cdd8  [shntool]  GD-Aoxomoxoa-outtakes-69-t07.shn
+d91b00abbe67db622140c394ee5c6918  [shntool]  GD-Aoxomoxoa-outtakes-69-t08.shn
+fc9c4094d13269dee183b3a22ceb9585  [shntool]  GD-Aoxomoxoa-outtakes-69-t09.shn
+2b4d35a260ba1bb1eb8880312c7c29c0  [shntool]  GD-Aoxomoxoa-outtakes-69-t10.shn
+ddbc3dc5b17dc9f898be4858b68b6181  [shntool]  GD-Aoxomoxoa-outtakes-69-t11.shn
+5e4e9dcecd64b764c9c28a223c8c6b57  [shntool]  GD-Aoxomoxoa-outtakes-69-t12.shn
+c0093cd0de3391de4bd59327306747aa  [shntool]  GD-Aoxomoxoa-outtakes-69-t13.shn
+
+; shntool md5 fingerprint file 
+ed8e610d72c3fd63fe6ac95391a71153  [shntool]  GD-Aoxomoxoa-outtakes-69-t01.flac
+605fc63cff706377263b9609e01cb627  [shntool]  GD-Aoxomoxoa-outtakes-69-t02.flac
+e2c11302d2ae1850e86ded109e87368a  [shntool]  GD-Aoxomoxoa-outtakes-69-t03.flac
+368a836192f791071eb178aa52162afa  [shntool]  GD-Aoxomoxoa-outtakes-69-t04.flac
+fda0d000d9533bf22727d265a31a7852  [shntool]  GD-Aoxomoxoa-outtakes-69-t05.flac
+dc90ecda591ea2bb08d3018567834940  [shntool]  GD-Aoxomoxoa-outtakes-69-t06.flac
+ff898b846a3d095e931c59cba864cdd8  [shntool]  GD-Aoxomoxoa-outtakes-69-t07.flac
+d91b00abbe67db622140c394ee5c6918  [shntool]  GD-Aoxomoxoa-outtakes-69-t08.flac
+fc9c4094d13269dee183b3a22ceb9585  [shntool]  GD-Aoxomoxoa-outtakes-69-t09.flac
+2b4d35a260ba1bb1eb8880312c7c29c0  [shntool]  GD-Aoxomoxoa-outtakes-69-t10.flac
+ddbc3dc5b17dc9f898be4858b68b6181  [shntool]  GD-Aoxomoxoa-outtakes-69-t11.flac
+5e4e9dcecd64b764c9c28a223c8c6b57  [shntool]  GD-Aoxomoxoa-outtakes-69-t12.flac
+c0093cd0de3391de4bd59327306747aa  [shntool]  GD-Aoxomoxoa-outtakes-69-t13.flac
+
+

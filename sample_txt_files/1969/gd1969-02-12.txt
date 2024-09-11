@@ -1,0 +1,91 @@
+BAND  Grateful Dead
+VENUE Fillmore East
+CITY  New York
+STATE NY
+DATE  02/12/69b Late Show
+DISCs One
+
+Lineage: SBD>Cassette Master>DAT>CD
+
+1. \\Dark Star >                        4:58   
+2. St. Stephen >                        5:53  
+3. William Tell >      
+   The Eleven >                        15:43
+4. Death Don't Have No Mercy            8:22
+5. Alligator >                          3:57 
+6. Drumz >                              4:22  
+7. Drummers' Chant >                    0:19 
+8. Alligator Jam* >                     6:11 
+9. Caution (Do Not Stop on Tracks)* >   9:21
+10.Feedback >                           4:41  
+11.And We Bid You Goodnight             4:39 
+
+Total disc time:                       68:32
+
+Notes:
+
+* - 11:29 minutes of the Alligator Jam > Caution segment 
+    were missing from the previously seeded version of this 
+    show and have been patched into the current version 
+    from an alternate partial SBD source containing the 
+    Alligator ====> Feedback segment and bearing the same
+    lineage + one cassette gen. The corresponding Feedback
+    segment of the alternate SBD source is also missing 
+    approximately 2:00 minutes of Feedback that are actually
+    present in the current version before any patching from the 
+    alternate SBD source. The current version would then 
+    appear to contain the complete Alligator ====> Feedback
+    segment of the show for a total timing of 28:54.     
+
+The disc picks up with the last 04:59 of Dark Star.  
+If Deadbase XI is accurate, this disc is missing Dupree's,
+Mountains of the Moon and the better part of Dark Star.Total 
+disc time prior to patching in the missing 11:29 from the 
+alternate SBD source is 57:03. Total time per Deadlists and 
+Eaton's list is 84:00. If the Eaton version is missing the 11:29
+minutes of the Alligator Jam > Caution patched from the alternate
+SBD source, this could logically account for the resulting 27 minute
+time difference.
+
+From Deadlists:
+DeadBase IX notes Early & Late shows on this date.  
+
+Eaton's list reads:
+02/12/69 Fillmore East Theatre, New York City Ny - late show
+4.2, 084min, Sbd, A0D0, Cass M->Dat  0, 48k,
+Ampex C-90 Master Cass/no dolby->3800 x 0RECORDING  84 SB
+
+(Extraction and.shn encoding by Seth Kaplan via EAC and MKW.
+Accurate extraction and properly aligned sector boundaries 
+verified via EAC and .shntool)
+
+.shntool stats:
+
+     4:58             52708364      -    gd69-02-12t01.wav
+     5:53             62415068      -    gd69-02-12t02.wav
+    15:43            166361708      -    gd69-02-12t03.wav
+     8:22             88682204      -    gd69-02-12t04.wav
+     3:57             41955020      -    gd69-02-12t05.wav
+     4:22             46285052      -    gd69-02-12t06.wav
+     0:19              3389276      -    gd69-02-12t07.wav
+     6:11             65540876      -    gd69-02-12t08.wav
+     9:21             98962796      -    gd69-02-12t09.wav
+     4:41             49702508      -    gd69-02-12t10.wav
+     4:39             49356764      -    gd69-02-12t11.wav
+    68:32            725359636 B         (totals for 11 files)
+
+Md5's:
+
+d331957e1584f46feedbcefd44dee430 *gd69-02-12t01.shn
+2b5cfc425ae7dd51cc010887905d2528 *gd69-02-12t02.shn
+e9d4119da243319c36afee7505d3d90f *gd69-02-12t03.shn
+b1375c199e3dc4805d453d532baf72f2 *gd69-02-12t04.shn
+a0f4009e6f62135a044cd4c83dcd8154 *gd69-02-12t05.shn
+94e6686b54848a2bd7f3d67813567e98 *gd69-02-12t06.shn
+273a74cc03cf0c4351229c7c8ab69800 *gd69-02-12t07.shn
+52f2b102432ceda9b6a76401558452f9 *gd69-02-12t08.shn
+17a08c042f0aa46a1ec69162998c57da *gd69-02-12t09.shn
+cff883e02a3896bdc0fdeebe453e227a *gd69-02-12t10.shn
+49ca919b8dca1b7ac44d7705d38c6bf8 *gd69-02-12t11.shn
+
+

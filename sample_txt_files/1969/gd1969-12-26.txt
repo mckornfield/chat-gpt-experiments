@@ -1,0 +1,71 @@
+Grateful Dead
+McFarlin Auditorium,
+Southern Methodist University
+Dallas, TX
+12/26/1969
+Electric part only
+
+
+Source: sbd > Master Reel > Cassette > Dat (48k)
+
+
+
+01   Casey Jones
+02   Hard To Handle
+03   Cold Rain And Snow//
+04   //China Cat Sunflower >
+05   I Know You Rider >
+06   High Time
+07   Me And My Uncle
+08   Dark Star//
+09   //New Speedway Boogie
+10   Turn On Your Love Light
+
+
+Comments:
+
+- This recording has been provided by an anonymous source.
+- Several minor repairs have been made.
+- All files have been tagged
+
+
+"Dark Star" has meant, while I'm playing it, almost as many things as I can sit here and imagine, so all I can do is talk about "Dark Star" as a playing experience.
+Reich: Well, yeah, talk about it a little.
+Garcia: I can't. It talks about itself.
+
+Hunter "I don't have any idea what the 'transitive nightfall of diamonds' means. It sounded good at the time"
+
+
+editing and mastered
+SIRMick
+March 2015
+
+
+
+shntool ouput:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:18.133      61081644 B   cxx   --   ---xx   flac  0.5252  gd1969-12-26t01.flac
+     5:08.160      59166764 B   cxx   --   ---xx   flac  0.5521  gd1969-12-26t02.flac
+     4:07.840      47585324 B   cxx   --   ---xx   flac  0.5276  gd1969-12-26t03.flac
+     4:06.093      47249964 B   cxx   --   ---xx   flac  0.5608  gd1969-12-26t04.flac
+     5:38.240      64942124 B   cxx   --   ---xx   flac  0.5357  gd1969-12-26t05.flac
+     7:40.027      88325164 B   cxx   --   ---xx   flac  0.4803  gd1969-12-26t06.flac
+     3:27.920      39920684 B   cxx   --   ---xx   flac  0.5360  gd1969-12-26t07.flac
+    24:04.160     277278764 B   cxx   --   ---xx   flac  0.4998  gd1969-12-26t08.flac
+     4:22.173      50337324 B   cxx   --   ---xx   flac  0.4975  gd1969-12-26t09.flac
+    14:42.960     169528364 B   cxx   --   ---xx   flac  0.5361  gd1969-12-26t10.flac
+    78:35.707     905416120 B                            0.5185  (10 files)
+
+flac fingerprints:
+
+gd1969-12-26t01.flac:2acfe69f63b027bf4d4642a449691385
+gd1969-12-26t02.flac:4fcc8772fb44bb35b78d00befdb9a321
+gd1969-12-26t03.flac:87b0d999057ab0c7b5dae37085f12e2a
+gd1969-12-26t04.flac:bab99d383f0d5e8ae654c7ef324718d1
+gd1969-12-26t05.flac:b600bec42b74cadb6a92a384149bfd5b
+gd1969-12-26t06.flac:9e1837744cebcf522ee347943226a08a
+gd1969-12-26t07.flac:cb3c5d637d885e9dab03000bf44aa33d
+gd1969-12-26t08.flac:28c8401cbff9707040bf33277d6b9ae9
+gd1969-12-26t09.flac:806805fa530df6fb386c38042d6a0ec6
+gd1969-12-26t10.flac:af9d937aa44ba5df905b9e0e6373b99a

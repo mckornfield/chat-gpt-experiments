@@ -1,0 +1,37 @@
+Grateful Dead
+Avalon Ballroom
+San Francisco CA
+01/26/69
+One 80 minute disc
+
+Lineage: MSR>C>D>CD
+
+Extraction and shortening by Seth Kaplan
+
+** NOTE **
+Some files were not cut on sector boundries... they were fixed using
+shntool and a new md5 checksum file was made.  The sector boundries 
+were the only reason the files are now named as "fixed."  (12/14/00)
+
+Set One:
+1. Intro	          	0:51
+2. Cryptical Envelopment >	1:58
+3. Drums > The Other One >	7:55
+4. Cryptical Envelopment >	6:15
+5. Clementine >                10:57
+6. Death Don't Have No Mercy    9:51
+
+Set Two:
+7. Dark Star%  >   		9:43
+8. St Stephen > 		5:36
+9. William Tell bridge 		1:07
+10.The Eleven > 		9:19
+11.Turn on Your Lovelight      15:20
+
+Total time:                    78:57
+
+The Eleven > Lovelight are the versions that appear on Live Dead.
+
+Known flaws:
+SBD adjustments on the first Cryptical Envelopment.
+Splice in Dark Star at 8:12. Resumes just before the second verse.

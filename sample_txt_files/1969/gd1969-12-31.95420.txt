@@ -1,0 +1,101 @@
+This is a tagged version of shnid: 95420
+
+Grateful Dead 
+December 31, 1969
+Boston Tea Party
+Boston, MA
+
+Recording Info:
+SBD -> Master Reel -> Dat -> CD
+
+Transfer Info:
+CD -> Samplitude Professional v10.1 -> Adobe Audition v1.5 -> FLAC
+(3 Discs Audio / 2 Discs FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+October 23, 2008
+
+Notes:
+-- Set 2 disc change is seamless
+-- Reel flips during The Eleven and Silver Threads cleaned up with crossfade
+-- Thanks to Joe B. Jones for his help with the pitch correction
+_______________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Introduction
+102-d1t02 - China Cat Sunflower ->
+103-d1t03 - I Know You Rider
+104-d1t04 - Mama Tried
+105-d1t05 - Next Time You See Me
+106-d1t06 - Cold Rain & Snow
+107-d1t07 - Black Peter
+108-d1t08 - Hard To Handle
+109-d1t09 - Me & My Uncle
+110-d1t10 - Mason's Children
+111-d1t11 - Dire Wolf
+112-d1t12 - Uncle John's Band
+
+--Set 2--
+201-d2t01 - Yellow Dog Story
+202-d2t02 - Alligator ->
+203-d2t03 - Drums ->
+204-d2t04 - Alligator ->
+205-d2t05 - Caution (Do Not Stop On Tracks) ->
+206-d2t06 - Good Lovin' ->
+207-d2t07 - Drums ->
+208-d2t08 - The Eleven
+209-d2t09 - High Time
+210-d2t10 - Cumberland Blues
+211-d3t01 - Big Boy Pete
+212-d3t02 - Not Fade Away
+213-d3t03 - Seasons
+214-d3t04 - The Race Is On
+215-d3t05 - Silver Threads And Golden Needles
+216-d3t06 - Slewfoot
+217-d3t07 - Dancing in the Street
+_______________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-13-11
+_______________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE problems filename
+     0:51.20        9043484    ---   --   -----   gd69-12-31d1t01.wav
+     5:36.19       59315132    ---   --   -----   gd69-12-31d1t02.wav
+     6:58.16       73772876    ---   --   -----   gd69-12-31d1t03.wav
+     3:56.62       41776268    ---   --   -----   gd69-12-31d1t04.wav
+     4:06.62       43540268    ---   --   -----   gd69-12-31d1t05.wav
+     5:12.34       55116812    ---   --   -----   gd69-12-31d1t06.wav
+    10:00.22      105891788    ---   --   -----   gd69-12-31d1t07.wav
+     7:23.58       78281660    ---   --   -----   gd69-12-31d1t08.wav
+     3:58.52       42105548    ---   --   -----   gd69-12-31d1t09.wav
+     8:57.65       94879724    ---   --   -----   gd69-12-31d1t10.wav
+     5:34.36       59002316    ---   --   -----   gd69-12-31d1t11.wav
+     7:50.00       82908044    ---   --   -----   gd69-12-31d1t12.wav
+     2:35.43       27443180    ---   --   -----   gd69-12-31d2t01.wav
+     4:55.51       52157996    ---   --   -----   gd69-12-31d2t02.wav
+     1:57.17       20678828    ---   --   -----   gd69-12-31d2t03.wav
+    13:53.70      147105884    ---   --   -----   gd69-12-31d2t04.wav
+     9:52.55      104558204    ---   --   -----   gd69-12-31d2t05.wav
+     1:53.26       19994396    ---   --   -----   gd69-12-31d2t06.wav
+     1:23.51       14761196    ---   --   -----   gd69-12-31d2t07.wav
+    14:37.38      154792220    ---   --   -----   gd69-12-31d2t08.wav
+     9:18.03       98438300    ---   --   -----   gd69-12-31d2t09.wav
+    10:41.60      113213564    ---   --   -----   gd69-12-31d2t10.wav
+     3:53.00       41101244    ---   --   -----   gd69-12-31d3t01.wav
+    11:28.58      121499660    ---   --   -----   gd69-12-31d3t02.wav
+     4:36.53       48811100    ---   --   -----   gd69-12-31d3t03.wav
+     3:37.20       38325884    ---   --   -----   gd69-12-31d3t04.wav
+     2:09.64       22906172    ---   --   -----   gd69-12-31d3t05.wav
+     5:11.15       54895724    ---   --   -----   gd69-12-31d3t06.wav
+     8:28.36       89695916    ---   --   -----   gd69-12-31d3t07.wav
+   181:01.56     1916013388 B                     (totals for 29 files)

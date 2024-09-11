@@ -1,0 +1,112 @@
+Grateful Dead
+The Electric Factory
+Philadelphia, PA
+02/15/69
+
+Source: SBD>MR>Cassette>DAT>CD>EAC>SHN
+        (See source info below.)
+Disc 1:
+1)  //Doin' That Rag
+2)  Cryptical Envelpoment >
+3)  Drums >
+4)  The Other One >
+5)  Cryptical Envelopment Reprise
+6)  The Morning Dew >
+7)  Turn On Your Lovelight
+
+Disc 2
+1)  Tunning
+2)  Dupree's Diamond Blues
+3)  Mountains Of The Moon >
+4)  Dark Star >
+5)  Saint Stephen >
+6)  The Eleven// >
+7)  //Death Don't Have No Mercy
+8)  Cosmic Charlie
+
+Disc 3
+1)  Alligator >
+2)  Drums >
+3)  Alligator Jam >
+4)  Caution >
+5)  Feedback >
+6)  Goodnight
+
+Thanks to "Gator" for the seed discs!
+
+DAT conversion by Aoxoa:
+
+7 inch master reel @ 7.5 ips 1/2 track > tascam 122mkIII  cassette ....nak dragon > wav > cd via sony pcm r-700 dat > za2 > hard disc ... sound forge & cd architect was the software ... 
+
+Notes:
+ - The beginning of Doin That Rag is cut - no vocals are missing.
+ - Lovelight has a cut near the end at 15:54. 
+ - The Eleven cuts off at 7:04.
+ - The first half of Death Don't is missing - it cuts in during Jerry's solo.
+ - Caution has a cut at 7:43.
+
+ - The track marker at the start of The Eleven was adjusted.
+ - TIFTOO and Gator Jam>AWBYG each came as one long track and were retracked with CDWave.
+ - A few small clicks were removed with Cool Edit 2000.
+
+EAC test & copy in secure mode, offset corrected.  Sector boundaries verified with shntool. Seekable shorten encoding with MKW. 
+By D.Winters 01/25/03.
+
+
+MD5's:
+36189e56905a81aab85a20923f32be18 *gd69-02-15d1t01.shn
+ae44f52db123e402d23973617460e10c *gd69-02-15d1t02.shn
+bcb83808e57ee64416c7065840f87924 *gd69-02-15d1t03.shn
+627080fed8d113007514d40d59822e50 *gd69-02-15d1t04.shn
+6d0f56e6a76713af4e545e23c1d09ff4 *gd69-02-15d1t05.shn
+cc0eb927a5c81092a1ea388c17ac250b *gd69-02-15d1t06.shn
+0f8efa56feb3461ee2004e0a0808fee2 *gd69-02-15d1t07.shn
+726a03e63b568d280b4e02391181c02f *gd69-02-15d2t01.shn
+d566151335a16fa7333401ea6fd7a674 *gd69-02-15d2t02.shn
+c86f9ad192636b8bcccace95f83fbab9 *gd69-02-15d2t03.shn
+411a5bdbda6898c72f01ce3592d5c3ff *gd69-02-15d2t04.shn
+0e750c6a11bcbd4ef05cab6dd1503dff *gd69-02-15d2t05.shn
+d30810ac8ef7daf53858b67f41d73808 *gd69-02-15d2t06.shn
+e23c0fc4e225fd34053988e21e774622 *gd69-02-15d2t07.shn
+814fee17647a2093d6f4480873c88ff8 *gd69-02-15d2t08.shn
+74464652172d2f35b59a41ca3c2a1e4c *gd69-02-15d3t01.shn
+dd76fedd58ec282c84c2e3b4083f89f3 *gd69-02-15d3t02.shn
+ce51f9257df222ea1c9ca66827fe2625 *gd69-02-15d3t03.shn
+edfafdeac07c804af96dcef5333737eb *gd69-02-15d3t04.shn
+36ed9d42c8c8b1a1281c9c870f83ab07 *gd69-02-15d3t05.shn
+409b59b78c8ca99d93b27b73837ee52a *gd69-02-15d3t06.shn
+
+
+Shntool Stats:
+ length  expanded size cdr WAVE probs  filename
+  7:32.32   79808108   ---  --   -xx   gd69-02-15d1t01.shn
+  1:58.54   20942252   ---  --   -xx   gd69-02-15d1t02.shn
+  0:12.20    2163884   ---  --   -xx   gd69-02-15d1t03.shn
+  8:00.33   84749660   ---  --   -xx   gd69-02-15d1t04.shn
+ 10:03.66  106524476   ---  --   -xx   gd69-02-15d1t05.shn
+ 10:15.67  108643628   ---  --   -xx   gd69-02-15d1t06.shn
+ 17:18.11  183129116   ---  --   -xx   gd69-02-15d1t07.shn
+ 55:21.58     558.82 MB 
+(totals for 7 files, 0.5480 overall compression ratio)
+
+ length  expanded size cdr WAVE probs  filename
+  0:25.23    4464140   ---  --   -xx   gd69-02-15d2t01.shn
+  4:08.73   43918940   ---  --   -xx   gd69-02-15d2t02.shn
+  5:10.64   54834572   ---  --   -xx   gd69-02-15d2t03.shn
+ 22:28.67  237944828   ---  --   -xx   gd69-02-15d2t04.shn
+  7:35.41   80358476   ---  --   -xx   gd69-02-15d2t05.shn
+  7:04.27   74857148   ---  --   -xx   gd69-02-15d2t06.shn
+  6:47.11   71820716   ---  --   -xx   gd69-02-15d2t07.shn
+  6:04.25   64268444   ---  --   -xx   gd69-02-15d2t08.shn
+ 59:45.31     603.17 MB  
+(totals for 8 files, 0.5470 overall compression ratio)
+
+ length   expanded size cdr WAVE probs  filename
+  3:55.35    41536364  ---  --   -xx   gd69-02-15d3t01.shn
+  3:49.13    40426220  ---  --   -xx   gd69-02-15d3t02.shn
+ 13:19.17   140983628  ---  --   -xx   gd69-02-15d3t03.shn
+ 14:04.72   149050988  ---  --   -xx   gd69-02-15d3t04.shn
+  7:23.49    78260492  ---  --   -xx   gd69-02-15d3t05.shn
+  4:32.25    48039644  ---  --   -xx   gd69-02-15d3t06.shn
+ 47:04.61   475.21 MB 
+(totals for 6 files, 0.5516 overall compression ratio)

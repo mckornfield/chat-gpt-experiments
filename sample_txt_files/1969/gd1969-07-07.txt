@@ -1,0 +1,59 @@
+This is a tagged version of shnid: 123468
+
+Grateful Dead  
+July 7, 1969
+Piedmont Park  
+Atlanta, GA
+
+Recording Info:
+SBD -> Cassette Master (Ampex C-90) -> Dat (44.1k)
+
+Transfer Info:
+Dat (Tascam DA-20) -> Tascam SS-R05 -> Samplitude Professional v11.2.1 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+January 16, 2013
+
+Notes:
+-- Disc change is seamless
+-- Tape flips at 19:39 in Dark Star and 17:48 in Lovelight
+-- This was a free concert in a city park
+-- The Allman Brothers also performed
+-- Gregg and Duane Allman joined in on Lovelight
+_______________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Morning Dew
+102-d1t02 - Mama Tried ->
+103-d1t03 - High Time ->
+104-d1t04 - Casey Jones
+105-d1t05 - Dark Star ->
+106-d1t06 - St. Stephen ->
+107-d1t07 - The Eleven ->
+108-d2t01 - Turn On Your Lovelight
+_______________________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 1-16-12
+_______________________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    10:25.43      110351180 B   ---   --   ---xx   flac  0.6106  gd69-07-07d1t01.flac
+     3:12.57       34002908 B   ---   --   ---xx   flac  0.6164  gd69-07-07d1t02.flac
+     6:16.13       66357020 B   ---   --   ---xx   flac  0.5576  gd69-07-07d1t03.flac
+     8:47.33       93040460 B   ---   --   ---xx   flac  0.5932  gd69-07-07d1t04.flac
+    26:50.27      284067548 B   ---   --   ---xx   flac  0.5957  gd69-07-07d1t05.flac
+     6:01.50       63798044 B   ---   --   ---xx   flac  0.6088  gd69-07-07d1t06.flac
+    14:31.30      153715004 B   ---   --   ---xx   flac  0.6235  gd69-07-07d1t07.flac
+    37:09.13      393226220 B   ---   --   ---xx   flac  0.6044  gd69-07-07d2t01.flac
+   113:14.41     1198558384 B                            0.6025  (8 files)

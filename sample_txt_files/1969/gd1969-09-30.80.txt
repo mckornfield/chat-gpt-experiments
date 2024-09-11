@@ -1,0 +1,55 @@
+This is a flac encoded & tagged version of shnid: 80
+
+Grateful Dead 
+Monday September 30th, 1969 
+Early Show, Cafe au Go-Go 
+New York City, NY
+
+Source: A:? > Cass X 2 > XLR into SV-3700 > ZA2 > SoundForge Noise Reduction > CD
+rod@nycheads.com
+
+__________________________________________________________________________________________
+
+--Setlist--
+101-t01 - China Cat Sunflower -> 
+102-t02 - I Know You Rider
+103-t03 - Merry-Go-Round Broke Down -> Take Me Out to the Ballgame tuning
+104-t04 - Alligator -> 
+105-t05 - Drums -> 
+106-t06 - The Other One
+___________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-14-11
+___________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+f3b6aad5b4cdea3f8875cba34f439c0b  [shntool]  gd69-09-29t01.shn
+6e7289fd846e86caa4721a1920920f33  [shntool]  gd69-09-29t02.shn
+369dd0d211cd8ae8cb7e66db10cc1eef  [shntool]  gd69-09-29t03.shn
+010c921ad72a8a9a695f47cfcc24877c  [shntool]  gd69-09-29t04.shn
+022783c1d0fb3c78b536f298e949564e  [shntool]  gd69-09-29t05.shn
+7296a8eeeb1c3f0be487fa635ce69f64  [shntool]  gd69-09-29t06.shn
+e42c08134034a2de227cdd7ddaf03039  [shntool]  gd69-09-29t07.shn
+
+; shntool md5 fingerprint file 
+f3b6aad5b4cdea3f8875cba34f439c0b  [shntool]  gd69-09-29t01.flac
+6e7289fd846e86caa4721a1920920f33  [shntool]  gd69-09-29t02.flac
+369dd0d211cd8ae8cb7e66db10cc1eef  [shntool]  gd69-09-29t03.flac
+010c921ad72a8a9a695f47cfcc24877c  [shntool]  gd69-09-29t04.flac
+022783c1d0fb3c78b536f298e949564e  [shntool]  gd69-09-29t05.flac
+7296a8eeeb1c3f0be487fa635ce69f64  [shntool]  gd69-09-29t06.flac
+e42c08134034a2de227cdd7ddaf03039  [shntool]  gd69-09-29t07.flac

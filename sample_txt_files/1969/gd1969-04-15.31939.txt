@@ -1,0 +1,82 @@
+This is a tagged version of shnid: 31939
+
+Grateful Dead  
+April 15, 1969
+The Music Box 
+Omaha, NE 
+
+Recording Info:
+Aiwa hand-held microphone -> Master Reel (Aiwa 5" reel-to-reel) -> 
+Alesis Masterlink 9600 -> Hard Drive -> CD
+
+Mastering Info:
+CD -> EAC -> Samplitude Professional v7.02 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+Patch Info:
+Morning Dew through Doin' That Rag patched from SBD>Cm>Cass>Dat>CD.
+
+AUD Recorded by Leon Komar
+Digital transfer by Jeremy Garrett (Rainbow Music - Omaha, 9/2005)
+Audio discs supplied by Scott Allan
+
+Remastered by Charlie Miller
+charliemiller87@earthlink.net
+November 14, 2005
+
+Notes:
+-- Automatic Volume Control (compressor/limiter?) switch ON. 
+-- Audiotape, Formula 10, 1/2 mil "T" Mylar, 3 3/4 ips, 2-track mono. 
+___________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Hard to Handle
+102-d1t02 - Beat It on Down the Line
+103-d1t03 - Morning Dew
+104-d1t04 - It Hurts Me Too
+105-d1t05 - China Cat Sunflower ->
+106-d1t06 - Doin' That Rag ->
+107-d1t07 - It's a Sin
+108-d1t08 - Turn on Your Lovelight
+
+--Set 2--
+201-d2t01 - Sittin' on Top of the World
+202-d2t02 - Cryptical Envelopment ->
+203-d2t03 - Drums ->
+204-d2t04 - The Other One ->
+205-d2t05 - Cryptical Envelopment ->
+206-d2t06 - Dark Star ->
+207-d2t07 - St. Stephen ->
+208-d2t08 - The Eleven//
+___________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the headerof each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-04-11
+___________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+     5:27.40      57776924     ---   --    ---    gd69-04-15d1t01.wav
+     2:45.43      29207180     ---   --    ---    gd69-04-15d1t02.wav
+    11:00.32     116499308     ---   --    ---    gd69-04-15d1t03.wav
+     5:44.36      60766316     ---   --    ---    gd69-04-15d1t04.wav
+     5:38.28      59689100     ---   --    ---    gd69-04-15d1t05.wav
+     7:06.00      75146444     ---   --    ---    gd69-04-15d1t06.wav
+     4:41.34      49648412     ---   --    ---    gd69-04-15d1t07.wav
+    27:35.63     292090220     ---   --    ---    gd69-04-15d1t08.wav
+     2:44.46      29037836     ---   --    ---    gd69-04-15d2t01.wav
+     1:54.43      20210780     ---   --    ---    gd69-04-15d2t02.wav
+     0:25.29       4478252     ---   --    ---    gd69-04-15d2t03.wav
+     7:32.01      79735196     ---   --    ---    gd69-04-15d2t04.wav
+    11:12.65     118693724     ---   --    ---    gd69-04-15d2t05.wav
+    20:21.05     215396204     ---   --    ---    gd69-04-15d2t06.wav
+     6:04.60      64350764     ---   --    ---    gd69-04-15d2t07.wav
+     2:54.42      30792428     ---   --    ---    gd69-04-15d2t08.wav
+   123:09.42    1303519088 B                      (totals for 16 files)

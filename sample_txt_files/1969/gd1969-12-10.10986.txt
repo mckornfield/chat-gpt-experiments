@@ -1,0 +1,124 @@
+This is a flac encoded & tagged version of shnid: 10986
+
+Grateful Dead
+DEcember 10, 1969 (Wednesday)
+Thelma Theater
+Los Angeles, CA
+
+MSR > D > CD except
+Cryptical Envelopment thru Cosmic Charlie:  MSR > ? > D > CD
+_____________________________________________________________________________________
+
+--Set 1--
+(missing) - China Cat Sunflower
+102-d1t01 - //I Know You Rider
+103-d1t02 - //Black Peter
+104-d1t03 - Me & My Uncle
+105-d1t04 - Cold Rain & Snow
+106-d1t05 - Mama Tried ->
+107-d1t06 - High Time
+108-d1t07 - Easy Wind
+109-d2t01 - Casey Jones
+110-d2t02 - Good Morning Little Schoolgirl *
+111-d2t03 - Morning Dew *
+112-d2t04 - Black Queen -> *
+113-d2t05 - Turn on Your Lovelight// *
+
+--Set 2--
+201-d2t06 - Cryptical Envelopment ->
+202-d2t07 - Drums ->
+203-d2t08 - The Other One ->
+204-d2t09 - Cryptical Envelopment ->
+205-d2t10 - Cosmic Charlie//
+
+*  w/ Stephen Stills
+
+--disc 1 total time--44:53--
+--disc 2 total time--72:56--
+_____________________________________________________________________________________
+
+notes:
+The tapes of the 10th come in two parts, both in excellent quality. Most of what 
+we have from this date comes from a MSR > D containing nearly all of one set.  
+The other tape, containing That's It For The Other One > Cosmic Charlie#, most 
+often circulates labeled "12/10/69," as the second half of a cassette side, 
+following the 12/11/69 Dark Star.  (For more on this curious piece of tape, 
+see DeadLists for 12/10/69.)  Probably they played 2 sets on the 10th, as on 
+the other nights, and probably That's It comes from the other set from the material 
+on the MSR > D, but the evidence does not show which set is which and can be argued 
+both ways.
+
+-------------------------------------------------------
+
+Thelma Theater, Los Angeles, December 10, 11 & 12, 1969
+
+Copies from the soundboard reels of these shows have circulated since the '70s, 
+sometimes mislabled "Kaleidoscope Theater, LA," often with dates and sequences mixed 
+up, usually in badly degraded sound quality.  This set assembles complete copies of 
+the 11th and the 12th in the best quality circulating.  Except for the middle portion 
+of the 11th, sound is excellent throughout; this inferior segment is listenable while 
+leaving definite room for improvement if an upgrade shows up; we haven't been able to 
+find one & don't want to delay further.
+
+Many people gave help on the way to creating this set of CDs.  Dave Greenberg did the 
+final masters.  Jack Warner was instrumental in providing the difficult composite for 
+the 2nd disc of 12/11/69, which was first mastered by Scott Clugston.  RB, KW, JN and 
+HB also provided important assistance.  Jim Powell instigated the project and writes 
+these notes. SHN conversion by Jay Gerland.
+______________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-02-11
+______________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+e633c053fb3e907756b05ca40a080a78  [shntool]  gd69-12-10d1t01.shn
+64ab6df0d3fb061a3c1dfb069d98e8f1  [shntool]  gd69-12-10d1t02.shn
+75bec80ad51738e0efc7fb0341aee202  [shntool]  gd69-12-10d1t03.shn
+3dbf823914f9f14597834717ccf12e9b  [shntool]  gd69-12-10d1t04.shn
+88e279942e3614efc8b777479d4e81c1  [shntool]  gd69-12-10d1t05.shn
+8646d8d836005f23ec7b2a5fcc9d969c  [shntool]  gd69-12-10d1t06.shn
+636eaae44d009f63a23cb70db2c657b6  [shntool]  gd69-12-10d1t07.shn
+6677c8035bcc807a0b19adf87801dc27  [shntool]  gd69-12-10d2t01.shn
+db1a1b07cb35e465db21f7aad39b2337  [shntool]  gd69-12-10d2t02.shn
+c3a1605eea95028743482412b40b83b6  [shntool]  gd69-12-10d2t03.shn
+115232000ede60a314cac879de006ea7  [shntool]  gd69-12-10d2t04.shn
+8a1dce725303e0e85418bde016fe372f  [shntool]  gd69-12-10d2t05.shn
+7dda2314a58a2869e229e458de1dc48f  [shntool]  gd69-12-10d2t06.shn
+1193fbadef108d6b4ec665225c8ed57f  [shntool]  gd69-12-10d2t07.shn
+7d318636f833b4194aa1eb8df93e85e6  [shntool]  gd69-12-10d2t08.shn
+7dfbf13b5008aed3e24d39bb2e940313  [shntool]  gd69-12-10d2t09.shn
+62fc34902c7e49d691a1bc7bf07d1bba  [shntool]  gd69-12-10d2t10.shn
+
+; shntool md5 fingerprint file
+e633c053fb3e907756b05ca40a080a78  [shntool]  gd69-12-10d1t01.flac
+64ab6df0d3fb061a3c1dfb069d98e8f1  [shntool]  gd69-12-10d1t02.flac
+75bec80ad51738e0efc7fb0341aee202  [shntool]  gd69-12-10d1t03.flac
+3dbf823914f9f14597834717ccf12e9b  [shntool]  gd69-12-10d1t04.flac
+88e279942e3614efc8b777479d4e81c1  [shntool]  gd69-12-10d1t05.flac
+8646d8d836005f23ec7b2a5fcc9d969c  [shntool]  gd69-12-10d1t06.flac
+636eaae44d009f63a23cb70db2c657b6  [shntool]  gd69-12-10d1t07.flac
+6677c8035bcc807a0b19adf87801dc27  [shntool]  gd69-12-10d2t01.flac
+db1a1b07cb35e465db21f7aad39b2337  [shntool]  gd69-12-10d2t02.flac
+c3a1605eea95028743482412b40b83b6  [shntool]  gd69-12-10d2t03.flac
+115232000ede60a314cac879de006ea7  [shntool]  gd69-12-10d2t04.flac
+8a1dce725303e0e85418bde016fe372f  [shntool]  gd69-12-10d2t05.flac
+7dda2314a58a2869e229e458de1dc48f  [shntool]  gd69-12-10d2t06.flac
+1193fbadef108d6b4ec665225c8ed57f  [shntool]  gd69-12-10d2t07.flac
+7d318636f833b4194aa1eb8df93e85e6  [shntool]  gd69-12-10d2t08.flac
+7dfbf13b5008aed3e24d39bb2e940313  [shntool]  gd69-12-10d2t09.flac
+62fc34902c7e49d691a1bc7bf07d1bba  [shntool]  gd69-12-10d2t10.flac
+

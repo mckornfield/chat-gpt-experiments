@@ -1,0 +1,232 @@
+Grateful Dead 
+November 8, 1969 
+Fillmore West
+San Francisco, CA
+
+Matrix of tracks 201 (Dark Star) & 202 (the Other One) by Droncit & Dusborne
+The remainder of the show is the straight Jim wise board.
+
+Soundboard 17433
+---------------------------------------------------------
+Not the entire show, just the "Picks" 
+
+Geneology is as follows: 
+MR > DAT > Sound Forge Remaster > DAT (dat seed)  
+MR > DAT > Sound Forge Remaster > CDR (cdr seed)
+
+MR (Dick Latvala) > DAT > SoundForge (Jim Wise) > CD; 
+extensively cleaned up (see info file); 
+via Primal Dead Latvala Tribute Tree (more info); 
+
+
+Audience 26331
+----------------------------------------------------------
+AKG190E> Uher 400L, Recorded by Marty Weinberg; Audience master reel > (possibly one extra reel gen?) >
+modified Technics 1506 playback > Cardas audiophile cables > HHB CDR 800 master CD > CD > CD > 
+Samsung SW-232B extraction (EAC v0.9 beta 4) > tracking (CD Wave) > sector boundary verification 
+(shntool v1.01) > .flac encoding; EAC > FLAC by Jack Warner 
+
+The audience source just covers Dark Star> The other One
+________________________________________________________________________________________________________
+
+--Set 1--
+(missing) - Good Morning Little Schoolgirl
+(missing) - Casey Jones
+(missing) - Dire Wolf
+104-d1t01 - Easy Wind 
+(missing) - China Cat Sunflower ->
+(missing) - I Know You Rider ->
+(missing) - High Time
+(missing) - Mama Tried
+109-d1t02 - Good Lovin' 
+(missing) - Cumberland Blues
+
+--Set 2--
+201-d1t03 - *Dark Star -> 
+202-d1t04 - *The Other One -> 
+203-d1t05 - Dark Star -> 
+204-d1t06 - Uncle John's Jam -> 
+205-d1t07 - Dark Star ->
+206-d2t01 - Saint Stephen -> 
+207-d2t02 - The Eleven -> 
+208-d2t03 - Caution (Do Not Stop On Tracks) -> 
+209-d2t04 - Main Ten Jam -> 
+210-d2t05 - Caution (Do Not Stop On Tracks) -> 
+211-d2t06 - Feedback -> 
+212-d2t07 - And We Bid You Goodnight 
+213-d2t08 - slide whistle tuning
+
+*matrix tracks replace soundboard tracks
+________________________________________________________________________________________________________
+
+Soundboard notes:
+-d2t8 apparently bonus track of tuning (with slide whistle) from 11/7/69 
+(thanks to Barry Lasky for clue); 
+
+flaws not on master, first copy: 
+d1t04  Dropout @ 11:01; 
+d1t06  Dropout @ 00:27; 
+d1t07  Dropout @ 00:09, another bump 1:37; 
+d2t02  Dropout/Slight Hesitation @ 05:34 (sounds similar to a track ID error); 
+flawed source went to abgd as well as etree; 
+flawless source obtained by M. Parrillo, up by 11/30 though not at all sites;
+ 
+caution- 
+new version had some track name/ordering mixups- see guide; 
+note a third source (c) may be up too, no dropouts; covers; new 2/10/00: 
+this show is now released as Dick's Picks 16- 
+_________________________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 1/11/2015
+________________________________________________________________________________________________________
+
+Jim Wise's essay About 11/8/69
+(pulled from the text file of shnid=82)
+
+It wasn't too long after I met Dick in person when he let me in on what
+he really was into for a 2-track pick from 1969. When he started coming
+east for Dicks Picks parties several years ago he found comfortable
+accommodations at my home. I had already an internet & telephone
+correspondence with this fascinating man for 2 years prior but had never
+met him in person, & luckily for me, Dick & I had several long time
+mutual taper friends who vouched for me, so the ice was broken in
+advance. I credit my wife Dani for rounding him up. He could have fun
+with her (and vice versa) & we could bullshit about tapes all night
+long.
+
+I had 11/8 in my collection in several different forms for years, but
+never really sat down with it the way Dick showed me how to. Dick was
+like Santa Claus & whenever he would show up (once he called with little
+advance warning & said he was only one hour away, so get ready for him)
+he literally had a bag full of tapes, both cassette & dats. He good
+naturedley would love to see me squirm in anticipation & enjoyed teasing
+me, 'cause he knew that I was a tape addict, much like himself.
+
+On a visit 2 years ago he sat me down in my living room, we smoked a
+fatty, & he pulled out his dat of 11/8 & said  "sit down, shut up, &
+listen". As the opening notes of "Dark Star" rang out I watched him curl
+up, close his eyes,  & immerse himself in the sound. The last words he
+uttered for the next hour & one half were" Its quiet now, but it gets
+LOUD" This is when 11/8 really made it's impression on me,  & so did the
+infamous clicks!
+
+This was Dick's dilemma; he loved this set so much, but knew that there
+were tech flaws on the master. He also had enough experience with his
+teammates John Cutler & Jeffrey Norman, to realize that this would be
+extremely difficult to persuade them to do the work in order for its
+official release as a DP. He was also afraid that it would be rejected
+as a pick, like so many other shows he wanted in the past were.
+
+It was only a few months prior that I had started experimenting with a
+PC based hard disk recording & editing system, so we grabbed his dat &
+downloaded a sample to look at the wav file as it appears on screen. We
+farted around for a bit & I found some clicks visually & zoomed in &
+simply re drew the glitch with something called the "pencil tool". This
+smoothed out the wav & that single click disappeared both visually & on
+more importantly, on playback, auditory.
+
+When Dick's business was concluded on the East Coast, he left his dat
+with me the play with. His aim was to give John Cutler a reasonable tape
+to listen too, in order to introduce him (JC) to the performance. What
+Dick had left with me specifically was a dat clone from his personal
+cassette copy of Bears 7inch-?-track 7/5-ips master reel.
+
+The redrawing of the glitches was unbelievably tedious, but relatively
+easy during the quiet passages, so I spent several days working & sent
+him back a dat of the first few minutes of "Dark Star". He called me
+back in a whirlwind of enthusiasm & a week later the Dat clones direct
+from the masters arrived at my PO box. Now I really went to work &
+believe me when I tell you this was truly a labor of love.
+
+Upon inspection this is what I found; the clicking was present on the
+right channel of the entire show to 11/7, & the entire show of 11/8,
+that is up until the reel flip in the "Other One", when it mysteriously
+vanishes! I uploaded the 94-minute Dark Star & ensuing jam onto hard
+disk. There is a brief segment before Dark Star begins where you can
+really capture what's known as a "noise print". This was basically just
+pure clicks without any music, or other noise in the background, & would
+be needed if it I could determine that a noise reduction run would be
+effective.
+
+The 3 facts that saved this recording are; #1 the clicking is only
+present on the right channel, #2 it's most annoying during the quiet
+passages, where they were the easiest to eliminate, #3 the clicks stop @
+approximately 20 minutes into the "jam".  So, I began the tortuous
+process of manually redrawing the clicks one glitch at a time. I soon
+detected a pattern of precisely 7 clicks per second & measured the
+distance between them & found that it was consistent. This was
+instrumental in finding those pesky glitches while they were hidden in
+the wav's of the louder passages. I knew where to look & got good enough
+so that I was able to actually see what was the glitch, & what was
+music.
+
+I did some experiments with the "noise print" I previously captured, in
+the hopes that the noise reduction process would be effective, but was
+not happy with the results. I spent the next one hundred and fifty eight
+hours (total) glued to my computer screen with headphones on, redrawing
+every fucking glitch I could detect within the 1st 20 minutes of the
+right hand channel. When I finally did all that could be humanly
+accomplished, I used a helpful tool (called appropriately enough "glitch
+finder") to locate even more abnormalities then could be possibly be
+detected by the human eye. This is a programmable tool that was
+instrumental in helping me locate & putting finer touches on the
+smoothing of the wav's. Only when I was satisfied that absolutely no
+more could be accomplished by hand (thirty additional man hours) did I
+turn to the NR process, which was used extremely sparingly, & only on
+the most obnoxious areas. Levels were "normalized", two important
+cross-fades were implemented, & that's about it!
+
+With great anticipation & pride I sent a back up back to Dick, along
+with his original dat master to set#2 so he could a/b them. He called me
+back as ecstatic as only Dick could get! Mission accomplished!!
+
+Dick said that "Now I can die a happy man!"  He wanted 11/8/69 to be a
+DP & now it was one step closer to becoming a reality. He planned to
+railroad it through in time for DP 16 when he realized that the timing
+was off for it to come out on it's 30'th anniversary.
+
+As far as track list goes I was originally of the opinion that only the
+jam, spread over 2 discs would be a good pick. Rob Bertrando designed
+that layout to include both "Easy Wind, & Good Lovin". It makes for a
+better pick & I agree. Those two songs were left "pure" because with the
+birth of my baby boy, I can't find the time to work on them  :  (
+You will hear some artifacts, but the two songs are loud enough to
+mostly mask the problem.
+
+Dick, I'm glad I was able to repay you in some small fashion for your
+friendship & all the generosity you bestowed on me. I love you & miss
+you every day! You will always be in my Grateful Dead taper heart, most
+especially when I play 11/8/69!
+Jim Wise
+_________________________________________________________________________________________________________
+
+
+gd69-11-08.d1t01.flac:99777c3ce5c5af43b4a3757aa8e39371
+gd69-11-08.d1t02.flac:a9d9e5d6d7874fa578ee2bb8e86edd47
+gd69-11-08.d1t03.mtx.flac:f47b7fce255e39a53ba87c348c247b89
+gd69-11-08.d1t04.mtx.flac:393cd54b17dce3ccf2ce0ac85749d706
+gd69-11-08.d1t05.flac:cb31ad039a892235fa8236219b7ede0b
+gd69-11-08.d1t06.flac:efca135a81a8f92e88017978e20da004
+gd69-11-08.d1t07.flac:0736f99c9a3b6c360d2a11b74610c3d7
+gd69-11-08.d2t01.flac:8937012605c74f3ed936aa014683adb2
+gd69-11-08.d2t02.flac:b3e57dad303bc83c6a54b4bb99fcbb4b
+gd69-11-08.d2t03.flac:8ab67dd0e724006a9b2ee4cdab31d114
+gd69-11-08.d2t04.flac:946c3722344663039818cf39acabea9b
+gd69-11-08.d2t05.flac:5f11ed92a68fe5514a7a489847546c54
+gd69-11-08.d2t06.flac:f6ac3b7b7985a3c6c1ddb1617879e71d
+gd69-11-08.d2t07.flac:ce58f76187e71918a75ba3a3d636c207
+gd69-11-08.d2t08.flac:eaac2fd70949c0b4d14e970c97fcea18

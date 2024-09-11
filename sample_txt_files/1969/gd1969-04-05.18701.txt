@@ -1,0 +1,137 @@
+This is a flac encoded & tagged version of shnid: 18701
+
+Grateful Dead
+4/5/69 
+Avalon Ballroom 
+San Francisco, CA  
+
+Recording Info:
+SBD -> Rm (7 inch Master Reels @ 7.5ips 1/2trk) -> Dat
+
+Transfer Info:
+Dat -> Sonic Solutions -> CD -> EAC -> Samplitude -> SHN
+(2 Discs Audio / 1 Disc SHN)
+
+Conversion By Charlie Miller
+charliemiler87@earthlink.net
+7/29/03
+
+Notes:
+Samplitude v6.0 was used to re-track the complete show.
+________________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Dupree's Diamond Blues ->
+102-d1t02 - Mountains of the Moon ->
+103-d1t03 - Dark Star ->
+104-d1t04 - St. Stephen ->
+105-d1t05 - William Tell bridge ->
+106-d1t06 - Turn on Your Lovelight
+
+--Set 2--
+201-d2t01 - Hard To Handle ->
+202-d2t02 - Cosmic Charlie
+203-d2t03 - China Cat Sunflower ->
+204-d2t04 - Doin' That Rag
+205-d2t05 - Cryptical Envelopment ->
+206-d2t06 - Drums ->
+207-d2t07 - The Other One ->
+208-d2t08 - Cryptical Envelopment ->
+209-d2t09 - The Eleven ->
+210-d2t10 - It's a Sin
+211-d2t11 - Alligator ->
+212-d2t12 - Drums ->
+213-d2t13 - Feedback ->
+214-d2t14 - And We Bid You Good Night
+________________________________________________________________________________
+
+Comments:
+Just before Cryptical Envelopment and again before Alligator Bobby noodles the
+opening chords of Weather Report Prelude.
+________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 6-14-11
+________________________________________________________________________________
+
+bded2c28ab3b15425b6bb895c5c20c82  [shntool]  gd69-04-05d1t01.shn
+96434f7c46a75ad0588c1889b459b537  [shntool]  gd69-04-05d1t02.shn
+de4ae0defcba95f1e10c7bc3db43001b  [shntool]  gd69-04-05d1t03.shn
+5d23145b52d584316cc827d0e9199fcf  [shntool]  gd69-04-05d1t04.shn
+512ecde6d80a74401283847aaff21dea  [shntool]  gd69-04-05d1t05.shn
+6bc9bf372ab8be2b85a528b03714c212  [shntool]  gd69-04-05d1t06.shn
+69a52c41f4f2c03ae908faa783207d72  [shntool]  gd69-04-05d2t01.shn
+3f53206a496e197882fb65075a52c597  [shntool]  gd69-04-05d2t02.shn
+9f301bdac0b3126831ba6598d0e1f77f  [shntool]  gd69-04-05d2t03.shn
+280451243cd41a13135287bff26a2328  [shntool]  gd69-04-05d2t04.shn
+8eb589341fa381ae12795896fd9d16c2  [shntool]  gd69-04-05d2t05.shn
+92cbecf125d2725407739911ca495e65  [shntool]  gd69-04-05d2t06.shn
+759b6251f35954fad3d00d0a9369b52f  [shntool]  gd69-04-05d2t07.shn
+6456a3cb3e28b7dd287f9287aeba35d8  [shntool]  gd69-04-05d2t08.shn
+7791391d6dcb90b2eedf428e5f0c00e5  [shntool]  gd69-04-05d2t09.shn
+75a71f877e4a008322c5a3f307e3fae2  [shntool]  gd69-04-05d2t10.shn
+091e53a4793d0c817af049c620826723  [shntool]  gd69-04-05d2t11.shn
+5165c04fc1426b374c2574c896a51d39  [shntool]  gd69-04-05d2t12.shn
+2abb6c33f3e650d1246219dc6f3c884d  [shntool]  gd69-04-05d2t13.shn
+4598e7f352ff1a786d49a05907c35f9f  [shntool]  gd69-04-05d2t14.shn
+
+bded2c28ab3b15425b6bb895c5c20c82  [shntool]  gd69-04-05d1t01.flac
+96434f7c46a75ad0588c1889b459b537  [shntool]  gd69-04-05d1t02.flac
+de4ae0defcba95f1e10c7bc3db43001b  [shntool]  gd69-04-05d1t03.flac
+5d23145b52d584316cc827d0e9199fcf  [shntool]  gd69-04-05d1t04.flac
+512ecde6d80a74401283847aaff21dea  [shntool]  gd69-04-05d1t05.flac
+6bc9bf372ab8be2b85a528b03714c212  [shntool]  gd69-04-05d1t06.flac
+69a52c41f4f2c03ae908faa783207d72  [shntool]  gd69-04-05d2t01.flac
+3f53206a496e197882fb65075a52c597  [shntool]  gd69-04-05d2t02.flac
+9f301bdac0b3126831ba6598d0e1f77f  [shntool]  gd69-04-05d2t03.flac
+280451243cd41a13135287bff26a2328  [shntool]  gd69-04-05d2t04.flac
+8eb589341fa381ae12795896fd9d16c2  [shntool]  gd69-04-05d2t05.flac
+92cbecf125d2725407739911ca495e65  [shntool]  gd69-04-05d2t06.flac
+759b6251f35954fad3d00d0a9369b52f  [shntool]  gd69-04-05d2t07.flac
+6456a3cb3e28b7dd287f9287aeba35d8  [shntool]  gd69-04-05d2t08.flac
+7791391d6dcb90b2eedf428e5f0c00e5  [shntool]  gd69-04-05d2t09.flac
+75a71f877e4a008322c5a3f307e3fae2  [shntool]  gd69-04-05d2t10.flac
+091e53a4793d0c817af049c620826723  [shntool]  gd69-04-05d2t11.flac
+5165c04fc1426b374c2574c896a51d39  [shntool]  gd69-04-05d2t12.flac
+2abb6c33f3e650d1246219dc6f3c884d  [shntool]  gd69-04-05d2t13.flac
+4598e7f352ff1a786d49a05907c35f9f  [shntool]  gd69-04-05d2t14.flac
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+     4:03.43      42966380     ---   --    ---    gd69-04-05d1t01.wav
+     6:10.17      65308028     ---   --    ---    gd69-04-05d1t02.wav
+    17:26.64     184664972     ---   --    ---    gd69-04-05d1t03.wav
+     5:37.50      59564444     ---   --    ---    gd69-04-05d1t04.wav
+     1:09.21      12221036     ---   --    ---    gd69-04-05d1t05.wav
+    15:44.48     166634540     ---   --    ---    gd69-04-05d1t06.wav
+     5:55.09      62643212     ---   --    ---    gd69-04-05d2t01.wav
+     8:39.05      91563404     ---   --    ---    gd69-04-05d2t02.wav
+     5:39.12      59827868     ---   --    ---    gd69-04-05d2t03.wav
+     7:47.31      82451756     ---   --    ---    gd69-04-05d2t04.wav
+     1:59.70      21156284     ---   --    ---    gd69-04-05d2t05.wav
+     0:23.26       4118396     ---   --    ---    gd69-04-05d2t06.wav
+     9:15.65      98054924     ---   --    ---    gd69-04-05d2t07.wav
+     6:05.55      64515404     ---   --    ---    gd69-04-05d2t08.wav
+     8:24.28      88971500     ---   --    ---    gd69-04-05d2t09.wav
+     5:23.22      57028988     ---   --    ---    gd69-04-05d2t10.wav
+     3:52.04      40934252     ---   --    ---    gd69-04-05d2t11.wav
+     4:30.42      47726828     ---   --    ---    gd69-04-05d2t12.wav
+     7:56.47      84076988     ---   --    ---    gd69-04-05d2t13.wav
+     3:27.61      36658316     ---   --    ---    gd69-04-05d2t14.wav
+   129:32.45    1371087520 B                      (totals for 20 files)
+
+

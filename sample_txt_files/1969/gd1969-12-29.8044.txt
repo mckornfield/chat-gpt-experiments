@@ -1,0 +1,91 @@
+This is a flac encoded & tagged version of shnid: 8044
+
+Grateful Dead
+December 29th, 1969
+Boston Tea Party
+Boston, MA
+
+SOURCE: SBD MR (7" reel @7.5 ips)>DAT>DAT>CDR; 
+Transfer to CDR from a Sony ES 60 DAT to a Pioneer PDR555 RW Standalone burner 
+via optical cables.  CDR was then ripped to the Hard Drive with EAC in secure mode,
+amplification to 100% in Cool Edit 2000. Poorly placed track markers corrected 
+with CDWave then transferred to shn using mkw SHN. Discs written on a Digital 
+Research 24x burner using Nero.
+___________________________________________________________________________________
+
+--Set 1--
+101-d1t01 - //Cold Rain & Snow
+102-d1t02 - Mama Tried
+103-d1t03 - Black Peter
+104-d1t04 - Easy Wind
+105-d1t05 - Me & My Uncle
+106-d1t06 - China Cat Sunflower ->
+107-d1t07 - I Know  You Rider
+108-d1t08 - High Time
+109-d1t09 - Hard to Handle
+110-d1t10 - Mason's Children
+
+--set 2--
+201-d2t01 - //Cumberland Blues
+202-d2t02 - Casey Jones
+203-d2t03 - Good Lovin'
+204-d2t04 - Dancing In The Streets
+205-d2t05 - Dire Wolf
+206-d2t06 - Saint Stephen ->
+207-d2t07 - Not Fade Away
+___________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-14-11
+___________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+77aceaeeb0e484045a6fceb5d25b8905  [shntool]  gd69-12-29d101.shn
+443ce0c6234cc492b29766221774bf2f  [shntool]  gd69-12-29d102.shn
+7cdd2e60b738b9d690ef466113295b50  [shntool]  gd69-12-29d103.shn
+f0481f23c871b50449cd44faef4ce033  [shntool]  gd69-12-29d104.shn
+0d6869076cc987d452ecc7f572a31059  [shntool]  gd69-12-29d105.shn
+451d92dc69caea838e0465f6fc8de443  [shntool]  gd69-12-29d106.shn
+0076a857fb0171d662a300f2db99d76c  [shntool]  gd69-12-29d107.shn
+885cb2b785a324b2b05639744264cd7b  [shntool]  gd69-12-29d108.shn
+be3296ddbbd2bab25f70072b01cc0e8b  [shntool]  gd69-12-29d109.shn
+b65830851d9f3525aee81d1f9195d40a  [shntool]  gd69-12-29d110.shn
+0b68adc7bc1f5c1458018cb22d6a8e65  [shntool]  gd69-12-29d201.shn
+263496f23867836aafd685e0fa52ff67  [shntool]  gd69-12-29d202.shn
+86e2c12a9dccaebf86396f76207f6620  [shntool]  gd69-12-29d203.shn
+635a46baf302a8299a7cb39ab3118766  [shntool]  gd69-12-29d204.shn
+417a90c9396f416d8f1e90dbddefbd39  [shntool]  gd69-12-29d205.shn
+4e5129f05f785480312548789e31017f  [shntool]  gd69-12-29d206.shn
+6618688217c4b97961ab818c065bb1a0  [shntool]  gd69-12-29d207.shn
+
+; shntool md5 fingerprint file 
+77aceaeeb0e484045a6fceb5d25b8905  [shntool]  gd69-12-29d101.flac
+443ce0c6234cc492b29766221774bf2f  [shntool]  gd69-12-29d102.flac
+7cdd2e60b738b9d690ef466113295b50  [shntool]  gd69-12-29d103.flac
+f0481f23c871b50449cd44faef4ce033  [shntool]  gd69-12-29d104.flac
+0d6869076cc987d452ecc7f572a31059  [shntool]  gd69-12-29d105.flac
+451d92dc69caea838e0465f6fc8de443  [shntool]  gd69-12-29d106.flac
+0076a857fb0171d662a300f2db99d76c  [shntool]  gd69-12-29d107.flac
+885cb2b785a324b2b05639744264cd7b  [shntool]  gd69-12-29d108.flac
+be3296ddbbd2bab25f70072b01cc0e8b  [shntool]  gd69-12-29d109.flac
+b65830851d9f3525aee81d1f9195d40a  [shntool]  gd69-12-29d110.flac
+0b68adc7bc1f5c1458018cb22d6a8e65  [shntool]  gd69-12-29d201.flac
+263496f23867836aafd685e0fa52ff67  [shntool]  gd69-12-29d202.flac
+86e2c12a9dccaebf86396f76207f6620  [shntool]  gd69-12-29d203.flac
+635a46baf302a8299a7cb39ab3118766  [shntool]  gd69-12-29d204.flac
+417a90c9396f416d8f1e90dbddefbd39  [shntool]  gd69-12-29d205.flac
+4e5129f05f785480312548789e31017f  [shntool]  gd69-12-29d206.flac
+6618688217c4b97961ab818c065bb1a0  [shntool]  gd69-12-29d207.flac

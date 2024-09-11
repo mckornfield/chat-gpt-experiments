@@ -1,0 +1,61 @@
+This is a tagged version of shnid: 110304
+
+Grateful Dead 
+January 24, 1969
+Avalon Ballroom 
+San Francisco, CA
+
+Recording Info:
+SBD -> Master Reel -> Dat (44.1k)
+
+Transfer Info:
+Dat (Sony R500) -> Sound Devices 744T -> Samplitude Professional v11.03 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+October 14, 2010
+
+Notes:
+-- This is a fix of shnid=109640
+-- I fixed the skip in Doin' That Rag and cleaned up other flaws
+-- Really bad mix problems in the beginning of the show
+-- Beginning of Lovelight is cut
+-- Thanks to Rob Eaton for lending me his Dats
+___________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Tuning
+102-d1t02 - That's It For the Other One ->
+103-d1t03 - New Potato Caboose
+104-d1t04 - Dupree's Diamond Blues
+105-d1t05 - Doin' That Rag
+
+--Set 2--
+201-d2t01 - Dark Star
+202-d2t02 - Turn 0n Your Lovelight ->
+203-d2t03 - Drums
+___________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the headerof each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-15-10
+___________________________________________________________________________
+
+SHNTOOL OUTPUT:
+length expanded size cdr WAVE probs filename
+3:38.35 38537564 --- -- --- gd69-01-24d1t01.wav
+16:28.53 174407900 --- -- --- gd69-01-24d1t02.wav
+13:44.05 145365404 --- -- --- gd69-01-24d1t03.wav
+4:07.56 43702556 --- -- --- gd69-01-24d1t04.wav
+6:51.51 72620396 --- -- --- gd69-01-24d1t05.wav
+19:54.00 210621644 --- -- --- gd69-01-24d2t01.wav
+13:00.12 137620268 --- -- --- gd69-01-24d2t02.wav
+6:31.64 69122972 --- -- --- gd69-01-24d2t03.wav
+84:16.51 891998704 B (totals for 8 files)

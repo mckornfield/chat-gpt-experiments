@@ -1,0 +1,68 @@
+Grateful Dead
+5/31/69  
+McArthur Court 
+Eugene, OR
+
+SBD>?>CDR>EAC>SHN
+
+Note:  The encore has been moved out of order so this will fit onto 2 discs,
+	but nothing was cut so you can restore its original order
+	by moving Friend of Mine..Cosmic Charlie and the encore onto
+	a 3rd disc.
+
+Disc 1
+	---- Set 1 ----
+	1. Hard to Handle
+	2. Cold Rain
+	3. Babbs Babble, Yellow Dog Story
+	4. Green Grass
+	5. M&MU
+	6. Cryptical >
+	7. Drums >
+	8. Other 1 >
+	9. Cryptical >
+	10. Sittin'
+	11. Hurts Me Too
+
+	---- Encore ----
+	12. Baby Blue
+	13. AWBYGN
+
+
+Disc 2
+	---- Set 1 Conclusion ----
+	1. Lovelight
+
+	---- Set 2 ----
+	2. Friend of Mine
+	3. Dark Star >
+	4. Rag //
+	5. // Cosmic Charlie
+
+Defects on Raw tracks (have to adjust for times of individual tracks):
+
+(This was originally on three discs, one track per disc.  These timings
+ refer to that configuration.)
+
+d1t1 41:47 - static in right channel (in last words of o1)
+d1t1 43:27-43:34 - right channel fades out (cryp reprise)
+d1t1 43:35 - splice?
+d1t1 43:37-43:41 - right channel fades out
+d1t1 45:24 - back ground static (start of sittin)
+d1t1 46:23 - little static in right channel
+
+d2t1 3:40 - static in right channel (lovelight)
+d2t1 4:14 - brief static in left channel
+d2t1 4:44 - quiet background static in right channel?
+d2t1 4:54 - brief background static in right channel
+d2t1 8:15 - static in right channel
+d2t1 9:28 - brief static in right channel
+
+d3t1 0:00- - right channel very faint (friend of mine) (-1:56?) (dark star)
+d3t1 0:54-0:57 - left channel dropout
+d3t1 43:03 - splice (Rag/Cosmic)
+d3t1 45:23 - left channel dropout
+d3t1 45:42-45:53 - left channel very faint
+d3t1 47:32-47:37 - left channel very faint
+
+Extraction/SHN by John Oleynick <johno@computer.org>

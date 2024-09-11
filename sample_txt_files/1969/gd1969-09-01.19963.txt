@@ -1,0 +1,114 @@
+This is a flac encoded & tagged version of shnid: 19963
+
+Band Grateful Dead 
+Date 9/1/69 - Monday 
+Venue Baton Rouge International Speedway 
+Location Baton Rouge, LA  
+
+
+Source: MSC (Ampex C-90 cassette) > DAT > CD-R via Andy Lemieux and Kingbee
+Encoding: EAC(secure) > Cool Edit > CDWAV > mkwact > SHN(seekable) by Matt Vernon
+
+Thanks to Andy for the source disks!
+______________________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Introduction -> Casey Jones 
+102-d1t02 - Morning Dew  -> 
+103-d1t03 - Mama Tried -> 
+104-d1t04 - High Time // 
+105-d1t05 - Easy Wind ; 
+106-d2t01 - D//ark Star - > 
+107-d2t02 - St. Stephen -> 
+108-d2t03 - The Eleven -> 
+109-d2t04 - Turn On Your //Love Light 
+
+--disc 1 total time-33:42--
+--disc 2 total time--60:19--
+______________________________________________________________________________________________
+
+notes:
+- this source differs from the most recent previously circulating copy 
+  (http://db.etree.org/shninfo_detail.php?shnid=5216) in that:
+a). Casey Jones is not clipped
+b). The Yellow Dog Story which appears before Dark Star is not on this tape. The transition 
+    from the end of Easy Wind to the start of Dark Star on this tape is continuous.  This 
+    would suggest that the Yellow Dog Story on the other source may not be from this date.
+c). The version of Lovelight on this source is complete (~24 minutes) except for a brief gap.  
+    The previous source cut after ~ 9 minutes
+
+
+Eaton lists:
+09/01/69 Baton Rouge Speedway, Prairieville La - complete
+4.4, 095min, Sbd, A0D1, Cass M->Dat 1, 44k,Ampex C-90 Master Cass/no dolby->
+3700 x 0->3800 x 1
+
+flaws
+d1t02 - brief partial loss left channel 2:24, 5:43, 6:46, 7:40, 5:05 brief partial loss 
+        right channel
+d1t04 ~ 4:58,  two very brief partial losses left channel
+d2t01 - cut ~0:05
+d2t01 ~ 2:46 brief garbled section left channel
+d2t01 ~ 8:08 brief partial loss both channels
+d2t01 ~ 8:52 some digi-type or transcription noise (minor)
+d2t02 - brief partial loss left channel 1:37
+d2t03 - brief partial loss left channel 8:08
+d2t04 - brief partial loss left channel 6:37
+d2t04 - gap ~9:45 followed by volume variations and what not for about 10 seconds
+d2t04 - brief partial loss left channel 10:22, 11:01, 23:32
+_____________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-05-11
+______________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+6f96043f9f43153ef98d992d88d3b419  [shntool]  gd69-09-01d1t01.shn
+44702c58cbbed2a64f5b6c9e3abf3b05  [shntool]  gd69-09-01d1t02.shn
+69675fe7b0a780e9dae6533509285e76  [shntool]  gd69-09-01d1t03.shn
+85825818735b761d71902446685cd87a  [shntool]  gd69-09-01d1t04.shn
+6aea5098202150d762983f41cc1f2956  [shntool]  gd69-09-01d1t05.shn
+b10323b9abf8dee58981a8aba72f1655  [shntool]  gd69-09-01d2t01.shn
+48edf9533e1c84dfcbe27b70ae447ed7  [shntool]  gd69-09-01d2t02.shn
+6ce611ab7662de2332ea74f7688928e0  [shntool]  gd69-09-01d2t03.shn
+b9f1ca4883be92cced80d0bf6fab26bf  [shntool]  gd69-09-01d2t04.shn
+
+; shntool md5 fingerprint file 
+6f96043f9f43153ef98d992d88d3b419  [shntool]  gd69-09-01d1t01.flac
+44702c58cbbed2a64f5b6c9e3abf3b05  [shntool]  gd69-09-01d1t02.flac
+69675fe7b0a780e9dae6533509285e76  [shntool]  gd69-09-01d1t03.flac
+85825818735b761d71902446685cd87a  [shntool]  gd69-09-01d1t04.flac
+6aea5098202150d762983f41cc1f2956  [shntool]  gd69-09-01d1t05.flac
+b10323b9abf8dee58981a8aba72f1655  [shntool]  gd69-09-01d2t01.flac
+48edf9533e1c84dfcbe27b70ae447ed7  [shntool]  gd69-09-01d2t02.flac
+6ce611ab7662de2332ea74f7688928e0  [shntool]  gd69-09-01d2t03.flac
+b9f1ca4883be92cced80d0bf6fab26bf  [shntool]  gd69-09-01d2t04.flac
+
+
+    length     expanded size   cdr  WAVE  probs   filename
+     5:57.13      63005420     ---   --    ---    gd69-09-01d1t01.wav
+    10:39.73     112891340     ---   --    ---    gd69-09-01d1t02.wav
+     2:38.53      27995900     ---   --    ---    gd69-09-01d1t03.wav
+     6:51.65      72653324     ---   --    ---    gd69-09-01d1t04.wav
+     7:34.52      80207948     ---   --    ---    gd69-09-01d1t05.wav
+    33:42.31     356753932 B                      (totals for 5 files)
+
+    length     expanded size   cdr  WAVE  probs   filename
+    17:39.33     186885260     ---   --    ---    gd69-09-01d2t01.wav
+     7:33.33      79986860     ---   --    ---    gd69-09-01d2t02.wav
+    10:49.19     114528332     ---   --    ---    gd69-09-01d2t03.wav
+    24:17.35     257097164     ---   --    ---    gd69-09-01d2t04.wav
+    60:19.45     638497616 B                      (totals for 4 files)

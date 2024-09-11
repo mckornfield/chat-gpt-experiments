@@ -1,0 +1,83 @@
+This is a tagged version of shnid: 87378
+
+Grateful Dead - 
+April 13, 1969
+Ballroom, University of Colorado  
+Boulder, CO
+
+Recording Info:
+SBD -> Master Reel -> Cassette -> Dat -> CD
+
+Transfer Info:
+CD -> Samplitude Professional v7.02 -> FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+September 21, 2007
+
+Notes:
+-- Disc change is seamless
+-- End of Lovelight is cut
+-- Start of Doin' That Rag is cut
+-- Splice in Dark Star at approx 10 min
+-- Jam at end of show is cut
+-- Did some minor clean up and worked on the levels
+___________________________________________________________________________
+
+--Set 1--
+101-d1t01 - Turn On Your Love Light//
+102-d1t02 - //Doin' That Rag
+103-d1t03 - Good Morning Little Schoolgirl
+104-d1t04 - Morning Dew
+105-d2t01 - Dark //Star ->
+106-d2t02 - St. Stephen ->
+107-d2t03 - The Eleven ->
+108-d2t04 - Death Don't Have No Mercy
+
+--Set 2--
+201-d2t05 - Alligator ->
+202-d2t06 - Drums ->
+203-d2t07 - Jam
+___________________________________________________________________________
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac 
+files. If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. If you must 
+transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-04-11
+___________________________________________________________________________
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+    24:50.29     262904252     ---   --    ---    gd69-04-13d1t01.wav
+     4:58.49      52682492     ---   --    ---    gd69-04-13d1t02.wav
+     9:15.10      97925564     ---   --    ---    gd69-04-13d1t03.wav
+    11:14.00     118893644     ---   --    ---    gd69-04-13d1t04.wav
+    23:56.11     253336316     ---   --    ---    gd69-04-13d2t01.wav
+     7:50.54      83035052     ---   --    ---    gd69-04-13d2t02.wav
+    13:01.65     137921324     ---   --    ---    gd69-04-13d2t03.wav
+    10:01.58     106152860     ---   --    ---    gd69-04-13d2t04.wav
+     3:41.17      39024428     ---   --    ---    gd69-04-13d2t05.wav
+     4:54.23      51915740     ---   --    ---    gd69-04-13d2t06.wav
+     5:41.10      60175964     ---   --    ---    gd69-04-13d2t07.wav
+   119:25.26    1263967636 B                      (totals for 11 files)
+
+
+FLAC FINGERPRINT:
+
+gd69-04-13d1t01.flac:e5f6c5c87f73cd72b58dca633487d0fe
+gd69-04-13d1t02.flac:a846a59a12a8ef454e3a59d1eb442a5c
+gd69-04-13d1t03.flac:34655936c600a145b3830bd286f3806b
+gd69-04-13d1t04.flac:8ae7779265b46f79c73c5f49441f8aba
+gd69-04-13d2t01.flac:049819e5001ab667369e7210f06f4d71
+gd69-04-13d2t02.flac:f66705d7a8504db4e60aba11ba780144
+gd69-04-13d2t03.flac:b44369e30308364a8c24266e50d227e6
+gd69-04-13d2t04.flac:4ffd54b2c377e5da98a8944849d6ba6d
+gd69-04-13d2t05.flac:d5af605ee3cf432660f0e73e436d3c25
+gd69-04-13d2t06.flac:1891461e0293e15127d8f1cd821ddc07
+gd69-04-13d2t07.flac:5c11bf0d60678a07201ec42f609c1c94

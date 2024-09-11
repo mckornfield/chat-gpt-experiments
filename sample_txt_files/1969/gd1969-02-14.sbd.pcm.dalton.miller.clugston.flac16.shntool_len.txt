@@ -1,0 +1,13 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:58.21      105536636 B   ---   --   ---xx   flac  0.5380  gd69-02-14 t01 Good Morning Little Schoolgirl.flac
+     1:36.27       16997948 B   ---   --   ---xx   flac  0.4837  gd69-02-14 t02 Ladies and Gentlemen that's Bear.flac
+    19:03.29      201693452 B   ---   --   ---xx   flac  0.5788  gd69-02-14 t03 Dark Star.flac
+     6:15.74       66324092 B   ---   --   ---xx   flac  0.5573  gd69-02-14 t04 St. Stephen.flac
+    16:06.50      170520044 B   ---   --   ---xx   flac  0.5620  gd69-02-14 t05 The Eleven.flac
+    13:06.48      138763340 B   ---   --   ---xx   flac  0.5508  gd69-02-14 t06 Turn On Your Lovelight.flac
+    10:58.53      116195900 B   ---   --   ---xx   flac  0.5444  gd69-02-14 t07 Morning Dew.flac
+     2:18.56       24474956 B   ---   --   ---xx   flac  0.5339  gd69-02-14 t08 Cryptical Envelopment.flac
+     9:26.19       99887132 B   ---   --   ---xx   flac  0.5701  gd69-02-14 t09 The Other One.flac
+    12:29.55      132253004 B   ---   --   ---xx   flac  0.5520  gd69-02-14 t10 Cryptical Envelopment.flac
+    12:51.17      136044428 B   ---   --   ---xx   flac  0.5149  gd69-02-14 t11 Death Don't Have No Mercy.flac
+   114:11.74     1208690932 B                            0.5521  (11 files)

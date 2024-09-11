@@ -1,0 +1,52 @@
+Grateful Dead
+1969-07-11
+New York State Pavilion
+Flushing Meadows, Queens, New York , NY
+
+Recording Info: Pat Lee from Dick Latvala MC > C > CD
+
+Transfer Info: Mastered via the Apogee Mini Me(24/96) > Mini Dac > Lynx One soundcard > Wavelab 5.0 > TLH Flac8
+
+Transferred and Edited By Matt Smith
+
+Notes:
+
+CD 1.
+d1t01. intro
+d1t02. Dupree's Diamond Blues >
+d1t03. Dire Wolf
+d1t04. tuning
+d1t05. Hard To Handle
+d1t06. Silver Threads & Golden Needles
+d1t07. tuning
+d1t08. Casey Jones
+d1t09. Sittin' On Top Of The World >
+d1t10. Big Boss Man
+d1t11. Mama Tried
+d1t12. High Time//
+
+CD 2.
+missing - Alligator >
+d2t01. //Drums >
+d2t02. Jam >
+d2t03. The Other One >
+d2t04. Death Don't Have No Mercy >
+d2t05. Turn On Your Lovelight//
+
+gd1969-07-11d1t01.flac:ca7c88cac284064c14744d6082e2ad90
+gd1969-07-11d1t02.flac:2a1ecced93fb351dd5466a23ea2def84
+gd1969-07-11d1t03.flac:0f2a9f6b836eb2a773129f870edf5d09
+gd1969-07-11d1t04.flac:96f1ae0fd8b95422d6478563148de181
+gd1969-07-11d1t05.flac:8eaeee2298d3985b6c1adaa7cd936bbd
+gd1969-07-11d1t06.flac:929721aa34a18e1249673ae597953d6d
+gd1969-07-11d1t07.flac:b67ba9cbed032687d7b0c9daccec9618
+gd1969-07-11d1t08.flac:464a85f296f673d597ae42b85504c870
+gd1969-07-11d1t09.flac:19e4535e1766a0eb218690e7aebe0337
+gd1969-07-11d1t10.flac:4f598b773855f4d390d4e7fbb0c7aebd
+gd1969-07-11d1t11.flac:d4b392ead58b68bf09c41d49de5331fd
+gd1969-07-11d1t12.flac:87f13be72e1280b5efcb3a3d7f1d58ba
+gd1969-07-11d2t01.flac:77c8555ee7ff9cc55d7a1da32b838fb2
+gd1969-07-11d2t02.flac:ef5bbe94b16b07a6bdc560e49679ccf1
+gd1969-07-11d2t03.flac:8ce22fa2e05419c772a30809a742adcc
+gd1969-07-11d2t04.flac:814c6518a895254a1d3036fb6dc0b6bf
+gd1969-07-11d2t05.flac:3a7256eb4e36c6c19aed1f747225af20

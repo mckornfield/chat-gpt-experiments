@@ -1,0 +1,43 @@
+MOTB Release: 0064 16/44.1
+Release Date: 2008-04-02
+Band: Grateful Dead
+Date: 1969-12-11 (Thursday)
+Venue: Thelma Theater
+Location: Los Angeles, CA
+Analog Audience Source: FOB Master Cassette (MAC)
+Medium Stock Brands: MAC = Maxell C-90
+Analog Lineage: 1 x Sony Microphone => Sony Portable Cassette Recorder [Monophonic] >> MAC
+Analog Sound Preservation: MAC >> Nakamichi DR-1 => Grace Design Lunatec V3 [Pre-Only] => Korg MR-1000 >> DSF [1-bit 5.6448 MHz Stereo] >> Korg MR-1000 => Korg AudioGate >> WAV [24/96]
+Taped By: Rion Brady
+Transfer By: Adam Egert
+Mastering By: Derek McCabe
+
+Set 1
+d1t01 - Introduction And Tuning
+d1t02 - Casey Jones
+d1t03 - Cold Rain And Snow
+d1t04 - Mama Tried
+d1t05 - Tom Constanten Plays Bach > Yellow Dog Story
+d1t06 - Dire Wolf
+d1t07 - It Hurts Me Too
+d1t08 - China Cat Sunflower >
+d1t09 - I Know You Rider
+d2t01 - Black Peter >
+d2t02 - Me And My Uncle
+d2t03 - Hard To Handle
+d2t04 - Dark Star >
+
+Mastering Notes
+-- This is a synthesized stereo version of original monaural source, produced using Mid-Side stereo processing techniques. The mastered mono version of this show is available as MOTB 0063 (shnid=91109).
+-- Software - Bias Peak / Ozone / Nomad Factory EQs / Audiofile Engineering Sample Manager
+-- Crossfaded the tape stop/start interruptions present in between every song break.
+-- d2t04 - Patched cut off at 19:59 of "Dark Star" with about 33 seconds of gd69-12-11.sbd.gerland.10987.sbeok.shnf (shnid=10987).
+
+Notes
+-- The tape was stopped in between every song break.
+-- d1t03 - Lead in to "Cold Rain And Snow" fades in on opening notes.
+-- d1t07 - Lead in to "It Hurts Me Too" fades in on opening notes.
+-- d1t08 - Lead in to "China Cat Sunflower" fades in on opening notes.
+-- Big thanks and good karma to Norm Bowen and Andy Foust for helping to secure Rion's master cassette, so this live music and its history could be shared.
+-- More big thanks and more good karma to John Hance who fixed and re-shelled Rion's cassette in order to facilitate its audio sound preservation.
+

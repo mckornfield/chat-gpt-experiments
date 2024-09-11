@@ -1,0 +1,79 @@
+This is a flac encoded & tagged version of shnid: 14857
+
+Grateful Dead 
+9/27/69 
+Fillmore East, 
+New York City, NY
+
+audience recording (early show?)
+
+This is an upgrade to the previously circulating version
+( http://db.etree.org/shn/12064 ),
+the sound is clearer and hiss and distortion are less present.
+
+Seeded by Uli Teute and Hanno Bunjes
+January 2003
+__________________________________________________________________________________________
+
+--Setlist--
+101-01 - banter & introduction
+102-02 - Morning Dew
+103-03 - Mama Tried
+104-04 - Next Time You See Me
+105-05 - Casey Jones
+106-06 - China Cat Sunflower ->
+107-07 - High Time
+108-08 - Dire Wolf
+109-09 - Me & My Uncle
+110-10 - tunings
+
+total time 46:03
+__________________________________________________________________________________________
+
+notes:
+- Casey Jones disruption at 3:01
+- China Cat tape deterioration audible at 4:53-5:05
+- Dire Wolf fades in; disruption at 5:12
+__________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-14-11
+__________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+95e4c611020664f91ded13b2b07b5fc9  [shntool]  gd69-09-27new01.shn
+3fd3e9ca9948a15ec62285acca8ad7dd  [shntool]  gd69-09-27new02.shn
+53d3c9abcf207dc1191f7bc8f09bc32b  [shntool]  gd69-09-27new03.shn
+ca04323b52a16a8e4b1ee9c847218dde  [shntool]  gd69-09-27new04.shn
+66b318970efac69192e731c40d8f3e7d  [shntool]  gd69-09-27new05.shn
+47e05ad4b1c1d14cb034581d6111374a  [shntool]  gd69-09-27new06.shn
+fc357fa5abe99842c4806a7ff7ff302a  [shntool]  gd69-09-27new07.shn
+875e70aa7d150c4233093c7f34c0b0ee  [shntool]  gd69-09-27new08.shn
+1dd1a9758cc971b2393bb9ca1bf63912  [shntool]  gd69-09-27new09.shn
+369749a58dc8e2561682bf9ae8ec3020  [shntool]  gd69-09-27new10.shn
+
+; shntool md5 fingerprint file 
+95e4c611020664f91ded13b2b07b5fc9  [shntool]  gd69-09-27new01.flac
+3fd3e9ca9948a15ec62285acca8ad7dd  [shntool]  gd69-09-27new02.flac
+53d3c9abcf207dc1191f7bc8f09bc32b  [shntool]  gd69-09-27new03.flac
+ca04323b52a16a8e4b1ee9c847218dde  [shntool]  gd69-09-27new04.flac
+66b318970efac69192e731c40d8f3e7d  [shntool]  gd69-09-27new05.flac
+47e05ad4b1c1d14cb034581d6111374a  [shntool]  gd69-09-27new06.flac
+fc357fa5abe99842c4806a7ff7ff302a  [shntool]  gd69-09-27new07.flac
+875e70aa7d150c4233093c7f34c0b0ee  [shntool]  gd69-09-27new08.flac
+1dd1a9758cc971b2393bb9ca1bf63912  [shntool]  gd69-09-27new09.flac
+369749a58dc8e2561682bf9ae8ec3020  [shntool]  gd69-09-27new10.flac
+

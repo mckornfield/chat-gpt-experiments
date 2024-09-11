@@ -1,0 +1,54 @@
+This is a flac encoded & tagged version of shnid: 81
+
+Grateful Dead
+10/25/69
+Winterland Arena
+San Francisco, CA
+
+Source: SBD>MR>DAT>Sonic Solutions>CDR
+
+Edited by David Gans to cover a reel change right after "William Tell"
+Seeded By Robert Jagla rjagla@wexcel.com
+_________________________________________________________________________________
+
+--Setlist--
+101-t01 - Dark Star ->
+102-t02 - St. Stephen ->
+103-t03 - The Eleven ->
+104-t04 - Turn on Your Lovelight*
+105-t05 - Ending remarks from Bill Graham
+
+* w/Steven Stills on guitar and vocals
+_________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-22-11
+__________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+f831927cc93a53ec81acb890a942ed62  [shntool]  gd69-10-25d1t01.shn
+7f9d490f8be33165af3b74808cf49c8d  [shntool]  gd69-10-25d1t02.shn
+442a93fab69b50b05ec37a235e240d2f  [shntool]  gd69-10-25d1t03.shn
+0bfa1dda6158be376307da207020f0fb  [shntool]  gd69-10-25d1t04.shn
+8c18dfa2c7430406a36fcb5f1efd4fe3  [shntool]  gd69-10-25d1t05.shn
+
+; shntool md5 fingerprint file 
+f831927cc93a53ec81acb890a942ed62  [shntool]  gd69-10-25d1t01.flac
+7f9d490f8be33165af3b74808cf49c8d  [shntool]  gd69-10-25d1t02.flac
+442a93fab69b50b05ec37a235e240d2f  [shntool]  gd69-10-25d1t03.flac
+0bfa1dda6158be376307da207020f0fb  [shntool]  gd69-10-25d1t04.flac
+8c18dfa2c7430406a36fcb5f1efd4fe3  [shntool]  gd69-10-25d1t05.flac
+

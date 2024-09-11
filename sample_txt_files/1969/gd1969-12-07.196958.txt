@@ -1,0 +1,89 @@
+This is a flac encoded & tagged version of shnid: 6958
+
+The Grateful Dead  
+07DEC69
+The Fillmore West  
+San Francisco, CA
+
+THE OWEN BROTHERS VAULT
+
+SBD>MC>DAT>CDR>EAC>DCart Millennium>CDR
+
+CD's From Julian Elliott
+CD Editing and mastering by The Wizard - Owenbrothersvault@hotmail.com
+
+The was a C/C- very degraded SBD tape that had almost no high end and a few flaws.
+The challenge was to bring up the top end without increasing the significant hiss above
+acceptable levels. This required several continuous noise filters both before and after 
+equalization to bring up the lacking areas. This turned out pretty successful.
+Several spots of static in Black Peter could not be totally eliminated but were reduced.
+The cut at the end of Dancin' was cleaned up.
+Several seconds of diginoise in Love Light was completely cleaned up.
+All editing done with DCArt Millennium software.
+____________________________________________________________________________________________
+
+--Setlist--
+101-d1t01 - Black Peter (several spots of remaining static)
+102-d1t02 - Hard To Handle
+103-d1t03 - Cumberland Blues
+104-d1t04 - Mama Tried
+105-d1t05 - Easy Wind
+106-d1t06 - Dancin' in the Streets / (End cut)
+107-d1t07 - /Good Lovin'  (Very start clipped?)
+108-d2t01 - China Cat Sunflower ->
+109-d2t02 - I Know You Rider ->
+110-d2t03 - Saint Stephen ->
+111-d2t04 - The Eleven ->
+112-d2t06 - Turn on Your Love Light (Cassette flip)  
+
+--disc 1 total time--46:52--
+--disc 2 total time--58:20--
+____________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be stripped, 
+however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 10-29-11
+____________________________________________________________________________________________
+
+; shntool md5 fingerprint file
+76e23809a745495eab64f94164bbcf9d  [shntool]  gd69-12-07d1t1.shn
+a1fa1ebbe6a85f1bf83361b7b5985bef  [shntool]  gd69-12-07d1t2.shn
+99604a908e6f415dd0558f70d6cb1f8a  [shntool]  gd69-12-07d1t3.shn
+83209523c0769048dfe661638191078f  [shntool]  gd69-12-07d1t4.shn
+ed5f5799a79d87f408ec6ae75a7482f7  [shntool]  gd69-12-07d1t5.shn
+5b447f09a1331680da81509ff571853b  [shntool]  gd69-12-07d1t6.shn
+8c0c8f7a2dbad50bcab717ce4528d4ec  [shntool]  gd69-12-07d1t7.shn
+eec732758ead32f8da7dc0a33124d97b  [shntool]  gd69-12-07d2t1.shn
+b4817ef018a65c41cec4b54f009d02eb  [shntool]  gd69-12-07d2t2.shn
+9d8e41c977899faa322e5cc6ca4f52d4  [shntool]  gd69-12-07d2t3.shn
+ec17ee32abc6cd770c07ad510b0eb4a9  [shntool]  gd69-12-07d2t4.shn
+85a471eae8f446009174c55bdf169767  [shntool]  gd69-12-07d2t5.shn
+
+; shntool md5 fingerprint file 
+76e23809a745495eab64f94164bbcf9d  [shntool]  gd69-12-07d1t1.flac
+a1fa1ebbe6a85f1bf83361b7b5985bef  [shntool]  gd69-12-07d1t2.flac
+99604a908e6f415dd0558f70d6cb1f8a  [shntool]  gd69-12-07d1t3.flac
+83209523c0769048dfe661638191078f  [shntool]  gd69-12-07d1t4.flac
+ed5f5799a79d87f408ec6ae75a7482f7  [shntool]  gd69-12-07d1t5.flac
+5b447f09a1331680da81509ff571853b  [shntool]  gd69-12-07d1t6.flac
+8c0c8f7a2dbad50bcab717ce4528d4ec  [shntool]  gd69-12-07d1t7.flac
+eec732758ead32f8da7dc0a33124d97b  [shntool]  gd69-12-07d2t1.flac
+b4817ef018a65c41cec4b54f009d02eb  [shntool]  gd69-12-07d2t2.flac
+9d8e41c977899faa322e5cc6ca4f52d4  [shntool]  gd69-12-07d2t3.flac
+ec17ee32abc6cd770c07ad510b0eb4a9  [shntool]  gd69-12-07d2t4.flac
+85a471eae8f446009174c55bdf169767  [shntool]  gd69-12-07d2t5.flac
+
+
+

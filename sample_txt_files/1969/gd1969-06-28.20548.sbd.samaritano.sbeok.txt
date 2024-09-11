@@ -1,0 +1,76 @@
+This is a flac encoded & tagged version of shnid: 20548
+
+Grateful Dead
+6/28/69  
+Veterans Auditorium
+Santa Rosa, CA.
+
+Lineage:
+Soundboard->Master Reel->Cassette->DAT->DAT
+
+Transfer:
+DAT->ZA2->Soundforge->.wav->mkw->SHN
+
+DAT seed provided by Michael P. Weitzman
+Transfer and SHN by Joe Samaritano
+11/10/2003
+_________________________________________________________________________________________
+
+--songlist--
+101-d1t01 - Slewfoot
+102-d1t02 - Silver Threads & Golden Needles
+103-d1t03 - Mama Tried
+104-d1t04 - Me & My Uncle
+105-d1t05 - Doin' That Rag
+106-d1t06 - High Time
+107-d1t07 - King Bee
+108-d1t08 - Sittin' on Top of the World
+109-d1t09 - Turn on Your //Lovelight
+_________________________________________________________________________________________
+
+Notes:
+1. Known low generation lineage and transfer info. 
+2. Splice in Lovelight about 20 minutes in.
+3. Garcia on Pedal Steel for Slewfoot and Silver Threads. 
+4. Peter Grant on Banjo and Marmaduke on backup vocals for MAMU.
+_________________________________________________________________________________________
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 8-07-11 
+_________________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+6a81fab975b70bd772cc99b0762be2ef  [shntool]  gd1969-06-28t01.shn
+338ab917192eacae7283836f051c7c0b  [shntool]  gd1969-06-28t02.shn
+eff97516c7c78e25dd586b9e13ee2ef8  [shntool]  gd1969-06-28t03.shn
+e4051f0620a51b7316a246d3ef095e98  [shntool]  gd1969-06-28t04.shn
+127c25cb61883b11fbd047fdad143a27  [shntool]  gd1969-06-28t05.shn
+831b01b372755a3e69b1c742105b53da  [shntool]  gd1969-06-28t06.shn
+c4a27c36f04848411764d7f765c7d1e9  [shntool]  gd1969-06-28t07.shn
+ce9e41f441a3ece9417d619d843b425f  [shntool]  gd1969-06-28t08.shn
+36139f1ad867dac8e773f251f753f403  [shntool]  gd1969-06-28t09.shn
+
+; shntool md5 fingerprint file 
+6a81fab975b70bd772cc99b0762be2ef  [shntool]  gd1969-06-28t01.flac
+338ab917192eacae7283836f051c7c0b  [shntool]  gd1969-06-28t02.flac
+eff97516c7c78e25dd586b9e13ee2ef8  [shntool]  gd1969-06-28t03.flac
+e4051f0620a51b7316a246d3ef095e98  [shntool]  gd1969-06-28t04.flac
+127c25cb61883b11fbd047fdad143a27  [shntool]  gd1969-06-28t05.flac
+831b01b372755a3e69b1c742105b53da  [shntool]  gd1969-06-28t06.flac
+c4a27c36f04848411764d7f765c7d1e9  [shntool]  gd1969-06-28t07.flac
+ce9e41f441a3ece9417d619d843b425f  [shntool]  gd1969-06-28t08.flac
+36139f1ad867dac8e773f251f753f403  [shntool]  gd1969-06-28t09.flac
+

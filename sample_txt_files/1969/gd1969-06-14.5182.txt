@@ -1,0 +1,75 @@
+This is a flac encoded & tagged version of shnid: 5182
+
+The Grateful Dead
+06/14/69
+Peninsula College
+Monterey, CA
+
+Sbd:MCass>Cass>DAT>ZA2>SF>CD
+
+Normalized in SoundForge, then pitch shifted down 89 cents on highest accuracy.
+
+Thanks to Jeff Tiedrich for the source!
+Digital Transfer, processing and CD Mastering by the tireless David Hollister
+SHN encoding by Jim Skinner with thanks to Michael K. Weise
+_________________________________________________________________________________
+
+--Songlist--
+101-d1t01 - Turn on Your Lovelight -> 
+102-d1t02 - Me & My Uncle -> 
+103-d1t03 - Doin' That Rag -> 
+104-d1t04 - He Was A Friend of Mine,
+105-d1t05 - Dire Wolf 
+106-d2t01 - Dark Star -> 
+107-d2t02 - St. Stephen -> 
+108-d2t03 - The Eleven -> 
+109-d2t04 - Turn on Your Lovelight -> 
+110-d2t05 - Drums ->
+111-d2t05 - Turn on Your Lovelight
+_________________________________________________________________________________
+
+note:
+Second vocalist on Lovelight is Wayne Ceballos 
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 7-29-11 
+_________________________________________________________________________________
+
+; shntool md5 fingerprint file 
+9d8df580e45238ac7920082b919029ff  [shntool]  gd69-06-14d1t01.shn
+55f3319ec1c2e29bd1dc3c47bee08198  [shntool]  gd69-06-14d1t02.shn
+9d548250ce1dda2d4d3bc76370ee2af9  [shntool]  gd69-06-14d1t03.shn
+cdb99101c95d7fa36dd799f82b3aa3e7  [shntool]  gd69-06-14d1t04.shn
+1708c8f29c853c1a5e13eba9756da1b7  [shntool]  gd69-06-14d1t05.shn
+a476a327253da4933e72af5813412bfc  [shntool]  gd69-06-14--d2t01.shn
+6d6b5ab0b964fae144d367691cd1806b  [shntool]  gd69-06-14--d2t02.shn
+ad88844566903172b2691e29da3c14ad  [shntool]  gd69-06-14--d2t03.shn
+2d41e0a0d0bfd173653d641c09867d13  [shntool]  gd69-06-14--d2t04.shn
+e7430c4806d906f451d563e2990440e6  [shntool]  gd69-06-14--d2t05.shn
+218a262a4aff304f0c16a0f8c0bc6c40  [shntool]  gd69-06-14--d2t06.shn
+
+; shntool md5 fingerprint file 
+9d8df580e45238ac7920082b919029ff  [shntool]  gd69-06-14d1t01.flac
+55f3319ec1c2e29bd1dc3c47bee08198  [shntool]  gd69-06-14d1t02.flac
+9d548250ce1dda2d4d3bc76370ee2af9  [shntool]  gd69-06-14d1t03.flac
+cdb99101c95d7fa36dd799f82b3aa3e7  [shntool]  gd69-06-14d1t04.flac
+1708c8f29c853c1a5e13eba9756da1b7  [shntool]  gd69-06-14d1t05.flac
+a476a327253da4933e72af5813412bfc  [shntool]  gd69-06-14--d2t01.flac
+6d6b5ab0b964fae144d367691cd1806b  [shntool]  gd69-06-14--d2t02.flac
+ad88844566903172b2691e29da3c14ad  [shntool]  gd69-06-14--d2t03.flac
+2d41e0a0d0bfd173653d641c09867d13  [shntool]  gd69-06-14--d2t04.flac
+e7430c4806d906f451d563e2990440e6  [shntool]  gd69-06-14--d2t05.flac
+218a262a4aff304f0c16a0f8c0bc6c40  [shntool]  gd69-06-14--d2t06.flac

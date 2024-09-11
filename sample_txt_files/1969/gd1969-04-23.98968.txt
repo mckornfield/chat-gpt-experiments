@@ -1,0 +1,84 @@
+Grateful Dead - April 23, 1969
+The Ark - Boston, MA
+
+Recording Info:
+SBD -> Master Reel -> Cassette -> Dat -> CD
+
+Transfer Info:
+CD -> Samplitude Professional v9.12 -> FLAC
+(3 Discs Audio / 2 Discs FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+May 11, 2009
+
+Patch Info:
+SBD -> Master Cassette -> Cassette -> FLAC (shnid=98793) supplies:
+Dark Star (20:09 - end of track)
+St. Stephen (0:00 - 0:22) (1:37 - end of track)
+It's A Sin (0:00 - 1:44)
+
+Notes:
+-- All disc changes are seamless
+-- Patched flawed portions of Dark Star and St. Stephen
+-- Tape flip during The Eleven
+-- Tape flip between Caution and Feedback
+-- Thanks to Joe B. Jones for his help pitch correcting the patch source
+Set 1:
+d1t01 - Introduction
+d1t02 - He Was A Friend Of Mine
+d1t03 - Dark Star ->
+d1t04 - St. Stephen ->
+d1t05 - It's A Sin ->
+d1t06 - St. Stephen ->
+d1t07 - Cryptical Envelopment ->
+d1t08 - Drums ->
+d1t09 - The Other One ->
+d1t10 - Cryptical Envelopment ->
+d1t11 - Sittin' On Top Of The World ->
+d2t01 - Turn On Your Lovelight
+
+Set 2:
+d2t02 - Morning Dew
+d2t03 - Hard To Handle
+d2t04 - Doin' That Rag
+d3t01 - Alligator ->
+d3t02 - Drums ->
+d3t03 - Jam ->
+d3t04 - The Eleven ->
+d3t05 - Caution (Do Not Stop On Tracks) ->
+d3t06 - Feedback ->
+d3t07 - And We Bid You Good Night
+
+Encore:
+d3t08 - Not Fade Away tease
+d3t09 - It's All Over Now, Baby Blue
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE problems filename
+     0:38.74        6877292    ---   --   -----   gd69-04-23d1t01.wav
+    11:33.68      122405180    ---   --   -----   gd69-04-23d1t02.wav
+    20:55.62      221527868    ---   --   -----   gd69-04-23d1t03.wav
+     2:39.26       28108796    ---   --   -----   gd69-04-23d1t04.wav
+     3:50.73       40743740    ---   --   -----   gd69-04-23d1t05.wav
+     2:12.59       23423612    ---   --   -----   gd69-04-23d1t06.wav
+     1:57.25       20697644    ---   --   -----   gd69-04-23d1t07.wav
+     0:44.66        7916876    ---   --   -----   gd69-04-23d1t08.wav
+     8:38.66       91530476    ---   --   -----   gd69-04-23d1t09.wav
+     6:23.20       67608284    ---   --   -----   gd69-04-23d1t10.wav
+     2:58.35       31481564    ---   --   -----   gd69-04-23d1t11.wav
+    18:27.31      195347756    ---   --   -----   gd69-04-23d2t01.wav
+    10:12.38      108046220    ---   --   -----   gd69-04-23d2t02.wav
+     6:18.07       66695708    ---   --   -----   gd69-04-23d2t03.wav
+     7:18.49       77378492    ---   --   -----   gd69-04-23d2t04.wav
+     3:49.64       40546172    ---   --   -----   gd69-04-23d3t01.wav
+     4:53.24       51741692    ---   --   -----   gd69-04-23d3t02.wav
+     3:17.43       34851980    ---   --   -----   gd69-04-23d3t03.wav
+    17:18.65      183256124    ---   --   -----   gd69-04-23d3t04.wav
+    12:49.65      135804524    ---   --   -----   gd69-04-23d3t05.wav
+     2:50.00       29988044    ---   --   -----   gd69-04-23d3t06.wav
+     6:47.70       71959484    ---   --   -----   gd69-04-23d3t07.wav
+     1:33.64       16555772    ---   --   -----   gd69-04-23d3t08.wav
+     8:51.54       93795452    ---   --   -----   gd69-04-23d3t09.wav
+   167:04.23     1768288752 B                     (totals for 24 files)

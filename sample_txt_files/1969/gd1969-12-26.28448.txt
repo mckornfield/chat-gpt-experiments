@@ -1,0 +1,90 @@
+This is a retagged version of shnid: 28448
+
+Grateful Dead
+December 26, 1969
+McFarlin Auditorium, Southern Methodist University
+Dallas, Texas
+
+Source: Soundboard
+Lineage: MSR> CASS> DAT> CDR> EAC> FLAC
+ 
+Except * = MSR> CASS> DAT> CASS> DAT> CDR> EAC> FLAC
+
+Patched & remastered by Jack Warner
+DAE and FLAC encoding by Marc Evans
+Project coordinated by Jim Powell
+special thanks to HB, MG & DW
+___________________________________________________________________________________
+
+--Setlist--
+(Acoustic)
+101-d1t01 - stage banter
+102-d1t02 - The Monkey And The Engineer
+103-d1t03 - Little Sadie
+104-d1t04 - Long Black Limousine
+105-d1t05 - stage banter
+106-d1t06 - All Around This World
+107-d1t07 - stage banter
+108-d1t08 - The Master's Bouquet
+109-d1t09 - stage banter
+110-d1t10 - Black Peter
+111-d1t11 - stage banter
+112-d1t12 - Uncle John's Band
+(Electric)
+113-d1t13 - drum tuning/
+114-d1t14 - tuning
+115-d1t15 - Casey Jones
+116-d1t16 - Hard To Handle
+117-d1t17 - Cold Rain And Snow *
+118-d2t01 - China Cat Sunflower-> *
+119-d2t02 - Jam-> I Know You Rider-> 
+120-d2t03 - High Time
+121-d2t04 - stage banter
+122-d2t05 - Me And My Uncle
+123-d2t06 - stage banter
+124-d2t07 - Dark Star// 
+125-d2t08 - //New Speedway Boogie
+126-d2t09 - stage banter
+127-d2t10 - Turn On Your Love Light
+128-d2t11 - stage announcment
+
+--disc 1 total time--00:55:59--
+--disc 2 total Time--01:10:33--
+___________________________________________________________________________________
+
+notes:
+Most currently circulating CDR copies of this show have either the beginning or 
+the concluding couple minutes of "Cold Rain & Snow" cut and are also missing the 
+beginning of "China Cat Sunflower".  This version has these defects corrected using
+a 2nd gen cassette source.
+
+Not much is still missing at the beginning of "Casey Jones".  On the circulating 
+copy the "Dark Star" cuts right after the end of the 2nd vocals and splices to the 
+beginning of a chorus of "New Speedway Boogie".  During this time period 
+"New Speedway Boogie" usually ran an average of about 08:30, so it seems likely 
+a solid 4 minutes is missing here, plus possible jamming after the Dark Star vocals.  
+Probably there is more music on the master than is represented by the heavy-handed 
+edit of the circulating version.
+
+Before "All Around This World" Garcia answers a request from the audience:  
+"Hey it's not my fault if you watch TV, man.  I know lots of people who don't 
+watch any TV at all."
+___________________________________________________________________________________
+
+Taggging notes:
+This was oringinally circulated with flac metadata included. Normally I wouldn't
+alter someone elses tags and recirculate. However in this case, track numbering
+was left off the tags. This caused the songs to be sorted alphabetically and 
+out of proper sequence in my media player. Because of this omission, I have
+retagged the files to clear up this problem plus a couple of other inconsistancies.
+
+Show information is embedded within the header of each flac file. 
+It will display on any player capable of directly playing flac files. 
+If converted to wav during processing, all tags will be 
+stripped, however audio data will remain unaffected. 
+If you must transcode to a lossy format, do so directly Flac > Lossy.
+Use ffp to validate audio integrity.
+Md5 values will change if tagging is altered.
+B. Proctor 11-11-11 
+
+

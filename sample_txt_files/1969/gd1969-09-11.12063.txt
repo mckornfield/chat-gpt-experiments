@@ -1,0 +1,46 @@
+This is flac encoded & tagged version of shnid: 12063
+
+Grateful Dead
+9-11-69
+
+Unknown venue, 
+possibly the Family Dog at The Great Highway,
+San Francisco
+
+AUD>?>CD>EAC>SHN
+
+1.  //Easy Wind (7:54)
+
+Notes:
+--only this one song circulates from this recording
+--the first few notes are clipped
+--Sound Forge was used for a slight pitch correction
+
+part of the The Music Never Stopped Project 2002
+
+Thanks to Dave Litfin
+encoding by JCotsman
+
+Flac encoding notes:
+All processing with Trader's Little Helper
+Shn - st5 generated
+Shn > Flac ( level 8 )
+Flac - st5 generated and matched to Shn st5
+
+Tagging notes:
+Show information is embedded within the header
+of each flac file. It will display on any player 
+capable of directly playing flac files. 
+If converted to wav during processing, all tags 
+will be stripped, however audio data will remain 
+unaffected. If you must transcode to a lossy format, 
+do so directly Flac > Lossy.
+Use st5 to validate audio integrity.
+Md5 values will change if tagging is altered.
+A Mills 2/4/14
+
+; shntool md5 fingerprint file
+3e985f2701503d757b2bbf5da2a89ede  [shntool]  gd69-09-11d1t01.shn
+
+; shntool md5 fingerprint file
+3e985f2701503d757b2bbf5da2a89ede  [shntool]  gd69-09-11d1t01.flac

@@ -1,0 +1,61 @@
+Band:The Grateful Dead
+Venue:Fillmore West
+Location:San Francisco-Ca
+Date:1969-02-28 Friday
+
+Ampex MM-1000 16 Track Master Reels Two Inch Wide Tape @ 15 ips
+Multi Track Mix-down To a Sony PCM 1630 By Dan Healy @ 44.1KHz) circa ____?
+
+Set #1 DAT x ONE by Dick Latvala-DAT x TWO(Mine)
+Set #2 DAT x ? by Rob Bertrando-DAT x (Mine)
+Editing(Adobe Audition CC)-FLAC encoding(dBpoweramp)-Tagging(Tag & Re-name)-Sample Rate Conversion(r8brain)
+This is a 100% Flat transfer from the DAT no signal processing what-so-ever. Some pitch correction implemented 
+Jim Wise:March 2015
+
+16 bit 48KHz file set
+
+Set:One
+t01.Intro-Morning Dew
+t02.Good Morning Little Schoolgirl
+t03.Doin That Rag
+t04.King Bee
+t05.Turn On Your Lovelight
+
+Set:Two
+t06.Intro-Cryptical Suite
+t07.Dark Star
+t08.Saint Stephen
+t09.The Eleven
+t10.Death Dont Have No Mercy
+t11.Alligator
+t12.Drums
+t13.PRIMAL JAM!
+t14.Caution Do Not Stop On Tracks
+t15.Feedback
+t16.We Big You Goodnight
+
+This is how it was laid out on the digital transcription by Dan Healy:
+cut in Turn On Your Love light 
+cut in Dark Star
+cut in Primal Jam
+
+patch material sourced from the ------------
+
+re-sampled Set#1 to 48KHz to Match the RBBERT DAT
+
+Recording: 
+Executive engineer: Bob Matthews
+Engineer: Betty Cantor
+Consulting engineers: Owsley, Ron Wickersham
+Sound: Bear
+
+Band Line Up:
+Jerry Garcia - guitar, vocals
+Bob Weir - guitar, vocals
+Tom Constanten - keyboards
+Ron "Pigpen" McKernan - keyboards, vocals, harmonica, percussion
+Phil Lesh - bass guitar, vocals
+Bill Kreutzmann - drums
+Mickey Hart - drums
+
+

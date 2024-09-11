@@ -1,0 +1,77 @@
+Grateful Dead
+Avalon Ballroom
+San Francisco, CA
+Sunday April 6th, 1969
+
+This is a 16/48 fileset. 24-bit > 16-bit via dBpoweramp
+
+Source Info:
+FM Broadcast (KPFA/KPFB)> Tom Ordon's Master FM Reels > Matt Smith's 1st Generation Reels
+
+Transfer Info:
+1st Generation Reels (Technics RS-1506)> Tascam DA-3000 (DSF 1-bit/5.6 MHz) > dBpoweramp .wav 24/96 > Adobe Audition 3.0 24/96 > TLH flac2496
+
+Notes:
+- Thanks to Tom Ordon for recording the FM broadcast
+- Thanks to Matt Smith for the 1st Generation Reel source and transfer
+- Thanks to Charlie Miller for coordinating this effort
+- DJ banter and tunings intact
+- "Good Morning Little Schoolgirl" fades in , several minutes missing
+- Cut in "Good Morning Little Schoolgirl"
+- First notes of "Cryptical Envelopment" clipped
+- Conclusion of "Viola Lee Blues" sung acapella after the plug is pulled on their instruments, presumably, for playing past curfew
+- Pitch corrected
+
+Mastered by Scott Clugston
+May 31, 2018
+
+Set One:
+t01 - DJ Intro >
+      //Good Morning Little Schoolgirl 
+t02 - Beat It On Down The Line 
+t03 - It's All Over Now, Baby Blue 
+t04 - I'm A King Bee 
+
+Set Two:
+t05 - DJ Intro >
+      //Cryptical Envelopment > 
+      Drums > 
+t06 - The Other One > 
+t07 - Cryptical Envelopment > 
+t08 - Death Don't Have No Mercy 
+t09 - Turn On Your Lovelight
+t10 - Viola Lee Blues   
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:53.827      90974764 B   cxx   --   ---xx   flac  0.5687  gd69-04-06 t01 Good Morning Little Schoolgirl.flac
+     3:30.280      40373804 B   cxx   --   ---xx   flac  0.5855  gd69-04-06 t02 Beat It On Down The Line.flac
+     7:55.693      91333164 B   cxx   --   ---xx   flac  0.5451  gd69-04-06 t03 It's All Over, Baby Blue.flac
+     7:46.360      89541164 B   cxx   --   ---xx   flac  0.5682  gd69-04-06 t04 I'm A King Bee.flac
+     2:11.520      25251884 B   cxx   --   ---xx   flac  0.6430  gd69-04-06 t05 Cryptical-Drums.flac
+    10:52.720     125322284 B   cxx   --   ---xx   flac  0.6775  gd69-04-06 t06 The Other One.flac
+    10:14.133     117913644 B   cxx   --   ---xx   flac  0.6626  gd69-04-06 t07 Cryptical Envelopment.flac
+    11:52.693     136837164 B   cxx   --   ---xx   flac  0.6279  gd69-04-06 t08 Death Don't Have No Mercy.flac
+    25:06.760     289297964 B   cxx   --   ---xx   flac  0.6641  gd69-04-06 t09 Turn On Your Lovelight.flac
+    12:52.961     148408488 B   cxx   --   ---xx   flac  0.6766  gd69-04-06 t10 Viola Lee Blues.flac
+   100:16.947    1155254324 B                            0.6352  (10 files)
+
+No errors occured.
+
+
+
+5f84b94e1598552d1fc241d7077cf0bf *gd1969-04-06.fm.smith.miller.clugston.flac1648.shntool_len.txt
+da00d081d3682b172075b53509e13e76 *gd1969-04-06.fm.smith.miller.clugston.flac1648.txt
+47ae2b328814506eeca72df9c7819336 *gd69-04-06 t01 Good Morning Little Schoolgirl.flac
+454e47e5ffe495a4af9d473528a32f31 *gd69-04-06 t02 Beat It On Down The Line.flac
+fc754a9d60dc4aaf575bf311c349a777 *gd69-04-06 t03 It's All Over, Baby Blue.flac
+c6635cac3e737e4f9a40c0a0526449f3 *gd69-04-06 t04 I'm A King Bee.flac
+915275fee6251694d59dfb07fa9d3c81 *gd69-04-06 t05 Cryptical-Drums.flac
+faef3a70aea2b333e72696d8610e4015 *gd69-04-06 t06 The Other One.flac
+1262270758504b35a461eb0b4ff16582 *gd69-04-06 t07 Cryptical Envelopment.flac
+03ff510b96d6cd300a969e82f40bac35 *gd69-04-06 t08 Death Don't Have No Mercy.flac
+7d777ec9bf852bc1a40618210b2f74d7 *gd69-04-06 t09 Turn On Your Lovelight.flac
+70f91f27860bc34b1d92c05613501f27 *gd69-04-06 t10 Viola Lee Blues.flac
+
+No errors occured.
+
